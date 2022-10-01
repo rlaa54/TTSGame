@@ -1,0 +1,1393 @@
+﻿Log file open, 09/27/22 21:07:09
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: TTSGame
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.092825
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 970
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.09.27-12.07.09:868][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.09.27-12.07.09:868][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.09.27-12.07.09:868][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Engine.ini]
+[2022.09.27-12.07.09:868][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.09.27-12.07.09:868][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2022.09.27-12.07.09:868][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2022.09.27-12.07.09:868][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2022.09.27-12.07.09:868][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2022.09.27-12.07.09:868][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2022.09.27-12.07.09:868][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2022.09.27-12.07.09:868][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2022.09.27-12.07.09:868][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2022.09.27-12.07.09:868][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2022.09.27-12.07.09:868][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2022.09.27-12.07.09:868][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2022.09.27-12.07.09:868][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2022.09.27-12.07.09:868][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2022.09.27-12.07.09:868][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2022.09.27-12.07.09:868][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2022.09.27-12.07.09:868][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2022.09.27-12.07.09:868][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2022.09.27-12.07.09:868][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2022.09.27-12.07.09:868][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2022.09.27-12.07.09:868][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2022.09.27-12.07.09:868][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2022.09.27-12.07.09:868][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2022.09.27-12.07.09:868][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2022.09.27-12.07.09:868][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2022.09.27-12.07.09:868][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2022.09.27-12.07.09:868][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2022.09.27-12.07.09:868][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2022.09.27-12.07.09:868][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2022.09.27-12.07.09:868][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2022.09.27-12.07.09:868][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2022.09.27-12.07.09:868][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2022.09.27-12.07.09:868][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2022.09.27-12.07.09:869][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2022.09.27-12.07.09:869][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2022.09.27-12.07.09:869][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2022.09.27-12.07.09:869][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2022.09.27-12.07.09:869][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2022.09.27-12.07.09:869][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2022.09.27-12.07.09:869][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2022.09.27-12.07.09:869][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2022.09.27-12.07.09:869][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2022.09.27-12.07.09:869][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2022.09.27-12.07.09:869][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2022.09.27-12.07.09:869][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2022.09.27-12.07.09:869][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2022.09.27-12.07.09:869][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2022.09.27-12.07.09:869][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2022.09.27-12.07.09:869][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:1]]
+[2022.09.27-12.07.09:869][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2022.09.27-12.07.09:869][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2022.09.27-12.07.09:869][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2022.09.27-12.07.09:869][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2022.09.27-12.07.09:869][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2022.09.27-12.07.09:869][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2022.09.27-12.07.09:869][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2022.09.27-12.07.09:869][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2022.09.27-12.07.09:869][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2022.09.27-12.07.09:869][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2022.09.27-12.07.09:869][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2022.09.27-12.07.09:869][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2022.09.27-12.07.09:869][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2022.09.27-12.07.09:869][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2022.09.27-12.07.09:869][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2022.09.27-12.07.09:869][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2022.09.27-12.07.09:869][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2022.09.27-12.07.09:869][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2022.09.27-12.07.09:869][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2022.09.27-12.07.09:869][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2022.09.27-12.07.09:869][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2022.09.27-12.07.09:869][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2022.09.27-12.07.09:869][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2022.09.27-12.07.09:869][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2022.09.27-12.07.09:869][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2022.09.27-12.07.09:869][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2022.09.27-12.07.09:869][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2022.09.27-12.07.09:869][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2022.09.27-12.07.09:869][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2022.09.27-12.07.09:870][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2022.09.27-12.07.09:870][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2022.09.27-12.07.09:870][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2022.09.27-12.07.09:870][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2022.09.27-12.07.09:870][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2022.09.27-12.07.09:870][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2022.09.27-12.07.09:870][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2022.09.27-12.07.09:870][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2022.09.27-12.07.09:870][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2022.09.27-12.07.09:870][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2022.09.27-12.07.09:870][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2022.09.27-12.07.09:870][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2022.09.27-12.07.09:870][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2022.09.27-12.07.09:870][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2022.09.27-12.07.09:870][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2022.09.27-12.07.09:870][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Engine.ini]
+[2022.09.27-12.07.09:870][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Engine.ini]
+[2022.09.27-12.07.09:870][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.09.27-12.07.09:870][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.09.27-12.07.09:870][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.09.27-12.07.09:870][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.09.27-12.07.09:870][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.09.27-12.07.09:870][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.09.27-12.07.09:870][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.09.27-12.07.09:870][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.09.27-12.07.09:870][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.09.27-12.07.09:870][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.09.27-12.07.09:870][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.09.27-12.07.09:870][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.09.27-12.07.09:870][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.09.27-12.07.09:870][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Engine.ini]
+[2022.09.27-12.07.09:870][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.09.27-12.07.09:870][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.09.27-12.07.09:870][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.09.27-12.07.09:870][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.09.27-12.07.09:870][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.09.27-12.07.09:870][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.09.27-12.07.09:870][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2022.09.27-12.07.09:870][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.09.27-12.07.09:870][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.09.27-12.07.09:870][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.09.27-12.07.09:870][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.09.27-12.07.09:870][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.09.27-12.07.09:870][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.09.27-12.07.09:870][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Engine.ini]
+[2022.09.27-12.07.09:870][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Engine.ini]
+[2022.09.27-12.07.09:878][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Scalability.ini]
+[2022.09.27-12.07.09:878][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.09.27-12.07.09:878][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.09.27-12.07.09:878][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Scalability.ini]
+[2022.09.27-12.07.09:878][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.09.27-12.07.09:878][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Scalability.ini]
+[2022.09.27-12.07.09:878][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.09.27-12.07.09:878][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.09.27-12.07.09:878][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.09.27-12.07.09:878][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.09.27-12.07.09:878][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.09.27-12.07.09:878][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.09.27-12.07.09:878][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.09.27-12.07.09:878][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.09.27-12.07.09:878][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.09.27-12.07.09:878][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.09.27-12.07.09:878][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.09.27-12.07.09:878][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.09.27-12.07.09:878][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.09.27-12.07.09:878][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.09.27-12.07.09:878][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.09.27-12.07.09:878][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.09.27-12.07.09:878][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.09.27-12.07.09:878][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.09.27-12.07.09:878][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Scalability.ini]
+[2022.09.27-12.07.09:878][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.09.27-12.07.09:878][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.09.27-12.07.09:878][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.09.27-12.07.09:878][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.09.27-12.07.09:878][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.09.27-12.07.09:878][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.09.27-12.07.09:878][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.09.27-12.07.09:878][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.09.27-12.07.09:878][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.09.27-12.07.09:878][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.09.27-12.07.09:878][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.09.27-12.07.09:878][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.09.27-12.07.09:878][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.09.27-12.07.09:878][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.09.27-12.07.09:878][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.09.27-12.07.09:878][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.09.27-12.07.09:878][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.09.27-12.07.09:878][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.09.27-12.07.09:878][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.09.27-12.07.09:878][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.09.27-12.07.09:878][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.09.27-12.07.09:878][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.09.27-12.07.09:878][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.09.27-12.07.09:878][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.09.27-12.07.09:878][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.09.27-12.07.09:878][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.09.27-12.07.09:878][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.09.27-12.07.09:879][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.09.27-12.07.09:879][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.09.27-12.07.09:879][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.09.27-12.07.09:879][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Scalability.ini]
+[2022.09.27-12.07.09:879][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.09.27-12.07.09:879][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.09.27-12.07.09:879][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.09.27-12.07.09:879][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.09.27-12.07.09:879][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.09.27-12.07.09:879][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.09.27-12.07.09:879][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.09.27-12.07.09:879][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.09.27-12.07.09:879][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Scalability.ini]
+[2022.09.27-12.07.09:879][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.09.27-12.07.09:879][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.09.27-12.07.09:879][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.09.27-12.07.09:879][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.09.27-12.07.09:879][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.09.27-12.07.09:879][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.09.27-12.07.09:879][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.09.27-12.07.09:879][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.09.27-12.07.09:879][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.09.27-12.07.09:879][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.09.27-12.07.09:879][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2022.09.27-12.07.09:879][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.09.27-12.07.09:879][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.09.27-12.07.09:879][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Scalability.ini]
+[2022.09.27-12.07.09:879][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.09.27-12.07.09:879][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.09.27-12.07.09:879][  0]LogInit: Selected Device Profile: [Windows]
+[2022.09.27-12.07.09:879][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.09.27-12.07.09:882][  0]LogHAL: Display: Platform has ~ 16 GB [17097846784 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.09.27-12.07.09:882][  0]LogInit: Going up to parent DeviceProfile []
+[2022.09.27-12.07.09:882][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Scalability.ini]
+[2022.09.27-12.07.09:882][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.09.27-12.07.09:882][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.09.27-12.07.09:882][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Scalability.ini]
+[2022.09.27-12.07.09:882][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.09.27-12.07.09:882][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Scalability.ini]
+[2022.09.27-12.07.09:882][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.09.27-12.07.09:882][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.09.27-12.07.09:882][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.09.27-12.07.09:882][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.09.27-12.07.09:882][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.09.27-12.07.09:882][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.09.27-12.07.09:882][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.09.27-12.07.09:882][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.09.27-12.07.09:882][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.09.27-12.07.09:882][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.09.27-12.07.09:883][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.09.27-12.07.09:883][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.09.27-12.07.09:883][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.09.27-12.07.09:883][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.09.27-12.07.09:883][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.09.27-12.07.09:883][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.09.27-12.07.09:883][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.09.27-12.07.09:883][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.09.27-12.07.09:883][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Scalability.ini]
+[2022.09.27-12.07.09:883][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.09.27-12.07.09:883][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.09.27-12.07.09:883][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.09.27-12.07.09:883][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.09.27-12.07.09:883][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.09.27-12.07.09:883][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.09.27-12.07.09:883][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.09.27-12.07.09:883][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.09.27-12.07.09:883][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.09.27-12.07.09:883][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.09.27-12.07.09:883][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.09.27-12.07.09:883][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.09.27-12.07.09:883][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.09.27-12.07.09:883][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.09.27-12.07.09:883][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.09.27-12.07.09:883][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.09.27-12.07.09:883][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.09.27-12.07.09:883][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.09.27-12.07.09:883][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.09.27-12.07.09:883][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.09.27-12.07.09:883][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.09.27-12.07.09:883][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.09.27-12.07.09:883][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.09.27-12.07.09:883][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.09.27-12.07.09:883][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.09.27-12.07.09:883][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.09.27-12.07.09:883][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.09.27-12.07.09:883][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.09.27-12.07.09:883][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.09.27-12.07.09:883][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.09.27-12.07.09:883][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Scalability.ini]
+[2022.09.27-12.07.09:883][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.09.27-12.07.09:883][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.09.27-12.07.09:883][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.09.27-12.07.09:883][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.09.27-12.07.09:883][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.09.27-12.07.09:883][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.09.27-12.07.09:883][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.09.27-12.07.09:883][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.09.27-12.07.09:883][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Scalability.ini]
+[2022.09.27-12.07.09:883][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.09.27-12.07.09:883][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.09.27-12.07.09:883][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.09.27-12.07.09:883][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.09.27-12.07.09:883][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.09.27-12.07.09:883][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.09.27-12.07.09:883][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.09.27-12.07.09:883][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.09.27-12.07.09:883][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.09.27-12.07.09:883][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.09.27-12.07.09:883][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2022.09.27-12.07.09:883][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.09.27-12.07.09:883][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.09.27-12.07.09:883][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Scalability.ini]
+[2022.09.27-12.07.09:883][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.09.27-12.07.09:883][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.09.27-12.07.09:884][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.09.27-12.07.09:884][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.09.27-12.07.09:884][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.09.27-12.07.09:884][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Engine.ini]
+[2022.09.27-12.07.09:884][  0]LogInit: Computer: DESKTOP-MURC6HF
+[2022.09.27-12.07.09:884][  0]LogInit: User: kimminwoong
+[2022.09.27-12.07.09:884][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.09.27-12.07.09:884][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.09.27-12.07.09:884][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.09.27-12.07.09:884][  0]LogMemory: Platform Memory Stats for Windows
+[2022.09.27-12.07.09:884][  0]LogMemory: Process Physical Memory: 103.59 MB used, 103.59 MB peak
+[2022.09.27-12.07.09:884][  0]LogMemory: Process Virtual Memory: 88.84 MB used, 88.84 MB peak
+[2022.09.27-12.07.09:884][  0]LogMemory: Physical Memory: 9443.06 MB used,  6862.71 MB free, 16305.78 MB total
+[2022.09.27-12.07.09:884][  0]LogMemory: Virtual Memory: 4658.50 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2022.09.27-12.07.09:890][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.09.27-12.07.10:029][  0]LogInit: Overriding language with editor language configuration option (en).
+[2022.09.27-12.07.10:029][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2022.09.27-12.07.10:229][  0]LogInit: Setting process to per monitor DPI aware
+[2022.09.27-12.07.10:312][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.09.27-12.07.10:312][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.09.27-12.07.10:599][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.09.27-12.07.10:599][  0]LogD3D11RHI: D3D11 adapters:
+[2022.09.27-12.07.10:813][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2022.09.27-12.07.10:813][  0]LogD3D11RHI:       4043/0/8152 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2022.09.27-12.07.10:817][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.09.27-12.07.10:817][  0]LogD3D11RHI:       0/0/8152 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.09.27-12.07.10:817][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.09.27-12.07.10:826][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.09.27-12.07.10:827][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2022.09.27-12.07.10:827][  0]LogWindows: EnumDisplayDevices:
+[2022.09.27-12.07.10:827][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2022.09.27-12.07.10:828][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2022.09.27-12.07.10:829][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2022.09.27-12.07.10:830][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2022.09.27-12.07.10:832][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.09.27-12.07.10:832][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2022.09.27-12.07.10:832][  0]LogD3D11RHI:   Driver Version: 516.94 (internal:31.0.15.1694, unified:516.94)
+[2022.09.27-12.07.10:832][  0]LogD3D11RHI:      Driver Date: 7-21-2022
+[2022.09.27-12.07.10:832][  0]LogRHI: Texture pool is 2830 MB (70% of 4043 MB)
+[2022.09.27-12.07.10:911][  0]LogD3D11RHI: Async texture creation enabled
+[2022.09.27-12.07.10:940][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.09.27-12.07.11:452][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2022.09.27-12.07.11:461][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2022.09.27-12.07.11:471][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2022.09.27-12.07.11:481][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2022.09.27-12.07.11:491][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2022.09.27-12.07.11:501][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2022.09.27-12.07.11:510][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2022.09.27-12.07.11:519][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2022.09.27-12.07.11:523][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2022.09.27-12.07.11:561][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2022.09.27-12.07.11:561][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2022.09.27-12.07.11:561][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2022.09.27-12.07.11:561][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2022.09.27-12.07.11:561][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2022.09.27-12.07.11:561][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2022.09.27-12.07.11:562][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2022.09.27-12.07.11:562][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2022.09.27-12.07.11:562][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2022.09.27-12.07.11:562][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2022.09.27-12.07.11:562][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2022.09.27-12.07.11:562][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2022.09.27-12.07.11:562][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2022.09.27-12.07.11:562][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2022.09.27-12.07.11:562][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2022.09.27-12.07.11:562][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2022.09.27-12.07.11:562][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2022.09.27-12.07.11:562][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2022.09.27-12.07.11:565][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2022.09.27-12.07.11:584][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2022.09.27-12.07.11:584][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2022.09.27-12.07.11:598][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2022.09.27-12.07.11:598][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2022.09.27-12.07.11:605][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2022.09.27-12.07.11:614][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2022.09.27-12.07.11:620][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2022.09.27-12.07.11:628][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2022.09.27-12.07.11:655][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2022.09.27-12.07.11:655][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2022.09.27-12.07.11:655][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.09.27-12.07.11:667][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.09.27-12.07.11:723][  0]LogShaderCompilers: Guid format shader working directory is 18 characters bigger than the processId version (../../../../UnrealProject/TTSGame/Intermediate/Shaders/WorkingDirectory/23892/).
+[2022.09.27-12.07.11:724][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/kimminwoong/AppData/Local/Temp/UnrealShaderWorkingDir/C41224F545A4808A3591498E0071AFA0/'.
+[2022.09.27-12.07.11:726][  0]LogXGEController: Cleaning working directory: C:/Users/kimminwoong/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2022.09.27-12.07.11:726][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.09.27-12.07.11:727][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.09.27-12.07.11:727][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.09.27-12.07.12:388][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.09.27-12.07.12:438][  0]LogDerivedDataCache: Loaded boot cache 0.05s 73MB C:/Users/kimminwoong/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2022.09.27-12.07.12:438][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/kimminwoong/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2022.09.27-12.07.12:438][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../UnrealProject/TTSGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.09.27-12.07.12:438][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.09.27-12.07.12:438][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../UnrealProject/TTSGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.09.27-12.07.12:438][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.09.27-12.07.12:450][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.09.27-12.07.12:450][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.09.27-12.07.12:450][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.09.27-12.07.12:452][  0]LogDerivedDataCache: Using Local data cache path C:/Users/kimminwoong/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.09.27-12.07.12:452][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.09.27-12.07.12:452][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.09.27-12.07.12:475][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2022.09.27-12.07.12:478][  0]LogSlate: Using FreeType 2.6.0
+[2022.09.27-12.07.12:478][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.09.27-12.07.12:554][  0]LogAssetRegistry: FAssetRegistry took 0.0029 seconds to start up
+[2022.09.27-12.07.12:820][  0]LogInit: Selected Device Profile: [Windows]
+[2022.09.27-12.07.12:976][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.09.27-12.07.12:976][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.09.27-12.07.12:976][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.09.27-12.07.12:976][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.09.27-12.07.12:976][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.09.27-12.07.12:986][  0]LogNetVersion: TTSGame 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 1457153238)
+[2022.09.27-12.07.13:412][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.046842 seconds
+[2022.09.27-12.07.13:419][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2022.09.27-12.07.13:419][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2022.09.27-12.07.13:419][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.09.27-12.07.14:506][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.09.27-12.07.14:509][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.09.27-12.07.14:568][  0]SourceControl: Source control is disabled
+[2022.09.27-12.07.14:568][  0]SourceControl: Source control is disabled
+[2022.09.27-12.07.14:569][  0]SourceControl: Source control is disabled
+[2022.09.27-12.07.14:571][  0]SourceControl: Source control is disabled
+[2022.09.27-12.07.14:680][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.09.27-12.07.15:039][  0]LogOcInput: OculusInput pre-init called
+[2022.09.27-12.07.15:045][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.09.27-12.07.15:045][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.09.27-12.07.15:116][  0]LogEngine: Initializing Engine...
+[2022.09.27-12.07.15:118][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.09.27-12.07.15:119][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.09.27-12.07.15:367][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.09.27-12.07.15:381][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.09.27-12.07.15:518][  0]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.09.27-12.07.15:583][  0]LogInit: FAudioDevice initialized.
+[2022.09.27-12.07.15:583][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.09.27-12.07.15:667][  0]LogDerivedDataCache: Saved boot cache 0.08s 73MB C:/Users/kimminwoong/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2022.09.27-12.07.15:671][  0]LogInit: Texture streaming: Enabled
+[2022.09.27-12.07.15:695][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.09.27-12.07.15:695][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.09.27-12.07.15:698][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.09.27-12.07.15:741][  0]LogInit: Transaction tracking system initialized
+[2022.09.27-12.07.15:771][  0]BlueprintLog: New page: Editor Load
+[2022.09.27-12.07.15:877][  0]LocalizationService: Localization service is disabled
+[2022.09.27-12.07.16:115][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProject/TTSGame/Content/' took 0.00s
+[2022.09.27-12.07.16:115][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2022.09.27-12.07.16:115][  0]LogCook: Display: Mobile HDR setting 1
+[2022.09.27-12.07.16:329][  0]SourceControl: Source control is disabled
+[2022.09.27-12.07.16:329][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.09.27-12.07.16:330][  0]LightingResults: New page: Lighting Build
+[2022.09.27-12.07.16:333][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.09.27-12.07.16:333][  0]MapCheck: New page: Map Check
+[2022.09.27-12.07.16:333][  0]LightingResults: New page: Lighting Build
+[2022.09.27-12.07.16:358][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2022.09.27-12.07.16:436][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2022.09.27-12.07.16:442][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.09.27-12.07.16:465][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.09.27-12.07.16:466][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.09.27-12.07.16:466][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.126ms to complete.
+[2022.09.27-12.07.16:466][  0]LogFileHelpers: Loading map 'Template_Default' took 0.136
+[2022.09.27-12.07.16:602][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.27-12.07.16:609][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.27-12.07.16:616][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.27-12.07.16:623][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.27-12.07.16:629][  0]LogCollectionManager: Loaded 0 collections in 0.001747 seconds
+[2022.09.27-12.07.16:637][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProject/TTSGame/Saved/Collections/' took 0.00s
+[2022.09.27-12.07.16:638][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProject/TTSGame/Content/Developers/kimminwoong/Collections/' took 0.00s
+[2022.09.27-12.07.16:638][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProject/TTSGame/Content/Collections/' took 0.00s
+[2022.09.27-12.07.16:638][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2022.09.27-12.07.16:645][  0]LogContentBrowser: Native class hierarchy populated in 0.0074 seconds. Added 2863 classes and 680 folders.
+[2022.09.27-12.07.16:651][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.09.27-12.07.16:713][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.09.27-12.07.16:721][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2022.09.27-12.07.16:793][  0]LogSlate: Took 0.000312 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.09.27-12.07.16:794][  0]LogSlate: Took 0.000263 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.09.27-12.07.16:800][  0]LogSlate: Took 0.000283 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.09.27-12.07.16:871][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2022.09.27-12.07.16:974][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.09.27-12.07.16:974][  0]LogLoad: (Engine Initialization) Total time: 8.78 seconds
+[2022.09.27-12.07.16:974][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.09.27-12.07.17:029][  0]LogAssetRegistry: Asset discovery search completed in 4.4762 seconds
+[2022.09.27-12.07.17:033][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000006 seconds (found 0 objects)
+[2022.09.27-12.07.17:033][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000128 seconds (updated 0 objects)
+[2022.09.27-12.07.17:035][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.09.27-12.07.17:056][  0]LogSlate: Took 0.000268 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.09.27-12.07.24:002][828]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.09.27-12.07.38:109][473]LogSlate: Took 0.000327 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.09.27-12.07.38:128][473]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Aim_Space_Hip.Aim_Space_Hip
+[2022.09.27-12.07.38:128][473]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Aim_Space_Hip.Aim_Space_Hip) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2022.09.27-12.07.38:132][473]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Aim_Space_Ironsights.Aim_Space_Ironsights
+[2022.09.27-12.07.38:132][473]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Aim_Space_Ironsights.Aim_Space_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2022.09.27-12.07.38:232][473]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_to_Stand_Rifle_Hip.Crouch_to_Stand_Rifle_Hip
+[2022.09.27-12.07.38:232][473]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Crouch_to_Stand_Rifle_Hip.Crouch_to_Stand_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2022.09.27-12.07.38:235][473]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_to_Stand_Rifle_Ironsights.Crouch_to_Stand_Rifle_Ironsights
+[2022.09.27-12.07.38:235][473]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Crouch_to_Stand_Rifle_Ironsights.Crouch_to_Stand_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_5) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2022.09.27-12.07.38:238][473]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Ironsights.Crouch_Walk_Bwd_Rifle_Ironsights
+[2022.09.27-12.07.38:238][473]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Ironsights.Crouch_Walk_Bwd_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_7) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2022.09.27-12.07.38:250][473]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Lt_Rifle_Ironsights.Crouch_Walk_Lt_Rifle_Ironsights
+[2022.09.27-12.07.38:250][473]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Crouch_Walk_Lt_Rifle_Ironsights.Crouch_Walk_Lt_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_11) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2022.09.27-12.07.38:253][473]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Rt_Rifle_Ironsights.Crouch_Walk_Rt_Rifle_Ironsights
+[2022.09.27-12.07.38:253][473]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Crouch_Walk_Rt_Rifle_Ironsights.Crouch_Walk_Rt_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_13) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2022.09.27-12.07.38:257][473]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Death_1.Death_1
+[2022.09.27-12.07.38:257][473]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Death_1.Death_1) using current/default (AnimCompress_BitwiseCompressOnly_14) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2022.09.27-12.07.38:261][473]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Death_2.Death_2
+[2022.09.27-12.07.38:261][473]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Death_2.Death_2) using current/default (AnimCompress_BitwiseCompressOnly_15) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2022.09.27-12.07.38:264][473]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Death_3.Death_3
+[2022.09.27-12.07.38:265][473]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Death_3.Death_3) using current/default (AnimCompress_BitwiseCompressOnly_16) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2022.09.27-12.07.38:269][473]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Death_Ironsights_1.Death_Ironsights_1
+[2022.09.27-12.07.38:269][473]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Death_Ironsights_1.Death_Ironsights_1) using current/default (AnimCompress_BitwiseCompressOnly_17) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2022.09.27-12.07.38:273][473]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Death_Ironsights_2.Death_Ironsights_2
+[2022.09.27-12.07.38:273][473]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Death_Ironsights_2.Death_Ironsights_2) using current/default (AnimCompress_BitwiseCompressOnly_18) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2022.09.27-12.07.38:285][473]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Equip_Rifle_Standing.Equip_Rifle_Standing
+[2022.09.27-12.07.38:285][473]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Equip_Rifle_Standing.Equip_Rifle_Standing) using current/default (AnimCompress_BitwiseCompressOnly_20) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2022.09.27-12.07.38:288][473]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Fire_Rifle_Hip.Fire_Rifle_Hip
+[2022.09.27-12.07.38:288][473]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Fire_Rifle_Hip.Fire_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_21) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2022.09.27-12.07.38:298][473]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Fire_Shotgun_Hip.Fire_Shotgun_Hip
+[2022.09.27-12.07.38:298][473]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Fire_Shotgun_Hip.Fire_Shotgun_Hip) using current/default (AnimCompress_BitwiseCompressOnly_23) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2022.09.27-12.07.38:300][473]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Fire_Shotgun_Ironsights.Fire_Shotgun_Ironsights
+[2022.09.27-12.07.38:300][473]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Fire_Shotgun_Ironsights.Fire_Shotgun_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_24) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2022.09.27-12.07.38:328][473]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Hit_React_4.Hit_React_4
+[2022.09.27-12.07.38:328][473]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Hit_React_4.Hit_React_4) using current/default (AnimCompress_BitwiseCompressOnly_28) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2022.09.27-12.07.38:332][473]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Idle_Pistol.Idle_Pistol
+[2022.09.27-12.07.38:332][473]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Idle_Pistol.Idle_Pistol) using current/default (AnimCompress_BitwiseCompressOnly_29) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2022.09.27-12.07.38:370][473]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Idle_Rifle_Ironsights.Idle_Rifle_Ironsights
+[2022.09.27-12.07.38:370][473]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Idle_Rifle_Ironsights.Idle_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_33) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2022.09.27-12.07.38:392][473]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jump_From_Stand_Ironsights.Jump_From_Stand_Ironsights
+[2022.09.27-12.07.38:392][473]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Jump_From_Stand_Ironsights.Jump_From_Stand_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_40) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2022.09.27-12.07.38:395][473]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_Death_1.Prone_Death_1
+[2022.09.27-12.07.38:395][473]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Prone_Death_1.Prone_Death_1) using current/default (AnimCompress_BitwiseCompressOnly_41) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2022.09.27-12.07.38:397][473]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_Death_2.Prone_Death_2
+[2022.09.27-12.07.38:397][473]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Prone_Death_2.Prone_Death_2) using current/default (AnimCompress_BitwiseCompressOnly_42) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2022.09.27-12.07.38:401][473]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_Fire_1.Prone_Fire_1
+[2022.09.27-12.07.38:401][473]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Prone_Fire_1.Prone_Fire_1) using current/default (AnimCompress_BitwiseCompressOnly_43) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2022.09.27-12.07.38:403][473]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_Fire_2.Prone_Fire_2
+[2022.09.27-12.07.38:403][473]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Prone_Fire_2.Prone_Fire_2) using current/default (AnimCompress_BitwiseCompressOnly_44) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2022.09.27-12.07.38:406][473]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_Idle.Prone_Idle
+[2022.09.27-12.07.38:406][473]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Prone_Idle.Prone_Idle) using current/default (AnimCompress_BitwiseCompressOnly_45) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2022.09.27-12.07.38:414][473]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_Reload_Rifle.Prone_Reload_Rifle
+[2022.09.27-12.07.38:415][473]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Prone_Reload_Rifle.Prone_Reload_Rifle) using current/default (AnimCompress_BitwiseCompressOnly_46) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2022.09.27-12.07.38:420][473]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_Reload_Shotgun.Prone_Reload_Shotgun
+[2022.09.27-12.07.38:420][473]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Prone_Reload_Shotgun.Prone_Reload_Shotgun) using current/default (AnimCompress_BitwiseCompressOnly_47) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2022.09.27-12.07.38:425][473]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_To_Stand.Prone_To_Stand
+[2022.09.27-12.07.38:425][473]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Prone_To_Stand.Prone_To_Stand) using current/default (AnimCompress_BitwiseCompressOnly_48) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2022.09.27-12.07.38:428][473]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Reload_Pistol.Reload_Pistol
+[2022.09.27-12.07.38:428][473]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Reload_Pistol.Reload_Pistol) using current/default (AnimCompress_BitwiseCompressOnly_49) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2022.09.27-12.07.38:444][473]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Reload_Rifle_Ironsights.Reload_Rifle_Ironsights
+[2022.09.27-12.07.38:444][473]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Reload_Rifle_Ironsights.Reload_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_51) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2022.09.27-12.07.38:449][473]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Reload_Shotgun_Hip.Reload_Shotgun_Hip
+[2022.09.27-12.07.38:449][473]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Reload_Shotgun_Hip.Reload_Shotgun_Hip) using current/default (AnimCompress_BitwiseCompressOnly_52) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2022.09.27-12.07.38:456][473]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Reload_Shotgun_Ironsights.Reload_Shotgun_Ironsights
+[2022.09.27-12.07.38:456][473]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Reload_Shotgun_Ironsights.Reload_Shotgun_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_53) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2022.09.27-12.07.38:666][473]LogAIModule: Creating AISystem for world Showcase
+[2022.09.27-12.07.38:667][473]LogActorComponent: RegisterComponentWithWorld: (/Game/AnimStarterPack/Showcase.Showcase:PersistentLevel.WorldSettings.StaticMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2022.09.27-12.07.38:674][473]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Sprint_Fwd_Rifle.Sprint_Fwd_Rifle
+[2022.09.27-12.07.38:674][473]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Sprint_Fwd_Rifle.Sprint_Fwd_Rifle) using current/default (AnimCompress_BitwiseCompressOnly_54) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2022.09.27-12.07.38:676][473]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Stand_to_Crouch_Rifle_Hip.Stand_to_Crouch_Rifle_Hip
+[2022.09.27-12.07.38:677][473]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Stand_to_Crouch_Rifle_Hip.Stand_to_Crouch_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_55) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2022.09.27-12.07.38:680][473]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Stand_to_Crouch_Rifle_Ironsights.Stand_to_Crouch_Rifle_Ironsights
+[2022.09.27-12.07.38:680][473]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Stand_to_Crouch_Rifle_Ironsights.Stand_to_Crouch_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_56) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2022.09.27-12.07.38:683][473]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Stand_To_Prone.Stand_To_Prone
+[2022.09.27-12.07.38:683][473]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Stand_To_Prone.Stand_To_Prone) using current/default (AnimCompress_BitwiseCompressOnly_57) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2022.09.27-12.07.38:739][473]LogBlueprint: Warning: [Compiler Ue4ASP_Character] InputAction Event references unknown Action 'Crouch' for  InputAction Crouch
+[2022.09.27-12.07.38:739][473]LogBlueprint: Warning: [Compiler Ue4ASP_Character] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2022.09.27-12.07.38:739][473]LogBlueprint: Warning: [Compiler Ue4ASP_Character] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2022.09.27-12.07.38:740][473]LogBlueprint: Warning: [Compiler Ue4ASP_Character] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2022.09.27-12.07.38:740][473]LogBlueprint: Warning: [Compiler Ue4ASP_Character] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2022.09.27-12.07.38:740][473]LogBlueprint: Warning: [Compiler Ue4ASP_Character] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2022.09.27-12.07.38:763][473]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Walk_Bwd_Rifle_Ironsights.Walk_Bwd_Rifle_Ironsights
+[2022.09.27-12.07.38:763][473]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Walk_Bwd_Rifle_Ironsights.Walk_Bwd_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_58) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2022.09.27-12.07.38:765][473]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Walk_Lt_Rifle_Ironsights.Walk_Lt_Rifle_Ironsights
+[2022.09.27-12.07.38:765][473]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Walk_Lt_Rifle_Ironsights.Walk_Lt_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_60) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2022.09.27-12.07.38:769][473]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Walk_Rt_Rifle_Ironsights.Walk_Rt_Rifle_Ironsights
+[2022.09.27-12.07.38:769][473]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Walk_Rt_Rifle_Ironsights.Walk_Rt_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_61) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2022.09.27-12.07.39:167][473]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2022.09.27-12.07.39:167][473]LogMetaData: Removing '/Game/Asset/AnimStarterPack/Showcase.SKEL_Showcase_C' ref from Metadata '/Game/AnimStarterPack/Showcase.PackageMetaData'
+[2022.09.27-12.07.39:167][473]LogMetaData: Removing '/Game/Asset/AnimStarterPack/Showcase.Showcase_C' ref from Metadata '/Game/AnimStarterPack/Showcase.PackageMetaData'
+[2022.09.27-12.07.39:167][473]LogMetaData: Removing '/Game/Asset/AnimStarterPack/Showcase.Showcase:PersistentLevel.Showcase.EventGraph.K2Node_Event_0' ref from Metadata '/Game/AnimStarterPack/Showcase.PackageMetaData'
+[2022.09.27-12.07.39:167][473]LogMetaData: Removing '/Game/Asset/AnimStarterPack/Showcase.Showcase:PersistentLevel.Showcase.EventGraph.K2Node_Event_1' ref from Metadata '/Game/AnimStarterPack/Showcase.PackageMetaData'
+[2022.09.27-12.07.39:201][473]LogMetaData: Removing '/Game/Asset/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character_C' ref from Metadata '/Game/AnimStarterPack/Ue4ASP_Character.PackageMetaData'
+[2022.09.27-12.07.39:201][473]LogMetaData: Removing '/Game/Asset/AnimStarterPack/Ue4ASP_Character.SKEL_Ue4ASP_Character_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_180' ref from Metadata '/Game/AnimStarterPack/Ue4ASP_Character.PackageMetaData'
+[2022.09.27-12.07.39:202][473]LogMetaData: Removing '/Game/Asset/AnimStarterPack/Ue4ASP_Character.SKEL_Ue4ASP_Character_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_243' ref from Metadata '/Game/AnimStarterPack/Ue4ASP_Character.PackageMetaData'
+[2022.09.27-12.07.39:202][473]LogMetaData: Removing '/Game/Asset/AnimStarterPack/Ue4ASP_Character.SKEL_Ue4ASP_Character_C:InpAxisEvt_Turn_K2Node_InputAxisEvent_256' ref from Metadata '/Game/AnimStarterPack/Ue4ASP_Character.PackageMetaData'
+[2022.09.27-12.07.39:202][473]LogMetaData: Removing '/Game/Asset/AnimStarterPack/Ue4ASP_Character.SKEL_Ue4ASP_Character_C:InpAxisEvt_LookUp_K2Node_InputAxisEvent_268' ref from Metadata '/Game/AnimStarterPack/Ue4ASP_Character.PackageMetaData'
+[2022.09.27-12.07.39:202][473]LogMetaData: Removing '/Game/Asset/AnimStarterPack/Ue4ASP_Character.SKEL_Ue4ASP_Character_C:Crouch Button Down' ref from Metadata '/Game/AnimStarterPack/Ue4ASP_Character.PackageMetaData'
+[2022.09.27-12.07.39:202][473]LogMetaData: Removing '/Game/Asset/AnimStarterPack/Ue4ASP_Character.SKEL_Ue4ASP_Character_C:Jump Button Down' ref from Metadata '/Game/AnimStarterPack/Ue4ASP_Character.PackageMetaData'
+[2022.09.27-12.07.39:202][473]LogMetaData: Removing '/Game/Asset/AnimStarterPack/Ue4ASP_Character.SKEL_Ue4ASP_Character_C:CameraBoom' ref from Metadata '/Game/AnimStarterPack/Ue4ASP_Character.PackageMetaData'
+[2022.09.27-12.07.39:202][473]LogMetaData: Removing '/Game/Asset/AnimStarterPack/Ue4ASP_Character.SKEL_Ue4ASP_Character_C:PlayerCamera' ref from Metadata '/Game/AnimStarterPack/Ue4ASP_Character.PackageMetaData'
+[2022.09.27-12.07.39:202][473]LogMetaData: Removing '/Game/Asset/AnimStarterPack/Ue4ASP_Character.SKEL_Ue4ASP_Character_C:UserConstructionScript' ref from Metadata '/Game/AnimStarterPack/Ue4ASP_Character.PackageMetaData'
+[2022.09.27-12.07.39:202][473]LogMetaData: Removing '/Game/Asset/AnimStarterPack/Ue4ASP_Character.SKEL_Ue4ASP_Character_C' ref from Metadata '/Game/AnimStarterPack/Ue4ASP_Character.PackageMetaData'
+[2022.09.27-12.07.39:202][473]LogMetaData: Removing '/Game/Asset/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character_C:Crouch Button Down' ref from Metadata '/Game/AnimStarterPack/Ue4ASP_Character.PackageMetaData'
+[2022.09.27-12.07.39:202][473]LogMetaData: Removing '/Game/Asset/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character_C:Jump Button Down' ref from Metadata '/Game/AnimStarterPack/Ue4ASP_Character.PackageMetaData'
+[2022.09.27-12.07.39:202][473]LogMetaData: Removing '/Game/Asset/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character_C:CameraBoom' ref from Metadata '/Game/AnimStarterPack/Ue4ASP_Character.PackageMetaData'
+[2022.09.27-12.07.39:202][473]LogMetaData: Removing '/Game/Asset/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character_C:PlayerCamera' ref from Metadata '/Game/AnimStarterPack/Ue4ASP_Character.PackageMetaData'
+[2022.09.27-12.07.39:207][473]LogMetaData: Removing '/Game/Asset/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2022.09.27-12.07.39:207][473]LogMetaData: Removing '/Game/Asset/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.SKEL_UE4ASP_HeroTPP_AnimBlueprint_C:BlueprintUpdateAnimation' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2022.09.27-12.07.39:207][473]LogMetaData: Removing '/Game/Asset/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.SKEL_UE4ASP_HeroTPP_AnimBlueprint_C:Crouching' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2022.09.27-12.07.39:207][473]LogMetaData: Removing '/Game/Asset/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.SKEL_UE4ASP_HeroTPP_AnimBlueprint_C:Jumping' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2022.09.27-12.07.39:207][473]LogMetaData: Removing '/Game/Asset/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.SKEL_UE4ASP_HeroTPP_AnimBlueprint_C:Enable Jump' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2022.09.27-12.07.39:207][473]LogMetaData: Removing '/Game/Asset/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.SKEL_UE4ASP_HeroTPP_AnimBlueprint_C:Direction' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2022.09.27-12.07.39:207][473]LogMetaData: Removing '/Game/Asset/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.SKEL_UE4ASP_HeroTPP_AnimBlueprint_C:Speed' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2022.09.27-12.07.39:207][473]LogMetaData: Removing '/Game/Asset/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.SKEL_UE4ASP_HeroTPP_AnimBlueprint_C:Can Jump' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2022.09.27-12.07.39:207][473]LogMetaData: Removing '/Game/Asset/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.SKEL_UE4ASP_HeroTPP_AnimBlueprint_C:AnimGraph' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2022.09.27-12.07.39:207][473]LogMetaData: Removing '/Game/Asset/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.SKEL_UE4ASP_HeroTPP_AnimBlueprint_C' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2022.09.27-12.07.39:207][473]LogMetaData: Removing '/Game/Asset/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:Crouching' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2022.09.27-12.07.39:207][473]LogMetaData: Removing '/Game/Asset/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:Jumping' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2022.09.27-12.07.39:207][473]LogMetaData: Removing '/Game/Asset/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:Enable Jump' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2022.09.27-12.07.39:207][473]LogMetaData: Removing '/Game/Asset/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:Direction' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2022.09.27-12.07.39:207][473]LogMetaData: Removing '/Game/Asset/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:Speed' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2022.09.27-12.07.39:207][473]LogMetaData: Removing '/Game/Asset/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:BlueprintUpdateAnimation' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2022.09.27-12.07.39:207][473]LogMetaData: Removing '/Game/Asset/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:AnimGraph' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2022.09.27-12.07.39:207][473]LogMetaData: Removing '/Game/Asset/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint_C:Can Jump' ref from Metadata '/Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.PackageMetaData'
+[2022.09.27-12.07.39:380][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/AnimStarterPack/Aim_Space_Hip" FILE="../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Aim_Space_Hip.uasset" SILENT=true
+[2022.09.27-12.07.39:393][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/Aim_Space_Hip391CB6AF4C44873B4D7829A7B67473E4.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Aim_Space_Hip.uasset'
+[2022.09.27-12.07.39:416][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/AnimStarterPack/Aim_Space_Ironsights" FILE="../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Aim_Space_Ironsights.uasset" SILENT=true
+[2022.09.27-12.07.39:429][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/Aim_Space_Ironsights973221B24257BB3246277E9BA5591A83.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Aim_Space_Ironsights.uasset'
+[2022.09.27-12.07.39:460][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/AnimStarterPack/BS_CrouchWalk" FILE="../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/BS_CrouchWalk.uasset" SILENT=true
+[2022.09.27-12.07.39:475][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/BS_CrouchWalk2A549F9244E2DC66FBF713999284A26F.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/BS_CrouchWalk.uasset'
+[2022.09.27-12.07.39:495][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/AnimStarterPack/BS_Jog" FILE="../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/BS_Jog.uasset" SILENT=true
+[2022.09.27-12.07.39:508][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/BS_Jog5D0E76754A99BB0B957A7F9A8DE5BDBE.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/BS_Jog.uasset'
+[2022.09.27-12.07.39:526][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/AnimStarterPack/Crouch_Idle_Rifle_Hip" FILE="../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Crouch_Idle_Rifle_Hip.uasset" SILENT=true
+[2022.09.27-12.07.39:537][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/Crouch_Idle_Rifle_HipC5E4238648F5875FE3F0CBB70143CABA.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Crouch_Idle_Rifle_Hip.uasset'
+[2022.09.27-12.07.39:566][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/Crouch_Idle_Rifle_IronsightsA7E09B074FD1244CD12D7AA0A67576C2.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Crouch_Idle_Rifle_Ironsights.uasset'
+[2022.09.27-12.07.39:582][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/AnimStarterPack/Crouch_to_Stand_Rifle_Hip" FILE="../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Crouch_to_Stand_Rifle_Hip.uasset" SILENT=true
+[2022.09.27-12.07.39:593][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/Crouch_to_Stand_Rifle_Hip9FE2283F41AB541606E6669143822B43.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Crouch_to_Stand_Rifle_Hip.uasset'
+[2022.09.27-12.07.39:624][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/Crouch_to_Stand_Rifle_IronsightsD9952FCF48439A04511625BD764D0224.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Crouch_to_Stand_Rifle_Ironsights.uasset'
+[2022.09.27-12.07.39:642][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Hip" FILE="../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Hip.uasset" SILENT=true
+[2022.09.27-12.07.39:654][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/Crouch_Walk_Bwd_Rifle_HipB59227F147A711CE8233A7B203BAE21C.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Hip.uasset'
+[2022.09.27-12.07.39:683][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/Crouch_Walk_Bwd_Rifle_Ironsights32FFF2774B0A6AD42027FFA84C7F9A4A.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Ironsights.uasset'
+[2022.09.27-12.07.39:701][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Hip" FILE="../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Hip.uasset" SILENT=true
+[2022.09.27-12.07.39:713][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/Crouch_Walk_Fwd_Rifle_HipB6300ABF40B47CD732F98C8A0A1A1CEA.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Hip.uasset'
+[2022.09.27-12.07.39:742][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/Crouch_Walk_Fwd_Rifle_Ironsights25DF4FB14AAFE09B34964CB086A708BF.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Ironsights.uasset'
+[2022.09.27-12.07.39:760][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/AnimStarterPack/Crouch_Walk_Lt_Rifle_Hip" FILE="../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Crouch_Walk_Lt_Rifle_Hip.uasset" SILENT=true
+[2022.09.27-12.07.39:773][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/Crouch_Walk_Lt_Rifle_Hip9A09BA9E48681FCF34B475A45BEA9F10.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Crouch_Walk_Lt_Rifle_Hip.uasset'
+[2022.09.27-12.07.39:810][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/Crouch_Walk_Lt_Rifle_Ironsights18E97EA2498C1429FFE13087FC619869.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Crouch_Walk_Lt_Rifle_Ironsights.uasset'
+[2022.09.27-12.07.39:827][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/AnimStarterPack/Crouch_Walk_Rt_Rifle_Hip" FILE="../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Crouch_Walk_Rt_Rifle_Hip.uasset" SILENT=true
+[2022.09.27-12.07.39:838][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/Crouch_Walk_Rt_Rifle_Hip2DD7DDCC4EC08A7586FB56AC680C5406.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Crouch_Walk_Rt_Rifle_Hip.uasset'
+[2022.09.27-12.07.39:865][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/Crouch_Walk_Rt_Rifle_IronsightsBF0465EF4652FA5B2B453492909D24A7.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Crouch_Walk_Rt_Rifle_Ironsights.uasset'
+[2022.09.27-12.07.39:884][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/AnimStarterPack/Death_1" FILE="../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Death_1.uasset" SILENT=true
+[2022.09.27-12.07.39:895][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/Death_18B975224467169D0B0440D9AD94100C5.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Death_1.uasset'
+[2022.09.27-12.07.39:912][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/AnimStarterPack/Death_2" FILE="../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Death_2.uasset" SILENT=true
+[2022.09.27-12.07.39:923][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/Death_2744A58664D7C6B8920E8F9BF03F3583F.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Death_2.uasset'
+[2022.09.27-12.07.39:943][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/AnimStarterPack/Death_3" FILE="../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Death_3.uasset" SILENT=true
+[2022.09.27-12.07.39:957][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/Death_32C9A1BCD4EF4B219655788AAFBA2DEA6.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Death_3.uasset'
+[2022.09.27-12.07.39:974][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/AnimStarterPack/Death_Ironsights_1" FILE="../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Death_Ironsights_1.uasset" SILENT=true
+[2022.09.27-12.07.39:987][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/Death_Ironsights_13815BC654F50D03F63EB6CAA32B06B81.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Death_Ironsights_1.uasset'
+[2022.09.27-12.07.40:003][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/AnimStarterPack/Death_Ironsights_2" FILE="../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Death_Ironsights_2.uasset" SILENT=true
+[2022.09.27-12.07.40:014][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/Death_Ironsights_22DEBF94A4857AEEB5E2A5D8E4C2D3D47.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Death_Ironsights_2.uasset'
+[2022.09.27-12.07.40:031][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/AnimStarterPack/Equip_Pistol_Standing" FILE="../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Equip_Pistol_Standing.uasset" SILENT=true
+[2022.09.27-12.07.40:044][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/Equip_Pistol_Standing71B9E10F4AACB7AE82620AB265EF8CDD.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Equip_Pistol_Standing.uasset'
+[2022.09.27-12.07.40:060][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/AnimStarterPack/Equip_Rifle_Standing" FILE="../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Equip_Rifle_Standing.uasset" SILENT=true
+[2022.09.27-12.07.40:073][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/Equip_Rifle_StandingF3754E65433F2280C64B099F5BA0F126.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Equip_Rifle_Standing.uasset'
+[2022.09.27-12.07.40:090][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/AnimStarterPack/Fire_Rifle_Hip" FILE="../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Fire_Rifle_Hip.uasset" SILENT=true
+[2022.09.27-12.07.40:102][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/Fire_Rifle_Hip0B1B2EC84C05F5EE2A4443BA17275FAC.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Fire_Rifle_Hip.uasset'
+[2022.09.27-12.07.40:117][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/AnimStarterPack/Fire_Rifle_Ironsights" FILE="../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Fire_Rifle_Ironsights.uasset" SILENT=true
+[2022.09.27-12.07.40:128][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/Fire_Rifle_IronsightsC47272D24CCE6DFE611441BF88AB3469.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Fire_Rifle_Ironsights.uasset'
+[2022.09.27-12.07.40:144][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/AnimStarterPack/Fire_Shotgun_Hip" FILE="../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Fire_Shotgun_Hip.uasset" SILENT=true
+[2022.09.27-12.07.40:155][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/Fire_Shotgun_Hip779ED0444BA1C69B8B08E0A417D8076C.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Fire_Shotgun_Hip.uasset'
+[2022.09.27-12.07.40:173][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/AnimStarterPack/Fire_Shotgun_Ironsights" FILE="../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Fire_Shotgun_Ironsights.uasset" SILENT=true
+[2022.09.27-12.07.40:187][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/Fire_Shotgun_IronsightsFD7C046E4E9797D749487F9145024544.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Fire_Shotgun_Ironsights.uasset'
+[2022.09.27-12.07.40:206][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/AnimStarterPack/Hit_React_1" FILE="../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Hit_React_1.uasset" SILENT=true
+[2022.09.27-12.07.40:220][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/Hit_React_1C2A3E1BF4CF4A878190197A1D9619441.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Hit_React_1.uasset'
+[2022.09.27-12.07.40:240][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/AnimStarterPack/Hit_React_2" FILE="../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Hit_React_2.uasset" SILENT=true
+[2022.09.27-12.07.40:253][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/Hit_React_20395F3CF4308EEF5E56801B9CA1C80B8.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Hit_React_2.uasset'
+[2022.09.27-12.07.40:269][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/AnimStarterPack/Hit_React_3" FILE="../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Hit_React_3.uasset" SILENT=true
+[2022.09.27-12.07.40:281][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/Hit_React_323F88B0E4CC5AC941CEDF58FBF420494.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Hit_React_3.uasset'
+[2022.09.27-12.07.40:297][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/AnimStarterPack/Hit_React_4" FILE="../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Hit_React_4.uasset" SILENT=true
+[2022.09.27-12.07.40:308][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/Hit_React_4696B653D4911F533B3F6C0B82A2DE5DC.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Hit_React_4.uasset'
+[2022.09.27-12.07.40:324][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/AnimStarterPack/Idle_Pistol" FILE="../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Idle_Pistol.uasset" SILENT=true
+[2022.09.27-12.07.40:336][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/Idle_PistolF3FD412044D9261EB9EC9395FD2B042C.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Idle_Pistol.uasset'
+[2022.09.27-12.07.40:353][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/AnimStarterPack/Idle_Rifle_Hip" FILE="../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Idle_Rifle_Hip.uasset" SILENT=true
+[2022.09.27-12.07.40:364][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/Idle_Rifle_Hip140E860F48017B0149027A93E87C92C2.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Idle_Rifle_Hip.uasset'
+[2022.09.27-12.07.40:382][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/AnimStarterPack/Idle_Rifle_Hip_Break1" FILE="../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Idle_Rifle_Hip_Break1.uasset" SILENT=true
+[2022.09.27-12.07.40:395][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/Idle_Rifle_Hip_Break142887368494E36F73DB0F985298E11B8.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Idle_Rifle_Hip_Break1.uasset'
+[2022.09.27-12.07.40:412][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/AnimStarterPack/Idle_Rifle_Hip_Break2" FILE="../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Idle_Rifle_Hip_Break2.uasset" SILENT=true
+[2022.09.27-12.07.40:425][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/Idle_Rifle_Hip_Break2E4100B1B4045F68719E05293E66039BB.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Idle_Rifle_Hip_Break2.uasset'
+[2022.09.27-12.07.40:441][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/AnimStarterPack/Idle_Rifle_Ironsights" FILE="../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Idle_Rifle_Ironsights.uasset" SILENT=true
+[2022.09.27-12.07.40:454][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/Idle_Rifle_Ironsights953F586B45BD55C6D69985A88AA58327.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Idle_Rifle_Ironsights.uasset'
+[2022.09.27-12.07.40:470][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/AnimStarterPack/Jog_Bwd_Rifle" FILE="../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Jog_Bwd_Rifle.uasset" SILENT=true
+[2022.09.27-12.07.40:481][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/Jog_Bwd_Rifle035726B44FAD25DE85081990468547E3.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Jog_Bwd_Rifle.uasset'
+[2022.09.27-12.07.40:498][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/AnimStarterPack/Jog_Fwd_Rifle" FILE="../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Jog_Fwd_Rifle.uasset" SILENT=true
+[2022.09.27-12.07.40:512][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/Jog_Fwd_Rifle34445D7B47F1F556A1296BA64ACA8177.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Jog_Fwd_Rifle.uasset'
+[2022.09.27-12.07.40:527][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/AnimStarterPack/Jog_Lt_Rifle" FILE="../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Jog_Lt_Rifle.uasset" SILENT=true
+[2022.09.27-12.07.40:543][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/Jog_Lt_Rifle2D29DECE43F10E85E8B94184AA56C431.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Jog_Lt_Rifle.uasset'
+[2022.09.27-12.07.40:559][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/AnimStarterPack/Jog_Rt_Rifle" FILE="../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Jog_Rt_Rifle.uasset" SILENT=true
+[2022.09.27-12.07.40:571][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/Jog_Rt_Rifle8BC68E7C49D1F6C9B484BC9FE098B80E.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Jog_Rt_Rifle.uasset'
+[2022.09.27-12.07.40:586][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/AnimStarterPack/Jump_From_Jog" FILE="../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Jump_From_Jog.uasset" SILENT=true
+[2022.09.27-12.07.40:598][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/Jump_From_Jog5FB3D7834E8D09622F3AB4A9A038EBBC.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Jump_From_Jog.uasset'
+[2022.09.27-12.07.40:614][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/AnimStarterPack/Jump_From_Stand" FILE="../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Jump_From_Stand.uasset" SILENT=true
+[2022.09.27-12.07.40:626][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/Jump_From_Stand6F4BCC8B442609E4F46F16A0CE4B4BBB.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Jump_From_Stand.uasset'
+[2022.09.27-12.07.40:646][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/AnimStarterPack/Jump_From_Stand_Ironsights" FILE="../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Jump_From_Stand_Ironsights.uasset" SILENT=true
+[2022.09.27-12.07.40:658][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/Jump_From_Stand_Ironsights0CE2728E46775EC0DBAED68B6F236DEA.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Jump_From_Stand_Ironsights.uasset'
+[2022.09.27-12.07.40:676][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/AnimStarterPack/Prone_Death_1" FILE="../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Prone_Death_1.uasset" SILENT=true
+[2022.09.27-12.07.40:688][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/Prone_Death_1FA8BB67D4EF01FEF8D13FE8B1BE07841.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Prone_Death_1.uasset'
+[2022.09.27-12.07.40:704][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/AnimStarterPack/Prone_Death_2" FILE="../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Prone_Death_2.uasset" SILENT=true
+[2022.09.27-12.07.40:715][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/Prone_Death_22372EEF847FCA041F46CD09CBE1B8AF3.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Prone_Death_2.uasset'
+[2022.09.27-12.07.40:731][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/AnimStarterPack/Prone_Fire_1" FILE="../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Prone_Fire_1.uasset" SILENT=true
+[2022.09.27-12.07.40:743][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/Prone_Fire_13ED1A36746474D67E286F1940A63CD84.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Prone_Fire_1.uasset'
+[2022.09.27-12.07.40:759][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/AnimStarterPack/Prone_Fire_2" FILE="../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Prone_Fire_2.uasset" SILENT=true
+[2022.09.27-12.07.40:770][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/Prone_Fire_2F690C7664D71208CF5EDB0A8B5D76F9D.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Prone_Fire_2.uasset'
+[2022.09.27-12.07.40:785][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/AnimStarterPack/Prone_Idle" FILE="../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Prone_Idle.uasset" SILENT=true
+[2022.09.27-12.07.40:798][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/Prone_Idle764505EF41C9D7E6EDE50F9F46BAD6C1.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Prone_Idle.uasset'
+[2022.09.27-12.07.40:814][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/AnimStarterPack/Prone_Reload_Rifle" FILE="../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Prone_Reload_Rifle.uasset" SILENT=true
+[2022.09.27-12.07.40:826][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/Prone_Reload_RifleCE84292B4ECCEFAB5FE2D3921C062651.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Prone_Reload_Rifle.uasset'
+[2022.09.27-12.07.40:843][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/AnimStarterPack/Prone_Reload_Shotgun" FILE="../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Prone_Reload_Shotgun.uasset" SILENT=true
+[2022.09.27-12.07.40:855][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/Prone_Reload_Shotgun17AB1E39458CCE8FF9C96EAB493699D9.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Prone_Reload_Shotgun.uasset'
+[2022.09.27-12.07.40:873][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/AnimStarterPack/Prone_To_Stand" FILE="../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Prone_To_Stand.uasset" SILENT=true
+[2022.09.27-12.07.40:885][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/Prone_To_Stand951FA8FE4E474751DDAF74AA318811C5.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Prone_To_Stand.uasset'
+[2022.09.27-12.07.40:901][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/AnimStarterPack/Reload_Pistol" FILE="../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Reload_Pistol.uasset" SILENT=true
+[2022.09.27-12.07.40:912][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/Reload_Pistol03FD82804A65874BC5D87988400A6A86.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Reload_Pistol.uasset'
+[2022.09.27-12.07.40:928][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/AnimStarterPack/Reload_Rifle_Hip" FILE="../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Reload_Rifle_Hip.uasset" SILENT=true
+[2022.09.27-12.07.40:940][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/Reload_Rifle_Hip0FCE90214921ED560CA4EC996FF27803.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Reload_Rifle_Hip.uasset'
+[2022.09.27-12.07.40:956][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/AnimStarterPack/Reload_Rifle_Ironsights" FILE="../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Reload_Rifle_Ironsights.uasset" SILENT=true
+[2022.09.27-12.07.40:967][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/Reload_Rifle_Ironsights377D6F524109B9D6C2BFE1A7521A7AE9.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Reload_Rifle_Ironsights.uasset'
+[2022.09.27-12.07.40:985][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/AnimStarterPack/Reload_Shotgun_Hip" FILE="../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Reload_Shotgun_Hip.uasset" SILENT=true
+[2022.09.27-12.07.40:997][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/Reload_Shotgun_Hip7623A9D048FC15C18F5278B1A160E9B7.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Reload_Shotgun_Hip.uasset'
+[2022.09.27-12.07.41:012][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/AnimStarterPack/Reload_Shotgun_Ironsights" FILE="../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Reload_Shotgun_Ironsights.uasset" SILENT=true
+[2022.09.27-12.07.41:025][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/Reload_Shotgun_Ironsights8F14ECCD467715D3053E9F9B09F00B79.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Reload_Shotgun_Ironsights.uasset'
+[2022.09.27-12.07.41:030][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/AnimStarterPack/Showcase" FILE="../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Showcase.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.27-12.07.41:060][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.09.27-12.07.41:206][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/ShowcaseF408C0F3425DB5A5AD963C8116246CBA.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Showcase.umap'
+[2022.09.27-12.07.41:214][473]LogFileHelpers: Saving map 'Showcase' took 0.185
+[2022.09.27-12.07.41:228][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/AnimStarterPack/Sprint_Fwd_Rifle" FILE="../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Sprint_Fwd_Rifle.uasset" SILENT=true
+[2022.09.27-12.07.41:239][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/Sprint_Fwd_Rifle594AFF5F46B006A31144C5A0775248D3.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Sprint_Fwd_Rifle.uasset'
+[2022.09.27-12.07.41:256][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/AnimStarterPack/Stand_to_Crouch_Rifle_Hip" FILE="../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Stand_to_Crouch_Rifle_Hip.uasset" SILENT=true
+[2022.09.27-12.07.41:267][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/Stand_to_Crouch_Rifle_Hip42FE48DC42FC68D5D8424BB7551DB069.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Stand_to_Crouch_Rifle_Hip.uasset'
+[2022.09.27-12.07.41:296][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/Stand_to_Crouch_Rifle_Ironsights0BAFE0E44C185A79BBE8FABC3C5CB84F.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Stand_to_Crouch_Rifle_Ironsights.uasset'
+[2022.09.27-12.07.41:311][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/AnimStarterPack/Stand_To_Prone" FILE="../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Stand_To_Prone.uasset" SILENT=true
+[2022.09.27-12.07.41:323][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/Stand_To_ProneCEB4862B44A661EEA7385ABA96D38EE3.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Stand_To_Prone.uasset'
+[2022.09.27-12.07.41:354][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/AnimStarterPack/Ue4ASP_Character" FILE="../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Ue4ASP_Character.uasset" SILENT=true
+[2022.09.27-12.07.41:392][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/Ue4ASP_CharacterDFE25C7A43FF05A96B25DE98C68DC6DC.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Ue4ASP_Character.uasset'
+[2022.09.27-12.07.41:532][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/UE4ASP_HeroTPP_AnimBlueprint07DCBB77473C6BEFF10143B73CA72E20.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.uasset'
+[2022.09.27-12.07.41:548][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/AnimStarterPack/Walk_Bwd_Rifle_Ironsights" FILE="../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Walk_Bwd_Rifle_Ironsights.uasset" SILENT=true
+[2022.09.27-12.07.41:561][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/Walk_Bwd_Rifle_Ironsights4D31809842C584E3CD86638A1C94CC33.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Walk_Bwd_Rifle_Ironsights.uasset'
+[2022.09.27-12.07.41:578][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/AnimStarterPack/Walk_Fwd_Rifle_Ironsights" FILE="../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Walk_Fwd_Rifle_Ironsights.uasset" SILENT=true
+[2022.09.27-12.07.41:590][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/Walk_Fwd_Rifle_IronsightsC4966F1D43DB9A104109358B2F8FE29A.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Walk_Fwd_Rifle_Ironsights.uasset'
+[2022.09.27-12.07.41:606][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/AnimStarterPack/Walk_Lt_Rifle_Ironsights" FILE="../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Walk_Lt_Rifle_Ironsights.uasset" SILENT=true
+[2022.09.27-12.07.41:617][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/Walk_Lt_Rifle_Ironsights1A7FB49B46B6F59EC70D12A967A36BA8.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Walk_Lt_Rifle_Ironsights.uasset'
+[2022.09.27-12.07.41:633][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/AnimStarterPack/Walk_Rt_Rifle_Ironsights" FILE="../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Walk_Rt_Rifle_Ironsights.uasset" SILENT=true
+[2022.09.27-12.07.41:645][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/Walk_Rt_Rifle_IronsightsFEDFE1CE481EB500E1914D888901777D.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/Walk_Rt_Rifle_Ironsights.uasset'
+[2022.09.27-12.07.41:707][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/M_UE4Man_BodyA22B8FBD421ED1E20F6B8F85E0013FD2.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_Body.uasset'
+[2022.09.27-12.07.41:738][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/M_UE4Man_ChestLogo95FA664048A6634CF3563087A469E58D.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_ChestLogo.uasset'
+[2022.09.27-12.07.41:754][473]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2022.09.27-12.07.41:824][473]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 43
+[2022.09.27-12.07.41:824][473]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 33
+[2022.09.27-12.07.41:824][473]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 23
+[2022.09.27-12.07.41:824][473]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2022.09.27-12.07.41:866][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/ML_GlossyBlack_Latex_UE4064D8080406B93F9792FBEB81A42F0B2.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset'
+[2022.09.27-12.07.41:876][473]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2022.09.27-12.07.41:938][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/ML_Plastic_Shiny_BeigeE74C033544B9D5C92BD8448820AE59FF.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset'
+[2022.09.27-12.07.41:948][473]LogMaterial: Display: Missing cached shader map for material Material_2, compiling. 
+[2022.09.27-12.07.42:005][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/ML_Plastic_Shiny_Beige_LOGOD216B3BA4A32DBB9A58E0C992FC89B7B.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset'
+[2022.09.27-12.07.42:016][473]LogMaterial: Display: Missing cached shader map for material Material_3, compiling. 
+[2022.09.27-12.07.42:080][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/ML_SoftMetal_UE4AA1CFC674922011375EB8B81A498D079.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset'
+[2022.09.27-12.07.42:109][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/T_ML_Aluminum01D872E22D44172D7AB3C2F8A2EB07B56A.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01.uasset'
+[2022.09.27-12.07.42:138][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/T_ML_Aluminum01_N63E0D67F49EEC7867F2BCB8B9D3734CD.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset'
+[2022.09.27-12.07.42:172][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/T_ML_Rubber_Blue_01_D6B90FB774A671FA36B9983AC4AEA7B07.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset'
+[2022.09.27-12.07.42:203][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/T_ML_Rubber_Blue_01_N04FDC0864CF34947CD7389AF26E6ABD6.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset'
+[2022.09.27-12.07.42:319][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/SK_Mannequin55854189423F68C426C597B842A848C5.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.uasset'
+[2022.09.27-12.07.42:395][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/SK_Mannequin_PhysicsAssetB9531775468D1E66870B198B5FA1F25A.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin_PhysicsAsset.uasset'
+[2022.09.27-12.07.42:406][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/UE4_Mannequin_SkeletonD6CB03A94340ADCC4632439C4018B4EA.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2022.09.27-12.07.42:441][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/UE4Man_Logo_N30F6899E407BE402330BD59B9692C19F.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/UE4_Mannequin/Textures/UE4Man_Logo_N.uasset'
+[2022.09.27-12.07.42:469][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/UE4_LOGO_CARD9E8FD92244D6BF626A4002B15D175EC8.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/UE4_Mannequin/Textures/UE4_LOGO_CARD.uasset'
+[2022.09.27-12.07.42:501][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/UE4_Mannequin_MAT_MASKAFBD20C654747D17CF18E7ABF1245FD9C.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_MAT_MASKA.uasset'
+[2022.09.27-12.07.42:534][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/UE4_Mannequin_occlusion_Mobile1F720A1B4A121C60B33EEEBD1BB0874D.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_occlusion_Mobile.uasset'
+[2022.09.27-12.07.42:640][473]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/UE4_Mannequin__normals9DB0686C4D5F1BB1DA062DBDBCB354C8.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin__normals.uasset'
+[2022.09.27-12.07.44:652][473]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 132
+[2022.09.27-12.07.44:859][473]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 122
+[2022.09.27-12.07.45:070][473]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 112
+[2022.09.27-12.07.46:769][473]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 102
+[2022.09.27-12.07.46:769][473]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 92
+[2022.09.27-12.07.46:769][473]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 82
+[2022.09.27-12.07.47:240][473]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 72
+[2022.09.27-12.07.48:762][473]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2022.09.27-12.07.48:786][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.09.27-12.07.48:811][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.09.27-12.07.48:834][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.09.27-12.07.48:858][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.09.27-12.07.48:879][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.09.27-12.07.48:899][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.09.27-12.07.48:922][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.09.27-12.07.48:944][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.09.27-12.07.48:966][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.09.27-12.07.48:988][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.09.27-12.07.49:012][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.09.27-12.07.49:034][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.09.27-12.07.49:056][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.09.27-12.07.49:079][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.09.27-12.07.49:100][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.09.27-12.07.49:122][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.09.27-12.07.49:143][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.09.27-12.07.49:165][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.09.27-12.07.49:187][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.09.27-12.07.49:210][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.09.27-12.07.49:234][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.09.27-12.07.49:256][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.09.27-12.07.49:281][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.09.27-12.07.49:306][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.09.27-12.07.49:331][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.09.27-12.07.49:357][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.09.27-12.07.49:379][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.09.27-12.07.49:404][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.09.27-12.07.49:426][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.09.27-12.07.49:451][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.09.27-12.07.49:474][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.09.27-12.07.49:510][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.09.27-12.07.49:534][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.09.27-12.07.49:558][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.09.27-12.07.49:581][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.09.27-12.07.49:608][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.09.27-12.07.49:634][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.09.27-12.07.49:661][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.09.27-12.07.49:689][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.09.27-12.07.49:713][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.09.27-12.07.49:737][473]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 62
+[2022.09.27-12.07.49:737][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.09.27-12.07.49:762][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.09.27-12.07.49:790][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.09.27-12.07.49:812][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.09.27-12.07.49:835][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.09.27-12.07.49:859][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.09.27-12.07.49:881][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.09.27-12.07.49:908][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.09.27-12.07.49:937][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.09.27-12.07.49:959][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.09.27-12.07.49:985][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.09.27-12.07.50:008][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.09.27-12.07.50:031][473]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 52
+[2022.09.27-12.07.50:031][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2022.09.27-12.07.50:054][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.09.27-12.07.50:082][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.09.27-12.07.50:104][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.09.27-12.07.50:131][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.09.27-12.07.50:154][473]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 42
+[2022.09.27-12.07.50:154][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.09.27-12.07.50:177][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.09.27-12.07.50:202][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.09.27-12.07.50:226][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.09.27-12.07.50:251][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.09.27-12.07.50:278][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.09.27-12.07.50:306][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.09.27-12.07.50:335][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.09.27-12.07.50:358][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.09.27-12.07.50:386][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.09.27-12.07.50:409][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2022.09.27-12.07.50:430][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.09.27-12.07.50:459][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.09.27-12.07.50:480][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.09.27-12.07.50:512][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.09.27-12.07.50:535][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.09.27-12.07.50:560][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.09.27-12.07.50:583][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.09.27-12.07.50:608][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.09.27-12.07.50:631][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.09.27-12.07.50:653][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.09.27-12.07.50:678][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.09.27-12.07.50:707][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.09.27-12.07.50:732][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.09.27-12.07.50:757][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.09.27-12.07.50:781][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.09.27-12.07.50:803][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.09.27-12.07.50:834][473]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2022.09.27-12.07.50:859][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.09.27-12.07.52:458][475]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 32
+[2022.09.27-12.07.53:097][500]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 23
+[2022.09.27-12.07.54:134][623]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2022.09.27-12.07.54:287][641]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2022.09.27-12.07.54:496][665]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2022.09.27-12.07.54:639][682]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2022.09.27-12.07.55:937][808]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2022.09.27-12.07.56:205][831]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.09.27-12.07.56:419][847]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2022.09.27-12.08.18:325][871]LogSlate: Window 'Save Level As' being destroyed
+[2022.09.27-12.08.18:354][872]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={16FBA22F-4CB8-9C89-7E75-B19F2A33508B}
+[2022.09.27-12.08.18:354][872]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={3A93A874-4517-2BE4-4B7A-72AC407CDCC1}
+[2022.09.27-12.09.12:939][ 48]LogSlate: Window 'Save Level As' being destroyed
+[2022.09.27-12.09.12:989][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.09.27-12.09.12:991][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap" FILE="../../../../UnrealProject/TTSGame/Content/Maps/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.27-12.09.13:014][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.09.27-12.09.13:112][ 48]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/NewMap29C1230447E14964F018E5BC062E30D7.tmp' to '../../../../UnrealProject/TTSGame/Content/Maps/NewMap.umap'
+[2022.09.27-12.09.13:127][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap_BuiltData" FILE="../../../../UnrealProject/TTSGame/Content/Maps/NewMap_BuiltData.uasset" SILENT=true
+[2022.09.27-12.09.13:139][ 48]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/NewMap_BuiltDataE40750504B017085FA9CF6960D0C2AE7.tmp' to '../../../../UnrealProject/TTSGame/Content/Maps/NewMap_BuiltData.uasset'
+[2022.09.27-12.09.13:146][ 48]LogFileHelpers: Saving map 'NewMap' took 0.200
+[2022.09.27-12.09.16:318][425]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.09.27-12.09.16:345][425]LogSlate: Window 'TTSGame - Unreal Editor' being destroyed
+[2022.09.27-12.09.16:451][426]Cmd: QUIT_EDITOR
+[2022.09.27-12.09.16:470][426]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2022.09.27-12.09.16:481][426]LogExit: Preparing to exit.
+[2022.09.27-12.09.16:583][426]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.09.27-12.09.16:583][426]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.09.27-12.09.16:584][426]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.09.27-12.09.16:584][426]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.09.27-12.09.16:584][426]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.09.27-12.09.16:584][426]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.09.27-12.09.16:584][426]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.09.27-12.09.16:584][426]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.09.27-12.09.16:597][426]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.09.27-12.09.16:597][426]LogExit: Editor shut down
+[2022.09.27-12.09.16:598][426]LogExit: Transaction tracking system shut down
+[2022.09.27-12.09.16:599][426]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.09.27-12.09.16:824][426]LogExit: Object subsystem successfully closed.
+[2022.09.27-12.09.16:850][426]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.09.27-12.09.16:863][426]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (670)
+[2022.09.27-12.09.16:863][426]LogModuleManager: Shutting down and abandoning module SceneOutliner (668)
+[2022.09.27-12.09.16:863][426]LogModuleManager: Shutting down and abandoning module AddContentDialog (666)
+[2022.09.27-12.09.16:863][426]LogModuleManager: Shutting down and abandoning module WidgetCarousel (665)
+[2022.09.27-12.09.16:863][426]LogModuleManager: Shutting down and abandoning module EditorWidgets (662)
+[2022.09.27-12.09.16:863][426]LogModuleManager: Shutting down and abandoning module CollectionManager (660)
+[2022.09.27-12.09.16:864][426]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (658)
+[2022.09.27-12.09.16:864][426]LogModuleManager: Shutting down and abandoning module StatsViewer (656)
+[2022.09.27-12.09.16:864][426]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (654)
+[2022.09.27-12.09.16:864][426]LogModuleManager: Shutting down and abandoning module FoliageEdit (652)
+[2022.09.27-12.09.16:864][426]LogModuleManager: Shutting down and abandoning module LandscapeEditor (650)
+[2022.09.27-12.09.16:864][426]LogModuleManager: Shutting down and abandoning module MeshPaintMode (648)
+[2022.09.27-12.09.16:864][426]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (646)
+[2022.09.27-12.09.16:864][426]LogModuleManager: Shutting down and abandoning module ActorPickerMode (644)
+[2022.09.27-12.09.16:864][426]LogModuleManager: Shutting down and abandoning module GeometryMode (642)
+[2022.09.27-12.09.16:864][426]LogModuleManager: Shutting down and abandoning module TextureAlignMode (640)
+[2022.09.27-12.09.16:864][426]LogModuleManager: Shutting down and abandoning module BspMode (638)
+[2022.09.27-12.09.16:864][426]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (636)
+[2022.09.27-12.09.16:864][426]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (634)
+[2022.09.27-12.09.16:864][426]LogModuleManager: Shutting down and abandoning module AutomationWorker (632)
+[2022.09.27-12.09.16:865][426]LogModuleManager: Shutting down and abandoning module OculusMR (630)
+[2022.09.27-12.09.16:865][426]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (628)
+[2022.09.27-12.09.16:865][426]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (626)
+[2022.09.27-12.09.16:865][426]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (624)
+[2022.09.27-12.09.16:865][426]LogModuleManager: Shutting down and abandoning module PlacementMode (623)
+[2022.09.27-12.09.16:865][426]LogModuleManager: Shutting down and abandoning module MaterialEditor (622)
+[2022.09.27-12.09.16:865][426]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (618)
+[2022.09.27-12.09.16:865][426]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (616)
+[2022.09.27-12.09.16:865][426]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (614)
+[2022.09.27-12.09.16:865][426]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (612)
+[2022.09.27-12.09.16:865][426]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (610)
+[2022.09.27-12.09.16:865][426]LogModuleManager: Shutting down and abandoning module WebMMedia (608)
+[2022.09.27-12.09.16:865][426]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (606)
+[2022.09.27-12.09.16:866][426]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (604)
+[2022.09.27-12.09.16:866][426]LogModuleManager: Shutting down and abandoning module SequenceRecorder (603)
+[2022.09.27-12.09.16:866][426]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (600)
+[2022.09.27-12.09.16:866][426]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (598)
+[2022.09.27-12.09.16:866][426]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (596)
+[2022.09.27-12.09.16:866][426]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (594)
+[2022.09.27-12.09.16:866][426]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (592)
+[2022.09.27-12.09.16:866][426]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (590)
+[2022.09.27-12.09.16:866][426]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (588)
+[2022.09.27-12.09.16:866][426]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (586)
+[2022.09.27-12.09.16:866][426]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (584)
+[2022.09.27-12.09.16:866][426]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (582)
+[2022.09.27-12.09.16:866][426]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (580)
+[2022.09.27-12.09.16:866][426]LogModuleManager: Shutting down and abandoning module CharacterAI (578)
+[2022.09.27-12.09.16:866][426]LogModuleManager: Shutting down and abandoning module SmartSnapping (576)
+[2022.09.27-12.09.16:866][426]LogModuleManager: Shutting down and abandoning module SessionServices (574)
+[2022.09.27-12.09.16:866][426]LogModuleManager: Shutting down and abandoning module MeshPaint (572)
+[2022.09.27-12.09.16:866][426]LogModuleManager: Shutting down and abandoning module ViewportSnapping (570)
+[2022.09.27-12.09.16:866][426]LogModuleManager: Shutting down and abandoning module ViewportInteraction (568)
+[2022.09.27-12.09.16:866][426]LogModuleManager: Shutting down and abandoning module ClothPainter (566)
+[2022.09.27-12.09.16:867][426]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (565)
+[2022.09.27-12.09.16:867][426]LogModuleManager: Shutting down and abandoning module LogVisualizer (562)
+[2022.09.27-12.09.16:867][426]LogModuleManager: Shutting down and abandoning module IntroTutorials (560)
+[2022.09.27-12.09.16:867][426]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (559)
+[2022.09.27-12.09.16:867][426]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (556)
+[2022.09.27-12.09.16:867][426]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (554)
+[2022.09.27-12.09.16:867][426]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (552)
+[2022.09.27-12.09.16:867][426]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (550)
+[2022.09.27-12.09.16:867][426]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (549)
+[2022.09.27-12.09.16:996][426]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (546)
+[2022.09.27-12.09.16:996][426]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (544)
+[2022.09.27-12.09.16:996][426]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (542)
+[2022.09.27-12.09.16:996][426]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (540)
+[2022.09.27-12.09.16:996][426]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (538)
+[2022.09.27-12.09.16:996][426]LogModuleManager: Shutting down and abandoning module InputBindingEditor (536)
+[2022.09.27-12.09.16:996][426]LogModuleManager: Shutting down and abandoning module MergeActors (534)
+[2022.09.27-12.09.16:996][426]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (532)
+[2022.09.27-12.09.16:996][426]LogModuleManager: Shutting down and abandoning module LocalizationService (531)
+[2022.09.27-12.09.16:996][426]LogModuleManager: Shutting down and abandoning module HardwareTargeting (528)
+[2022.09.27-12.09.16:997][426]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (526)
+[2022.09.27-12.09.16:997][426]LogModuleManager: Shutting down and abandoning module UndoHistory (524)
+[2022.09.27-12.09.16:997][426]LogModuleManager: Shutting down and abandoning module XmlParser (522)
+[2022.09.27-12.09.16:997][426]LogModuleManager: Shutting down and abandoning module Blutility (520)
+[2022.09.27-12.09.16:997][426]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (518)
+[2022.09.27-12.09.16:997][426]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (517)
+[2022.09.27-12.09.16:997][426]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (514)
+[2022.09.27-12.09.16:997][426]LogModuleManager: Shutting down and abandoning module SettingsEditor (512)
+[2022.09.27-12.09.16:997][426]LogModuleManager: Shutting down and abandoning module ProjectLauncher (510)
+[2022.09.27-12.09.16:997][426]LogModuleManager: Shutting down and abandoning module SessionFrontend (508)
+[2022.09.27-12.09.16:997][426]LogModuleManager: Shutting down and abandoning module ProfilerClient (506)
+[2022.09.27-12.09.16:997][426]LogModuleManager: Shutting down and abandoning module DeviceManager (504)
+[2022.09.27-12.09.16:997][426]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (503)
+[2022.09.27-12.09.17:031][426]LogModuleManager: Shutting down and abandoning module AutomationController (500)
+[2022.09.27-12.09.17:031][426]LogModuleManager: Shutting down and abandoning module AutomationWindow (498)
+[2022.09.27-12.09.17:031][426]LogModuleManager: Shutting down and abandoning module Layers (496)
+[2022.09.27-12.09.17:031][426]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (494)
+[2022.09.27-12.09.17:031][426]LogModuleManager: Shutting down and abandoning module DetailCustomizations (492)
+[2022.09.27-12.09.17:031][426]LogModuleManager: Shutting down and abandoning module PackagesDialog (490)
+[2022.09.27-12.09.17:031][426]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (488)
+[2022.09.27-12.09.17:031][426]LogModuleManager: Shutting down and abandoning module Persona (486)
+[2022.09.27-12.09.17:031][426]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (485)
+[2022.09.27-12.09.17:031][426]LogModuleManager: Shutting down and abandoning module AnimGraph (483)
+[2022.09.27-12.09.17:031][426]LogModuleManager: Shutting down and abandoning module Kismet (480)
+[2022.09.27-12.09.17:031][426]LogModuleManager: Shutting down and abandoning module KismetWidgets (479)
+[2022.09.27-12.09.17:031][426]LogModuleManager: Shutting down and abandoning module GraphEditor (476)
+[2022.09.27-12.09.17:031][426]LogModuleManager: Shutting down and abandoning module StructViewer (474)
+[2022.09.27-12.09.17:031][426]LogModuleManager: Shutting down and abandoning module ClassViewer (472)
+[2022.09.27-12.09.17:032][426]LogModuleManager: Shutting down and abandoning module Toolbox (470)
+[2022.09.27-12.09.17:032][426]LogModuleManager: Shutting down and abandoning module ModuleUI (468)
+[2022.09.27-12.09.17:032][426]LogModuleManager: Shutting down and abandoning module MovieSceneTools (466)
+[2022.09.27-12.09.17:032][426]LogModuleManager: Shutting down and abandoning module OutputLog (464)
+[2022.09.27-12.09.17:032][426]LogModuleManager: Shutting down and abandoning module GammaUI (462)
+[2022.09.27-12.09.17:032][426]LogModuleManager: Shutting down and abandoning module Documentation (460)
+[2022.09.27-12.09.17:032][426]LogModuleManager: Shutting down and abandoning module LiveCoding (458)
+[2022.09.27-12.09.17:033][426]LogModuleManager: Shutting down and abandoning module LevelSequence (456)
+[2022.09.27-12.09.17:033][426]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (454)
+[2022.09.27-12.09.17:033][426]LogModuleManager: Shutting down and abandoning module MovieScene (452)
+[2022.09.27-12.09.17:033][426]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (450)
+[2022.09.27-12.09.17:033][426]LogModuleManager: Shutting down and abandoning module LauncherPlatform (448)
+[2022.09.27-12.09.17:033][426]LogModuleManager: Shutting down and abandoning module AnalyticsET (446)
+[2022.09.27-12.09.17:033][426]LogModuleManager: Shutting down and abandoning module PortalServices (444)
+[2022.09.27-12.09.17:033][426]LogModuleManager: Shutting down and abandoning module PortalRpc (442)
+[2022.09.27-12.09.17:033][426]LogModuleManager: Shutting down and abandoning module MessagingRpc (440)
+[2022.09.27-12.09.17:033][426]LogModuleManager: Shutting down and abandoning module AIModule (438)
+[2022.09.27-12.09.17:033][426]LogModuleManager: Shutting down and abandoning module GameplayDebugger (437)
+[2022.09.27-12.09.17:033][426]LogModuleManager: Shutting down and abandoning module AITestSuite (435)
+[2022.09.27-12.09.17:033][426]LogModuleManager: Shutting down and abandoning module NavigationSystem (433)
+[2022.09.27-12.09.17:033][426]LogModuleManager: Shutting down and abandoning module DesktopPlatform (430)
+[2022.09.27-12.09.17:033][426]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (428)
+[2022.09.27-12.09.17:040][426]LogModuleManager: Shutting down and abandoning module ProfilerService (426)
+[2022.09.27-12.09.17:285][426]LogModuleManager: Shutting down and abandoning module TaskGraph (424)
+[2022.09.27-12.09.17:285][426]LogModuleManager: Shutting down and abandoning module ScreenshotTools (422)
+[2022.09.27-12.09.17:285][426]LogModuleManager: Shutting down and abandoning module SteamVRController (420)
+[2022.09.27-12.09.17:285][426]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (418)
+[2022.09.27-12.09.17:285][426]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (416)
+[2022.09.27-12.09.17:285][426]LogModuleManager: Shutting down and abandoning module OculusEditor (414)
+[2022.09.27-12.09.17:285][426]LogModuleManager: Shutting down and abandoning module OculusInput (412)
+[2022.09.27-12.09.17:285][426]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (410)
+[2022.09.27-12.09.17:285][426]LogModuleManager: Shutting down and abandoning module EditableMesh (408)
+[2022.09.27-12.09.17:285][426]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (406)
+[2022.09.27-12.09.17:286][426]LogModuleManager: Shutting down and abandoning module CableComponent (404)
+[2022.09.27-12.09.17:286][426]LogModuleManager: Shutting down and abandoning module AudioCapture (402)
+[2022.09.27-12.09.17:286][426]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (400)
+[2022.09.27-12.09.17:286][426]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (398)
+[2022.09.27-12.09.17:286][426]LogModuleManager: Shutting down and abandoning module AppleImageUtils (396)
+[2022.09.27-12.09.17:286][426]LogModuleManager: Shutting down and abandoning module AndroidPermission (394)
+[2022.09.27-12.09.17:286][426]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (392)
+[2022.09.27-12.09.17:286][426]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (390)
+[2022.09.27-12.09.17:286][426]LogModuleManager: Shutting down and abandoning module MediaCompositing (388)
+[2022.09.27-12.09.17:286][426]LogModuleManager: Shutting down and abandoning module ImgMedia (386)
+[2022.09.27-12.09.17:286][426]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (384)
+[2022.09.27-12.09.17:286][426]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (382)
+[2022.09.27-12.09.17:286][426]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (380)
+[2022.09.27-12.09.17:286][426]LogModuleManager: Shutting down and abandoning module HTML5Networking (378)
+[2022.09.27-12.09.17:286][426]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (376)
+[2022.09.27-12.09.17:286][426]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (374)
+[2022.09.27-12.09.17:286][426]LogModuleManager: Shutting down and abandoning module BackChannel (372)
+[2022.09.27-12.09.17:286][426]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (370)
+[2022.09.27-12.09.17:286][426]LogModuleManager: Shutting down and abandoning module AutomationUtils (368)
+[2022.09.27-12.09.17:286][426]LogModuleManager: Shutting down and abandoning module AlembicImporter (366)
+[2022.09.27-12.09.17:286][426]LogModuleManager: Shutting down and abandoning module AlembicLibrary (365)
+[2022.09.27-12.09.17:286][426]LogModuleManager: Shutting down and abandoning module GeometryCache (364)
+[2022.09.27-12.09.17:286][426]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (363)
+[2022.09.27-12.09.17:286][426]LogModuleManager: Shutting down and abandoning module VariantManagerContent (358)
+[2022.09.27-12.09.17:286][426]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (356)
+[2022.09.27-12.09.17:286][426]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (354)
+[2022.09.27-12.09.17:286][426]LogModuleManager: Shutting down and abandoning module PluginBrowser (352)
+[2022.09.27-12.09.17:286][426]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (350)
+[2022.09.27-12.09.17:286][426]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (348)
+[2022.09.27-12.09.17:286][426]LogModuleManager: Shutting down and abandoning module CurveEditorTools (346)
+[2022.09.27-12.09.17:286][426]LogModuleManager: Shutting down and abandoning module CurveEditor (345)
+[2022.09.27-12.09.17:286][426]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (342)
+[2022.09.27-12.09.17:286][426]LogModuleManager: Shutting down and abandoning module CryptoKeys (340)
+[2022.09.27-12.09.17:286][426]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (338)
+[2022.09.27-12.09.17:286][426]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (336)
+[2022.09.27-12.09.17:286][426]LogModuleManager: Shutting down and abandoning module UObjectPlugin (334)
+[2022.09.27-12.09.17:287][426]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (332)
+[2022.09.27-12.09.17:287][426]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (330)
+[2022.09.27-12.09.17:287][426]LogModuleManager: Shutting down and abandoning module GitSourceControl (328)
+[2022.09.27-12.09.17:287][426]LogModuleManager: Shutting down and abandoning module SourceControl (327)
+[2022.09.27-12.09.17:287][426]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (324)
+[2022.09.27-12.09.17:287][426]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (322)
+[2022.09.27-12.09.17:287][426]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (320)
+[2022.09.27-12.09.17:287][426]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (318)
+[2022.09.27-12.09.17:287][426]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (316)
+[2022.09.27-12.09.17:287][426]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (314)
+[2022.09.27-12.09.17:287][426]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (312)
+[2022.09.27-12.09.17:287][426]LogModuleManager: Shutting down and abandoning module Paper2DEditor (310)
+[2022.09.27-12.09.17:287][426]LogModuleManager: Shutting down and abandoning module SignificanceManager (308)
+[2022.09.27-12.09.17:287][426]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (306)
+[2022.09.27-12.09.17:287][426]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (304)
+[2022.09.27-12.09.17:287][426]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (300)
+[2022.09.27-12.09.17:287][426]LogModuleManager: Shutting down and abandoning module ActorSequence (298)
+[2022.09.27-12.09.17:287][426]LogModuleManager: Shutting down and abandoning module UdpMessaging (296)
+[2022.09.27-12.09.17:387][426]LogModuleManager: Shutting down and abandoning module TcpMessaging (294)
+[2022.09.27-12.09.17:578][426]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (292)
+[2022.09.27-12.09.17:578][426]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (290)
+[2022.09.27-12.09.17:578][426]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (288)
+[2022.09.27-12.09.17:578][426]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (286)
+[2022.09.27-12.09.17:578][426]LogModuleManager: Shutting down and abandoning module MagicLeapController (284)
+[2022.09.27-12.09.17:578][426]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.09.27-12.09.17:578][426]LogModuleManager: Shutting down and abandoning module MagicLeapAR (282)
+[2022.09.27-12.09.17:578][426]LogModuleManager: Shutting down and abandoning module AugmentedReality (281)
+[2022.09.27-12.09.17:578][426]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2022.09.27-12.09.17:578][426]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2022.09.27-12.09.17:578][426]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2022.09.27-12.09.17:578][426]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2022.09.27-12.09.17:578][426]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2022.09.27-12.09.17:579][426]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2022.09.27-12.09.17:580][426]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2022.09.27-12.09.17:580][426]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2022.09.27-12.09.17:580][426]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2022.09.27-12.09.17:580][426]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2022.09.27-12.09.17:581][426]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2022.09.27-12.09.17:582][426]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2022.09.27-12.09.17:582][426]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2022.09.27-12.09.17:582][426]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2022.09.27-12.09.17:582][426]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2022.09.27-12.09.17:582][426]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2022.09.27-12.09.17:583][426]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2022.09.27-12.09.17:583][426]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2022.09.27-12.09.17:583][426]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2022.09.27-12.09.17:583][426]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2022.09.27-12.09.17:583][426]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2022.09.27-12.09.17:583][426]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2022.09.27-12.09.17:583][426]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2022.09.27-12.09.17:583][426]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2022.09.27-12.09.17:583][426]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2022.09.27-12.09.17:583][426]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2022.09.27-12.09.17:583][426]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2022.09.27-12.09.17:583][426]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2022.09.27-12.09.17:583][426]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2022.09.27-12.09.17:583][426]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2022.09.27-12.09.17:583][426]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2022.09.27-12.09.17:583][426]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2022.09.27-12.09.17:584][426]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2022.09.27-12.09.17:584][426]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2022.09.27-12.09.17:584][426]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2022.09.27-12.09.17:584][426]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2022.09.27-12.09.17:584][426]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2022.09.27-12.09.17:584][426]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2022.09.27-12.09.17:584][426]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2022.09.27-12.09.17:586][426]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2022.09.27-12.09.17:586][426]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2022.09.27-12.09.17:586][426]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2022.09.27-12.09.17:586][426]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2022.09.27-12.09.17:586][426]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2022.09.27-12.09.17:586][426]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2022.09.27-12.09.17:586][426]LogModuleManager: Shutting down and abandoning module Core (186)
+[2022.09.27-12.09.17:586][426]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2022.09.27-12.09.17:586][426]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2022.09.27-12.09.17:586][426]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2022.09.27-12.09.17:586][426]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2022.09.27-12.09.17:586][426]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2022.09.27-12.09.17:586][426]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2022.09.27-12.09.17:586][426]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2022.09.27-12.09.17:586][426]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2022.09.27-12.09.17:586][426]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2022.09.27-12.09.17:586][426]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2022.09.27-12.09.17:687][426]LogDerivedDataCache: Shutdown
+[2022.09.27-12.09.17:687][426]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2022.09.27-12.09.17:687][426]LogXGEController: Cleaning working directory: C:/Users/kimminwoong/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2022.09.27-12.09.17:688][426]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2022.09.27-12.09.17:688][426]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2022.09.27-12.09.17:688][426]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2022.09.27-12.09.17:688][426]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2022.09.27-12.09.17:688][426]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2022.09.27-12.09.17:688][426]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2022.09.27-12.09.17:688][426]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2022.09.27-12.09.17:688][426]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2022.09.27-12.09.17:688][426]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2022.09.27-12.09.17:688][426]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2022.09.27-12.09.17:688][426]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2022.09.27-12.09.17:688][426]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2022.09.27-12.09.17:688][426]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2022.09.27-12.09.17:688][426]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2022.09.27-12.09.17:688][426]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2022.09.27-12.09.17:688][426]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2022.09.27-12.09.17:688][426]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2022.09.27-12.09.17:689][426]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2022.09.27-12.09.17:690][426]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2022.09.27-12.09.17:690][426]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2022.09.27-12.09.17:690][426]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2022.09.27-12.09.17:690][426]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2022.09.27-12.09.17:691][426]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2022.09.27-12.09.17:691][426]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2022.09.27-12.09.17:692][426]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2022.09.27-12.09.17:692][426]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2022.09.27-12.09.17:704][426]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2022.09.27-12.09.17:704][426]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2022.09.27-12.09.17:704][426]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2022.09.27-12.09.17:704][426]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2022.09.27-12.09.17:704][426]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2022.09.27-12.09.17:704][426]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2022.09.27-12.09.17:704][426]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2022.09.27-12.09.17:704][426]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2022.09.27-12.09.17:704][426]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2022.09.27-12.09.17:704][426]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2022.09.27-12.09.17:704][426]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2022.09.27-12.09.17:704][426]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2022.09.27-12.09.17:704][426]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2022.09.27-12.09.17:705][426]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2022.09.27-12.09.17:705][426]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2022.09.27-12.09.17:705][426]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2022.09.27-12.09.17:705][426]LogHMD: Freeing OpenVRDLLHandle.
+[2022.09.27-12.09.17:705][426]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2022.09.27-12.09.17:705][426]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2022.09.27-12.09.17:705][426]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2022.09.27-12.09.17:705][426]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2022.09.27-12.09.17:705][426]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2022.09.27-12.09.17:706][426]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2022.09.27-12.09.17:706][426]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2022.09.27-12.09.17:731][426]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2022.09.27-12.09.17:731][426]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2022.09.27-12.09.17:731][426]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2C04D735-445A-A5CB-DB38-E0B49E875665%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=d3574cf244cc528680ea9baf8cc75a24%7Ce14f188ddc854a33b6cb1272929a2fe2%7C823acc21-f26c-4d66-9432-bee44d06cb19&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2022.09.27-12.09.17:760][426]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2022.09.27-12.09.17:761][426]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2022.09.27-12.09.17:763][426]LogModuleManager: Shutting down and abandoning module Media (51)
+[2022.09.27-12.09.17:763][426]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2022.09.27-12.09.17:763][426]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2022.09.27-12.09.17:764][426]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2022.09.27-12.09.17:764][426]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2022.09.27-12.09.17:764][426]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2022.09.27-12.09.17:764][426]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2022.09.27-12.09.17:764][426]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2022.09.27-12.09.17:764][426]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2022.09.27-12.09.17:764][426]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2022.09.27-12.09.17:764][426]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2022.09.27-12.09.17:764][426]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2022.09.27-12.09.17:764][426]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2022.09.27-12.09.17:764][426]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2022.09.27-12.09.17:764][426]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2022.09.27-12.09.17:764][426]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.09.27-12.09.17:764][426]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.09.27-12.09.17:765][426]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.09.27-12.09.17:765][426]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.09.27-12.09.17:765][426]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2022.09.27-12.09.17:765][426]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2022.09.27-12.09.17:765][426]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2022.09.27-12.09.17:765][426]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2022.09.27-12.09.17:765][426]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.09.27-12.09.17:765][426]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.09.27-12.09.17:768][426]LogD3D11RHI: Shutdown
+[2022.09.27-12.09.17:768][426]LogD3D11RHI: CleanupD3DDevice
+[2022.09.27-12.09.17:769][426]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2022.09.27-12.09.17:769][426]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2022.09.27-12.09.17:769][426]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2022.09.27-12.09.17:862][426]LogD3D11RHI: ~FD3D11DynamicRHI
+[2022.09.27-12.09.17:870][426]LogExit: Exiting.
+[2022.09.27-12.09.17:883][426]Log file closed, 09/27/22 21:09:17
