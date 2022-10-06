@@ -1,0 +1,1260 @@
+﻿Log file open, 10/06/22 10:13:17
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: TTSGame
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.550516
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 970
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.10.06-01.13.18:481][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.10.06-01.13.18:481][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.10.06-01.13.18:482][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Engine.ini]
+[2022.10.06-01.13.18:482][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.10.06-01.13.18:482][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2022.10.06-01.13.18:482][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2022.10.06-01.13.18:482][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2022.10.06-01.13.18:482][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2022.10.06-01.13.18:482][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2022.10.06-01.13.18:482][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2022.10.06-01.13.18:482][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2022.10.06-01.13.18:482][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2022.10.06-01.13.18:482][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2022.10.06-01.13.18:482][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2022.10.06-01.13.18:482][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2022.10.06-01.13.18:482][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2022.10.06-01.13.18:482][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2022.10.06-01.13.18:482][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2022.10.06-01.13.18:482][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2022.10.06-01.13.18:482][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2022.10.06-01.13.18:482][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2022.10.06-01.13.18:482][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2022.10.06-01.13.18:482][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2022.10.06-01.13.18:482][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2022.10.06-01.13.18:482][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2022.10.06-01.13.18:482][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2022.10.06-01.13.18:482][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2022.10.06-01.13.18:482][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2022.10.06-01.13.18:482][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2022.10.06-01.13.18:482][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2022.10.06-01.13.18:482][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2022.10.06-01.13.18:482][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2022.10.06-01.13.18:482][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2022.10.06-01.13.18:482][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2022.10.06-01.13.18:482][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2022.10.06-01.13.18:482][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2022.10.06-01.13.18:482][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2022.10.06-01.13.18:482][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2022.10.06-01.13.18:482][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2022.10.06-01.13.18:483][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2022.10.06-01.13.18:483][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2022.10.06-01.13.18:483][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2022.10.06-01.13.18:483][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2022.10.06-01.13.18:483][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2022.10.06-01.13.18:483][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2022.10.06-01.13.18:483][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2022.10.06-01.13.18:483][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2022.10.06-01.13.18:483][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2022.10.06-01.13.18:483][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2022.10.06-01.13.18:483][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2022.10.06-01.13.18:483][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2022.10.06-01.13.18:483][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:1]]
+[2022.10.06-01.13.18:483][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2022.10.06-01.13.18:483][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2022.10.06-01.13.18:483][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2022.10.06-01.13.18:483][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2022.10.06-01.13.18:483][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2022.10.06-01.13.18:483][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2022.10.06-01.13.18:483][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2022.10.06-01.13.18:483][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2022.10.06-01.13.18:483][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2022.10.06-01.13.18:485][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2022.10.06-01.13.18:485][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2022.10.06-01.13.18:485][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2022.10.06-01.13.18:485][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2022.10.06-01.13.18:485][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2022.10.06-01.13.18:485][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2022.10.06-01.13.18:485][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2022.10.06-01.13.18:485][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2022.10.06-01.13.18:485][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2022.10.06-01.13.18:485][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2022.10.06-01.13.18:485][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2022.10.06-01.13.18:485][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2022.10.06-01.13.18:485][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2022.10.06-01.13.18:485][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2022.10.06-01.13.18:485][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2022.10.06-01.13.18:485][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2022.10.06-01.13.18:485][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2022.10.06-01.13.18:485][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2022.10.06-01.13.18:485][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2022.10.06-01.13.18:485][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2022.10.06-01.13.18:485][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2022.10.06-01.13.18:485][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2022.10.06-01.13.18:485][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2022.10.06-01.13.18:485][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2022.10.06-01.13.18:485][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2022.10.06-01.13.18:485][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2022.10.06-01.13.18:485][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2022.10.06-01.13.18:485][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2022.10.06-01.13.18:485][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2022.10.06-01.13.18:485][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2022.10.06-01.13.18:485][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2022.10.06-01.13.18:485][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2022.10.06-01.13.18:485][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2022.10.06-01.13.18:485][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2022.10.06-01.13.18:485][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2022.10.06-01.13.18:485][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Engine.ini]
+[2022.10.06-01.13.18:485][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Engine.ini]
+[2022.10.06-01.13.18:485][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.10.06-01.13.18:485][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.10.06-01.13.18:485][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.10.06-01.13.18:485][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.10.06-01.13.18:485][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.10.06-01.13.18:485][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.10.06-01.13.18:485][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.10.06-01.13.18:485][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.10.06-01.13.18:485][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.10.06-01.13.18:485][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.10.06-01.13.18:485][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.10.06-01.13.18:485][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.10.06-01.13.18:485][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.10.06-01.13.18:485][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Engine.ini]
+[2022.10.06-01.13.18:485][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.10.06-01.13.18:485][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.10.06-01.13.18:485][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.10.06-01.13.18:485][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.10.06-01.13.18:485][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.10.06-01.13.18:485][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.10.06-01.13.18:485][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2022.10.06-01.13.18:485][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.10.06-01.13.18:485][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.10.06-01.13.18:485][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.10.06-01.13.18:485][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.10.06-01.13.18:485][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.10.06-01.13.18:485][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.10.06-01.13.18:485][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Engine.ini]
+[2022.10.06-01.13.18:485][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Engine.ini]
+[2022.10.06-01.13.18:502][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Scalability.ini]
+[2022.10.06-01.13.18:502][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.10.06-01.13.18:502][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.10.06-01.13.18:502][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Scalability.ini]
+[2022.10.06-01.13.18:502][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.10.06-01.13.18:502][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Scalability.ini]
+[2022.10.06-01.13.18:502][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.10.06-01.13.18:503][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.10.06-01.13.18:503][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.10.06-01.13.18:503][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.10.06-01.13.18:503][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.10.06-01.13.18:503][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.10.06-01.13.18:503][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.10.06-01.13.18:503][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.10.06-01.13.18:503][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.10.06-01.13.18:503][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.10.06-01.13.18:503][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.10.06-01.13.18:503][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.10.06-01.13.18:503][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.10.06-01.13.18:503][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.10.06-01.13.18:503][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.10.06-01.13.18:503][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.10.06-01.13.18:503][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.10.06-01.13.18:503][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.10.06-01.13.18:503][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Scalability.ini]
+[2022.10.06-01.13.18:503][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.10.06-01.13.18:503][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.10.06-01.13.18:503][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.10.06-01.13.18:503][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.10.06-01.13.18:503][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.10.06-01.13.18:503][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.10.06-01.13.18:503][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.10.06-01.13.18:503][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.10.06-01.13.18:503][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.10.06-01.13.18:503][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.10.06-01.13.18:503][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.10.06-01.13.18:503][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.10.06-01.13.18:503][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.10.06-01.13.18:503][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.10.06-01.13.18:503][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.10.06-01.13.18:503][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.10.06-01.13.18:503][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.10.06-01.13.18:503][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.10.06-01.13.18:503][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.10.06-01.13.18:503][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.10.06-01.13.18:503][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.10.06-01.13.18:503][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.10.06-01.13.18:503][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.10.06-01.13.18:503][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.10.06-01.13.18:503][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.10.06-01.13.18:503][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.10.06-01.13.18:503][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.10.06-01.13.18:503][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.10.06-01.13.18:503][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.10.06-01.13.18:503][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.10.06-01.13.18:503][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Scalability.ini]
+[2022.10.06-01.13.18:503][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.10.06-01.13.18:503][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.10.06-01.13.18:503][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.10.06-01.13.18:503][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.10.06-01.13.18:503][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.10.06-01.13.18:503][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.10.06-01.13.18:503][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.10.06-01.13.18:503][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.10.06-01.13.18:503][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Scalability.ini]
+[2022.10.06-01.13.18:503][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.10.06-01.13.18:503][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.10.06-01.13.18:503][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.10.06-01.13.18:503][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.10.06-01.13.18:503][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.10.06-01.13.18:503][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.10.06-01.13.18:503][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.10.06-01.13.18:503][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.10.06-01.13.18:503][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.10.06-01.13.18:504][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.10.06-01.13.18:504][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2022.10.06-01.13.18:504][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.10.06-01.13.18:504][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.10.06-01.13.18:504][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Scalability.ini]
+[2022.10.06-01.13.18:504][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.10.06-01.13.18:504][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.10.06-01.13.18:505][  0]LogInit: Selected Device Profile: [Windows]
+[2022.10.06-01.13.18:505][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.10.06-01.13.18:511][  0]LogHAL: Display: Platform has ~ 16 GB [17097846784 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.10.06-01.13.18:511][  0]LogInit: Going up to parent DeviceProfile []
+[2022.10.06-01.13.18:511][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Scalability.ini]
+[2022.10.06-01.13.18:511][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.10.06-01.13.18:511][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.10.06-01.13.18:511][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Scalability.ini]
+[2022.10.06-01.13.18:511][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.10.06-01.13.18:511][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Scalability.ini]
+[2022.10.06-01.13.18:511][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.10.06-01.13.18:511][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.10.06-01.13.18:511][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.10.06-01.13.18:511][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.10.06-01.13.18:511][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.10.06-01.13.18:511][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.10.06-01.13.18:511][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.10.06-01.13.18:511][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.10.06-01.13.18:511][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.10.06-01.13.18:511][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.10.06-01.13.18:511][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.10.06-01.13.18:511][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.10.06-01.13.18:511][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.10.06-01.13.18:511][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.10.06-01.13.18:511][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.10.06-01.13.18:511][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.10.06-01.13.18:512][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.10.06-01.13.18:512][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.10.06-01.13.18:512][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Scalability.ini]
+[2022.10.06-01.13.18:512][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.10.06-01.13.18:512][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.10.06-01.13.18:512][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.10.06-01.13.18:512][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.10.06-01.13.18:512][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.10.06-01.13.18:512][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.10.06-01.13.18:512][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.10.06-01.13.18:512][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.10.06-01.13.18:512][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.10.06-01.13.18:512][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.10.06-01.13.18:512][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.10.06-01.13.18:512][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.10.06-01.13.18:512][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.10.06-01.13.18:512][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.10.06-01.13.18:512][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.10.06-01.13.18:512][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.10.06-01.13.18:512][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.10.06-01.13.18:512][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.10.06-01.13.18:512][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.10.06-01.13.18:512][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.10.06-01.13.18:512][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.10.06-01.13.18:512][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.10.06-01.13.18:512][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.10.06-01.13.18:512][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.10.06-01.13.18:512][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.10.06-01.13.18:512][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.10.06-01.13.18:512][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.10.06-01.13.18:512][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.10.06-01.13.18:512][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.10.06-01.13.18:512][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.10.06-01.13.18:512][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Scalability.ini]
+[2022.10.06-01.13.18:512][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.10.06-01.13.18:512][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.10.06-01.13.18:512][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.10.06-01.13.18:512][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.10.06-01.13.18:512][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.10.06-01.13.18:512][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.10.06-01.13.18:512][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.10.06-01.13.18:512][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.10.06-01.13.18:512][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Scalability.ini]
+[2022.10.06-01.13.18:512][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.10.06-01.13.18:512][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.10.06-01.13.18:512][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.10.06-01.13.18:512][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.10.06-01.13.18:512][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.10.06-01.13.18:512][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.10.06-01.13.18:512][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.10.06-01.13.18:512][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.10.06-01.13.18:512][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.10.06-01.13.18:512][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.10.06-01.13.18:512][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2022.10.06-01.13.18:512][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.10.06-01.13.18:513][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.10.06-01.13.18:513][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Scalability.ini]
+[2022.10.06-01.13.18:513][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.10.06-01.13.18:513][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.10.06-01.13.18:513][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.10.06-01.13.18:513][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.10.06-01.13.18:513][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.10.06-01.13.18:513][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Engine.ini]
+[2022.10.06-01.13.18:514][  0]LogInit: Computer: DESKTOP-MURC6HF
+[2022.10.06-01.13.18:514][  0]LogInit: User: kimminwoong
+[2022.10.06-01.13.18:514][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.10.06-01.13.18:514][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.10.06-01.13.18:514][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.10.06-01.13.18:514][  0]LogMemory: Platform Memory Stats for Windows
+[2022.10.06-01.13.18:514][  0]LogMemory: Process Physical Memory: 104.80 MB used, 104.81 MB peak
+[2022.10.06-01.13.18:514][  0]LogMemory: Process Virtual Memory: 99.09 MB used, 99.09 MB peak
+[2022.10.06-01.13.18:514][  0]LogMemory: Physical Memory: 8315.72 MB used,  7990.06 MB free, 16305.78 MB total
+[2022.10.06-01.13.18:514][  0]LogMemory: Virtual Memory: 4668.94 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2022.10.06-01.13.18:530][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.10.06-01.13.18:820][  0]LogInit: Overriding language with editor language configuration option (en).
+[2022.10.06-01.13.18:820][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2022.10.06-01.13.19:109][  0]LogInit: Setting process to per monitor DPI aware
+[2022.10.06-01.13.19:212][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.10.06-01.13.19:212][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.10.06-01.13.19:789][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.10.06-01.13.19:789][  0]LogD3D11RHI: D3D11 adapters:
+[2022.10.06-01.13.20:011][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2022.10.06-01.13.20:011][  0]LogD3D11RHI:       4043/0/8152 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2022.10.06-01.13.20:014][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.10.06-01.13.20:014][  0]LogD3D11RHI:       0/0/8152 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.10.06-01.13.20:014][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.10.06-01.13.20:023][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.10.06-01.13.20:024][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2022.10.06-01.13.20:024][  0]LogWindows: EnumDisplayDevices:
+[2022.10.06-01.13.20:024][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2022.10.06-01.13.20:025][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2022.10.06-01.13.20:026][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2022.10.06-01.13.20:027][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2022.10.06-01.13.20:028][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.10.06-01.13.20:028][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2022.10.06-01.13.20:028][  0]LogD3D11RHI:   Driver Version: 516.94 (internal:31.0.15.1694, unified:516.94)
+[2022.10.06-01.13.20:028][  0]LogD3D11RHI:      Driver Date: 7-21-2022
+[2022.10.06-01.13.20:028][  0]LogRHI: Texture pool is 2830 MB (70% of 4043 MB)
+[2022.10.06-01.13.20:108][  0]LogD3D11RHI: Async texture creation enabled
+[2022.10.06-01.13.20:154][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.10.06-01.13.21:111][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2022.10.06-01.13.21:123][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2022.10.06-01.13.21:134][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2022.10.06-01.13.21:145][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2022.10.06-01.13.21:158][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2022.10.06-01.13.21:171][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2022.10.06-01.13.21:184][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2022.10.06-01.13.21:197][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2022.10.06-01.13.21:204][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2022.10.06-01.13.21:250][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2022.10.06-01.13.21:250][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2022.10.06-01.13.21:250][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2022.10.06-01.13.21:250][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2022.10.06-01.13.21:250][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2022.10.06-01.13.21:250][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2022.10.06-01.13.21:250][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2022.10.06-01.13.21:250][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2022.10.06-01.13.21:250][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2022.10.06-01.13.21:250][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2022.10.06-01.13.21:250][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2022.10.06-01.13.21:250][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2022.10.06-01.13.21:251][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2022.10.06-01.13.21:251][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2022.10.06-01.13.21:251][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2022.10.06-01.13.21:251][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2022.10.06-01.13.21:251][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2022.10.06-01.13.21:251][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2022.10.06-01.13.21:256][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2022.10.06-01.13.21:283][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2022.10.06-01.13.21:284][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2022.10.06-01.13.21:300][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2022.10.06-01.13.21:300][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2022.10.06-01.13.21:309][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2022.10.06-01.13.21:319][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2022.10.06-01.13.21:329][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2022.10.06-01.13.21:339][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2022.10.06-01.13.21:367][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2022.10.06-01.13.21:367][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2022.10.06-01.13.21:367][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.10.06-01.13.21:391][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.10.06-01.13.21:534][  0]LogShaderCompilers: Guid format shader working directory is 18 characters bigger than the processId version (../../../../UnrealProject/TTSGame/Intermediate/Shaders/WorkingDirectory/17760/).
+[2022.10.06-01.13.21:534][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/kimminwoong/AppData/Local/Temp/UnrealShaderWorkingDir/42159628438668682BF287A00E6A3EC3/'.
+[2022.10.06-01.13.21:539][  0]LogXGEController: Cleaning working directory: C:/Users/kimminwoong/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2022.10.06-01.13.21:540][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.10.06-01.13.21:540][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.10.06-01.13.21:540][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.10.06-01.13.22:542][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.10.06-01.13.22:793][  0]LogDerivedDataCache: Loaded boot cache 0.25s 95MB C:/Users/kimminwoong/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2022.10.06-01.13.22:793][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/kimminwoong/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2022.10.06-01.13.22:793][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../UnrealProject/TTSGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.10.06-01.13.22:793][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.10.06-01.13.22:793][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../UnrealProject/TTSGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.10.06-01.13.22:793][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.10.06-01.13.22:810][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.10.06-01.13.22:810][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.10.06-01.13.22:810][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.10.06-01.13.22:812][  0]LogDerivedDataCache: Using Local data cache path C:/Users/kimminwoong/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.10.06-01.13.22:812][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.10.06-01.13.22:812][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.10.06-01.13.22:839][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2022.10.06-01.13.22:847][  0]LogSlate: Using FreeType 2.6.0
+[2022.10.06-01.13.22:855][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.10.06-01.13.23:052][  0]LogAssetRegistry: FAssetRegistry took 0.0071 seconds to start up
+[2022.10.06-01.13.23:492][  0]LogInit: Selected Device Profile: [Windows]
+[2022.10.06-01.13.23:785][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.10.06-01.13.23:785][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.10.06-01.13.23:785][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.10.06-01.13.23:785][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.10.06-01.13.23:785][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.10.06-01.13.23:820][  0]LogNetVersion: TTSGame 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 1457153238)
+[2022.10.06-01.13.24:557][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.044873 seconds
+[2022.10.06-01.13.24:565][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2022.10.06-01.13.24:565][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2022.10.06-01.13.24:565][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.10.06-01.13.27:424][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.10.06-01.13.27:430][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.10.06-01.13.27:562][  0]SourceControl: Source control is disabled
+[2022.10.06-01.13.27:563][  0]SourceControl: Source control is disabled
+[2022.10.06-01.13.27:582][  0]SourceControl: Source control is disabled
+[2022.10.06-01.13.27:589][  0]SourceControl: Source control is disabled
+[2022.10.06-01.13.27:870][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.10.06-01.13.28:338][  0]LogOcInput: OculusInput pre-init called
+[2022.10.06-01.13.28:353][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.10.06-01.13.28:353][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.10.06-01.13.28:493][  0]LogEngine: Initializing Engine...
+[2022.10.06-01.13.28:497][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.10.06-01.13.28:500][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2022.10.06-01.13.28:770][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.10.06-01.13.28:823][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.10.06-01.13.28:956][  0]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.10.06-01.13.29:151][  0]LogInit: FAudioDevice initialized.
+[2022.10.06-01.13.29:152][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.10.06-01.13.29:237][  0]LogDerivedDataCache: Saved boot cache 0.09s 73MB C:/Users/kimminwoong/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2022.10.06-01.13.29:237][  0]LogInit: Texture streaming: Enabled
+[2022.10.06-01.13.29:266][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.10.06-01.13.29:266][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.10.06-01.13.29:270][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.10.06-01.13.29:334][  0]LogInit: Transaction tracking system initialized
+[2022.10.06-01.13.29:429][  0]BlueprintLog: New page: Editor Load
+[2022.10.06-01.13.29:656][  0]LocalizationService: Localization service is disabled
+[2022.10.06-01.13.31:496][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProject/TTSGame/Content/' took 0.01s
+[2022.10.06-01.13.31:496][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2022.10.06-01.13.31:496][  0]LogCook: Display: Mobile HDR setting 1
+[2022.10.06-01.13.31:976][  0]SourceControl: Source control is disabled
+[2022.10.06-01.13.31:978][  0]Cmd: MAP LOAD FILE="../../../../UnrealProject/TTSGame/Content/Maps/StartTown.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.06-01.13.31:982][  0]LightingResults: New page: Lighting Build
+[2022.10.06-01.13.31:987][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.10.06-01.13.31:990][  0]MapCheck: New page: Map Check
+[2022.10.06-01.13.31:990][  0]LightingResults: New page: Lighting Build
+[2022.10.06-01.13.32:017][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.10.06-01.13.32:472][  0]LogAIModule: Creating AISystem for world StartTown
+[2022.10.06-01.13.32:511][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.06-01.13.32:545][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.10.06-01.13.32:545][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.06-01.13.32:546][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.583ms to complete.
+[2022.10.06-01.13.32:546][  0]LogFileHelpers: Loading map 'StartTown' took 0.569
+[2022.10.06-01.13.32:764][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.06-01.13.32:771][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.06-01.13.32:779][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.06-01.13.32:786][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.06-01.13.32:806][  0]LogCollectionManager: Loaded 0 collections in 0.001963 seconds
+[2022.10.06-01.13.32:834][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProject/TTSGame/Saved/Collections/' took 0.00s
+[2022.10.06-01.13.32:834][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProject/TTSGame/Content/Developers/kimminwoong/Collections/' took 0.00s
+[2022.10.06-01.13.32:834][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProject/TTSGame/Content/Collections/' took 0.00s
+[2022.10.06-01.13.32:834][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2022.10.06-01.13.32:846][  0]LogContentBrowser: Native class hierarchy populated in 0.0090 seconds. Added 2863 classes and 680 folders.
+[2022.10.06-01.13.32:862][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.10.06-01.13.33:044][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.10.06-01.13.33:066][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2022.10.06-01.13.33:289][  0]LogSlate: Took 0.003041 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.10.06-01.13.33:292][  0]LogSlate: Took 0.001318 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.10.06-01.13.33:302][  0]LogSlate: Took 0.003138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.10.06-01.13.33:404][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2022.10.06-01.13.33:545][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.10.06-01.13.33:545][  0]LogLoad: (Engine Initialization) Total time: 18.69 seconds
+[2022.10.06-01.13.33:545][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.10.06-01.13.33:621][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.10.06-01.13.33:649][  0]LogSlate: Took 0.001491 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.10.06-01.13.33:801][  3]LogAssetRegistry: Asset discovery search completed in 10.7503 seconds
+[2022.10.06-01.13.33:805][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000008 seconds (found 0 objects)
+[2022.10.06-01.13.33:806][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000109 seconds (updated 0 objects)
+[2022.10.06-01.13.40:555][121]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.10.06-01.14.33:567][301]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={34E34CD4-4E18-1FBE-CD0A-CEB58475B963}
+[2022.10.06-01.50.22:135][102]LogSlate: Took 0.001872 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.10.06-01.50.22:146][102]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrint/Piece/BP_TTSChararcter.BP_TTSChararcter
+[2022.10.06-01.50.22:433][102]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2022.10.06-01.50.23:320][102]LogSlate: Took 0.001439 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.10.06-01.50.23:378][103]LogSlate: Took 0.001452 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.10.06-01.50.41:359][169]BlueprintLog: New page: Compile BP_TTSChararcter
+[2022.10.06-01.50.41:573][169]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2022.10.06-01.50.42:204][203]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/Piece/BP_TTSChararcter" FILE="../../../../UnrealProject/TTSGame/Content/BluePrint/Piece/BP_TTSChararcter.uasset" SILENT=true
+[2022.10.06-01.50.42:301][203]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/BP_TTSChararcterEB68FF1E42137D5772A60DBBC76EB54C.tmp' to '../../../../UnrealProject/TTSGame/Content/BluePrint/Piece/BP_TTSChararcter.uasset'
+[2022.10.06-01.51.16:142][188]BlueprintLog: New page: Compile BP_TTSChararcter
+[2022.10.06-01.51.16:317][188]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2022.10.06-01.51.16:769][212]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/Piece/BP_TTSChararcter" FILE="../../../../UnrealProject/TTSGame/Content/BluePrint/Piece/BP_TTSChararcter.uasset" SILENT=true
+[2022.10.06-01.51.16:797][212]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/BP_TTSChararcterABEFE7D34FFCA20247B0F9976C284191.tmp' to '../../../../UnrealProject/TTSGame/Content/BluePrint/Piece/BP_TTSChararcter.uasset'
+[2022.10.06-01.51.21:985][522]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrint/Player/BP_TTSMainPlayerController.BP_TTSMainPlayerController
+[2022.10.06-01.51.39:784][569]BlueprintLog: New page: Compile BP_TTSMainPlayerController
+[2022.10.06-01.51.39:962][569]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2022.10.06-01.51.40:190][578]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/Player/BP_TTSMainPlayerController" FILE="../../../../UnrealProject/TTSGame/Content/BluePrint/Player/BP_TTSMainPlayerController.uasset" SILENT=true
+[2022.10.06-01.51.40:252][578]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/BP_TTSMainPlayerControllerE783A3304B5042BC04200480A606F5BA.tmp' to '../../../../UnrealProject/TTSGame/Content/BluePrint/Player/BP_TTSMainPlayerController.uasset'
+[2022.10.06-01.51.41:308][641]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.06-01.51.41:327][641]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/StartTown.StartTown:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown' with GeneratedClass '/Game/Maps/StartTown.StartTown_C' with ClassGeneratedBy '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown'
+[2022.10.06-01.51.41:329][641]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.06-01.51.41:335][641]PIE: New page: PIE session: StartTown (Oct 6, 2022, 7:51:41 PM)
+[2022.10.06-01.51.41:339][641]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.10.06-01.51.41:342][641]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartTown
+[2022.10.06-01.51.41:378][641]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035034s)
+[2022.10.06-01.51.41:378][641]LogAIModule: Creating AISystem for world StartTown
+[2022.10.06-01.51.41:378][641]LogPlayLevel: PIE: World Init took: (0.000792s)
+[2022.10.06-01.51.41:379][641]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartTown.StartTown to /Game/Maps/UEDPIE_0_StartTown.StartTown (0.036601s)
+[2022.10.06-01.51.41:408][641]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2022.10.06-01.51.41:533][641]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.10.06-01.51.41:579][641]LogInit: FAudioDevice initialized.
+[2022.10.06-01.51.41:610][641]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.06-01.51.41:615][641]LogLoad: Game class is 'BP_TTSGameMode_C'
+[2022.10.06-01.51.41:628][641]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartTown.StartTown up for play (max tick rate 60) at 2022.10.06-10.51.41
+[2022.10.06-01.51.41:631][641]LogWorld: Bringing up level for play took: 0.004752
+[2022.10.06-01.51.41:633][641]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2022.10.06-01.51.41:665][641]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.10.06-01.51.41:683][641]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_StartTown -0.354
+[2022.10.06-01.51.41:684][641]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/StartTown.StartTown:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown' with GeneratedClass '/Game/Maps/StartTown.StartTown_C' with ClassGeneratedBy '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown'
+[2022.10.06-01.51.41:731][642]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2022.10.06-01.51.47:947][951]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.10.06-01.52.14:639][552]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.10.06-01.52.14:749][558]LogSlate: Window 'TTSGame Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2022.10.06-01.52.14:757][558]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/StartTown.StartTown:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown' with GeneratedClass '/Game/Maps/StartTown.StartTown_C' with ClassGeneratedBy '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown'
+[2022.10.06-01.52.14:757][558]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartTown
+[2022.10.06-01.52.14:758][558]LogWorld: UWorld::CleanupWorld for StartTown, bSessionEnded=true, bCleanupResources=true
+[2022.10.06-01.52.14:780][558]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.06-01.52.14:780][558]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/StartTown.StartTown:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown' with GeneratedClass '/Game/Maps/StartTown.StartTown_C' with ClassGeneratedBy '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown'
+[2022.10.06-01.52.14:858][558]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2022.10.06-01.52.14:911][559]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2022.10.06-01.53.41:757][946]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.06-01.53.41:777][946]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/StartTown.StartTown:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown' with GeneratedClass '/Game/Maps/StartTown.StartTown_C' with ClassGeneratedBy '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown'
+[2022.10.06-01.53.41:777][946]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.10.06-01.53.41:778][946]LogPlayLevel: [PlayLevel] Compiling BP_TTSMainPlayerController before play...
+[2022.10.06-01.53.42:009][946]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2022.10.06-01.53.42:009][946]LogPlayLevel: PlayLevel: Blueprint regeneration took 232 ms (1 blueprints)
+[2022.10.06-01.53.42:009][946]PIE: New page: PIE session: StartTown (Oct 6, 2022, 7:53:42 PM)
+[2022.10.06-01.53.42:020][946]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartTown
+[2022.10.06-01.53.42:051][946]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031027s)
+[2022.10.06-01.53.42:052][946]LogAIModule: Creating AISystem for world StartTown
+[2022.10.06-01.53.42:052][946]LogPlayLevel: PIE: World Init took: (0.000947s)
+[2022.10.06-01.53.42:052][946]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartTown.StartTown to /Game/Maps/UEDPIE_0_StartTown.StartTown (0.032241s)
+[2022.10.06-01.53.42:087][946]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2022.10.06-01.53.42:216][946]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.10.06-01.53.42:267][946]LogInit: FAudioDevice initialized.
+[2022.10.06-01.53.42:281][946]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.06-01.53.42:281][946]LogLoad: Game class is 'BP_TTSGameMode_C'
+[2022.10.06-01.53.42:282][946]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartTown.StartTown up for play (max tick rate 60) at 2022.10.06-10.53.42
+[2022.10.06-01.53.42:283][946]LogWorld: Bringing up level for play took: 0.001066
+[2022.10.06-01.53.42:283][946]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2022.10.06-01.53.42:289][946]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_StartTown 0.251
+[2022.10.06-01.53.42:289][946]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/StartTown.StartTown:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown' with GeneratedClass '/Game/Maps/StartTown.StartTown_C' with ClassGeneratedBy '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown'
+[2022.10.06-01.54.02:065][129]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.10.06-01.54.02:174][135]LogSlate: Window 'TTSGame Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2022.10.06-01.54.02:181][135]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/StartTown.StartTown:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown' with GeneratedClass '/Game/Maps/StartTown.StartTown_C' with ClassGeneratedBy '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown'
+[2022.10.06-01.54.02:181][135]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartTown
+[2022.10.06-01.54.02:181][135]LogWorld: UWorld::CleanupWorld for StartTown, bSessionEnded=true, bCleanupResources=true
+[2022.10.06-01.54.02:191][135]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.06-01.54.02:191][135]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/StartTown.StartTown:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown' with GeneratedClass '/Game/Maps/StartTown.StartTown_C' with ClassGeneratedBy '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown'
+[2022.10.06-01.54.02:240][135]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2022.10.06-01.54.02:270][137]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2022.10.06-01.54.31:826][680]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.10.06-01.54.31:826][680]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/StartTown' took 0.035
+[2022.10.06-01.54.31:827][680]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrint/Player/BP_TTSMainPlayerController] ([1] browsable assets)...
+[2022.10.06-01.54.31:827][680]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/Player/BP_TTSMainPlayerController]
+[2022.10.06-01.54.31:896][680]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/BP_TTSMainPlayerController_Auto18768672D469657023F6D8294B102E7D1.tmp' to '../../../../UnrealProject/TTSGame/Saved/Autosaves/Game/BluePrint/Player/BP_TTSMainPlayerController_Auto1.uasset'
+[2022.10.06-01.54.31:897][680]LogFileHelpers: Auto-saving content packages took 0.071
+[2022.10.06-02.08.57:271][948]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrint/Library/BI_TTSInterface.BI_TTSInterface
+[2022.10.06-02.09.13:794][913]BlueprintLog: New page: Compile BI_TTSInterface
+[2022.10.06-02.09.13:842][913]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2022.10.06-02.09.14:197][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/Library/BI_TTSInterface" FILE="../../../../UnrealProject/TTSGame/Content/BluePrint/Library/BI_TTSInterface.uasset" SILENT=true
+[2022.10.06-02.09.14:221][933]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/BI_TTSInterface3AAD7F964A83EF150842C8A693C3ECCC.tmp' to '../../../../UnrealProject/TTSGame/Content/BluePrint/Library/BI_TTSInterface.uasset'
+[2022.10.06-02.09.15:036][981]LogSlate: Window 'BI_TTSInterface' being destroyed
+[2022.10.06-02.09.15:058][981]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.10.06-02.09.27:252][421]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.10.06-02.10.35:853][447]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2022.10.06-02.10.35:855][447]LogMetaData: Removing '/Game/BluePrint/HUD/HUD_TTSCanvase.HUD_TTSCanvase:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/BluePrint/HUD/NewBlueprint.PackageMetaData'
+[2022.10.06-02.10.35:855][447]LogMetaData: Removing '/Game/BluePrint/HUD/HUD_TTSCanvase.SKEL_HUD_TTSCanvase_C' ref from Metadata '/Game/BluePrint/HUD/NewBlueprint.PackageMetaData'
+[2022.10.06-02.10.35:855][447]LogMetaData: Removing '/Game/BluePrint/HUD/HUD_TTSCanvase.HUD_TTSCanvase_C' ref from Metadata '/Game/BluePrint/HUD/NewBlueprint.PackageMetaData'
+[2022.10.06-02.10.35:855][447]LogMetaData: Removing '/Game/BluePrint/HUD/HUD_TTSCanvase.HUD_TTSCanvase:EventGraph.K2Node_Event_0' ref from Metadata '/Game/BluePrint/HUD/NewBlueprint.PackageMetaData'
+[2022.10.06-02.10.35:855][447]LogMetaData: Removing '/Game/BluePrint/HUD/HUD_TTSCanvase.HUD_TTSCanvase:EventGraph.K2Node_Event_1' ref from Metadata '/Game/BluePrint/HUD/NewBlueprint.PackageMetaData'
+[2022.10.06-02.10.35:855][447]LogMetaData: Removing '/Game/BluePrint/HUD/HUD_TTSCanvase.HUD_TTSCanvase:EventGraph.K2Node_Event_2' ref from Metadata '/Game/BluePrint/HUD/NewBlueprint.PackageMetaData'
+[2022.10.06-02.10.35:884][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/HUD/HUD_TTSCanvase" FILE="../../../../UnrealProject/TTSGame/Content/BluePrint/HUD/HUD_TTSCanvase.uasset" SILENT=true
+[2022.10.06-02.10.35:890][447]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/HUD_TTSCanvase3EC6AC434342A1AE324014A2E93079B5.tmp' to '../../../../UnrealProject/TTSGame/Content/BluePrint/HUD/HUD_TTSCanvase.uasset'
+[2022.10.06-02.10.36:063][447]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2022.10.06-02.10.36:104][447]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2022.10.06-02.10.36:139][447]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2022.10.06-02.10.37:804][541]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2022.10.06-02.10.37:804][541]LogMetaData: Removing '/Game/BluePrint/HUD/HUD_TTSCanvas.HUD_TTSCanvas_C' ref from Metadata '/Game/BluePrint/HUD/HUD_TTSCanvase.PackageMetaData'
+[2022.10.06-02.10.37:804][541]LogMetaData: Removing '/Game/BluePrint/HUD/HUD_TTSCanvas.SKEL_HUD_TTSCanvas_C' ref from Metadata '/Game/BluePrint/HUD/HUD_TTSCanvase.PackageMetaData'
+[2022.10.06-02.10.37:804][541]LogMetaData: Removing '/Game/BluePrint/HUD/HUD_TTSCanvas.HUD_TTSCanvas:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/BluePrint/HUD/HUD_TTSCanvase.PackageMetaData'
+[2022.10.06-02.10.37:804][541]LogMetaData: Removing '/Game/BluePrint/HUD/HUD_TTSCanvas.HUD_TTSCanvas:EventGraph.K2Node_Event_0' ref from Metadata '/Game/BluePrint/HUD/HUD_TTSCanvase.PackageMetaData'
+[2022.10.06-02.10.37:804][541]LogMetaData: Removing '/Game/BluePrint/HUD/HUD_TTSCanvas.HUD_TTSCanvas:EventGraph.K2Node_Event_1' ref from Metadata '/Game/BluePrint/HUD/HUD_TTSCanvase.PackageMetaData'
+[2022.10.06-02.10.37:805][541]LogMetaData: Removing '/Game/BluePrint/HUD/HUD_TTSCanvas.HUD_TTSCanvas:EventGraph.K2Node_Event_2' ref from Metadata '/Game/BluePrint/HUD/HUD_TTSCanvase.PackageMetaData'
+[2022.10.06-02.10.37:832][541]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/HUD/HUD_TTSCanvas" FILE="../../../../UnrealProject/TTSGame/Content/BluePrint/HUD/HUD_TTSCanvas.uasset" SILENT=true
+[2022.10.06-02.10.37:839][541]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/HUD_TTSCanvasD8AC7B2C4697823EB682B5A0847F43D8.tmp' to '../../../../UnrealProject/TTSGame/Content/BluePrint/HUD/HUD_TTSCanvas.uasset'
+[2022.10.06-02.10.38:024][541]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2022.10.06-02.10.38:064][541]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2022.10.06-02.10.38:097][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.10.06-02.10.40:379][675]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrint/HUD/HUD_TTSCanvas.HUD_TTSCanvas
+[2022.10.06-02.10.52:044][351]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.10.06-02.10.55:836][577]BlueprintLog: New page: Compile HUD_TTSCanvas
+[2022.10.06-02.10.56:040][577]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2022.10.06-02.10.56:360][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/HUD/HUD_TTSCanvas" FILE="../../../../UnrealProject/TTSGame/Content/BluePrint/HUD/HUD_TTSCanvas.uasset" SILENT=true
+[2022.10.06-02.10.56:380][595]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/HUD_TTSCanvasD874B7A5481F9C7081E027A53E026F22.tmp' to '../../../../UnrealProject/TTSGame/Content/BluePrint/HUD/HUD_TTSCanvas.uasset'
+[2022.10.06-02.11.26:551][367]BlueprintLog: New page: Compile HUD_TTSCanvas
+[2022.10.06-02.11.26:763][367]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2022.10.06-02.13.00:549][956]LogSlate: Took 0.005768 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.10.06-02.15.28:388][996]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.06-02.15.28:499][997]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2022.10.06-02.15.28:499][997]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/StartTown' took 0.040
+[2022.10.06-02.15.28:501][997]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrint/Player/BP_TTSMainPlayerController] ([1] browsable assets)...
+[2022.10.06-02.15.28:501][997]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/Player/BP_TTSMainPlayerController]
+[2022.10.06-02.15.28:573][997]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/BP_TTSMainPlayerController_Auto2E6512CD24A26E2A1D062D79F88D167A3.tmp' to '../../../../UnrealProject/TTSGame/Saved/Autosaves/Game/BluePrint/Player/BP_TTSMainPlayerController_Auto2.uasset'
+[2022.10.06-02.15.28:575][997]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrint/HUD/HUD_TTSCanvas] ([1] browsable assets)...
+[2022.10.06-02.15.28:575][997]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/HUD/HUD_TTSCanvas]
+[2022.10.06-02.15.28:575][997]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/HUD/HUD_TTSCanvas" FILE="../../../../UnrealProject/TTSGame/Saved/Autosaves/Game/BluePrint/HUD/HUD_TTSCanvas_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2022.10.06-02.15.28:601][997]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/HUD_TTSCanvas_Auto2511C25664EB74C5B06537CB20C4656DC.tmp' to '../../../../UnrealProject/TTSGame/Saved/Autosaves/Game/BluePrint/HUD/HUD_TTSCanvas_Auto2.uasset'
+[2022.10.06-02.15.28:601][997]LogFileHelpers: Auto-saving content packages took 0.101
+[2022.10.06-02.15.47:858][178]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.06-02.18.50:626][121]LogSlate: Window 'HUD_TTSCanvas' being destroyed
+[2022.10.06-02.22.22:824][844]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrint/GameSetting/BP_TTSGameMode.BP_TTSGameMode
+[2022.10.06-02.22.25:538][986]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.10.06-02.22.27:761][118]BlueprintLog: New page: Compile BP_TTSGameMode
+[2022.10.06-02.22.27:996][118]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2022.10.06-02.22.28:362][138]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/GameSetting/BP_TTSGameMode" FILE="../../../../UnrealProject/TTSGame/Content/BluePrint/GameSetting/BP_TTSGameMode.uasset" SILENT=true
+[2022.10.06-02.22.28:387][138]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/BP_TTSGameModeB7E621E64FEB0FD51B8B4098A752EE83.tmp' to '../../../../UnrealProject/TTSGame/Content/BluePrint/GameSetting/BP_TTSGameMode.uasset'
+[2022.10.06-02.22.39:802][822]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.10.06-02.26.35:837][957]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2022.10.06-02.26.35:837][957]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/StartTown' took 0.045
+[2022.10.06-02.26.35:839][957]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrint/HUD/HUD_TTSCanvas] ([1] browsable assets)...
+[2022.10.06-02.26.35:839][957]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/HUD/HUD_TTSCanvas]
+[2022.10.06-02.26.35:839][957]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/HUD/HUD_TTSCanvas" FILE="../../../../UnrealProject/TTSGame/Saved/Autosaves/Game/BluePrint/HUD/HUD_TTSCanvas_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2022.10.06-02.26.35:870][957]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/HUD_TTSCanvas_Auto3E848C12F4FF4B13FB823DDB6680691F4.tmp' to '../../../../UnrealProject/TTSGame/Saved/Autosaves/Game/BluePrint/HUD/HUD_TTSCanvas_Auto3.uasset'
+[2022.10.06-02.26.35:871][957]LogFileHelpers: Auto-saving content packages took 0.033
+[2022.10.06-02.27.28:740][108]BlueprintLog: New page: Compile BP_TTSMainPlayerController
+[2022.10.06-02.27.28:749][108]LogBlueprint: Error: [Compiler BP_TTSMainPlayerController] Message node  Stop Selection  must have a valid target or reference to self.
+[2022.10.06-02.27.28:749][108]LogBlueprint: Error: [Compiler BP_TTSMainPlayerController] Message node  Start Selection  must have a valid target or reference to self.
+[2022.10.06-02.27.28:975][108]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2022.10.06-02.27.29:377][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/Player/BP_TTSMainPlayerController" FILE="../../../../UnrealProject/TTSGame/Content/BluePrint/Player/BP_TTSMainPlayerController.uasset" SILENT=true
+[2022.10.06-02.27.29:438][128]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/BP_TTSMainPlayerController78D801674DA95E352F0703838A85BC90.tmp' to '../../../../UnrealProject/TTSGame/Content/BluePrint/Player/BP_TTSMainPlayerController.uasset'
+[2022.10.06-02.28.08:550][454]BlueprintLog: New page: Compile BP_TTSMainPlayerController
+[2022.10.06-02.28.08:791][454]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2022.10.06-02.28.09:255][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/Player/BP_TTSMainPlayerController" FILE="../../../../UnrealProject/TTSGame/Content/BluePrint/Player/BP_TTSMainPlayerController.uasset" SILENT=true
+[2022.10.06-02.28.09:322][478]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/BP_TTSMainPlayerController4C82D42B4AF2DA4B1B3F62B5FDFE0517.tmp' to '../../../../UnrealProject/TTSGame/Content/BluePrint/Player/BP_TTSMainPlayerController.uasset'
+[2022.10.06-02.28.14:335][778]BlueprintLog: New page: Compile HUD_TTSCanvas
+[2022.10.06-02.28.14:552][778]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2022.10.06-02.28.14:898][797]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/HUD/HUD_TTSCanvas" FILE="../../../../UnrealProject/TTSGame/Content/BluePrint/HUD/HUD_TTSCanvas.uasset" SILENT=true
+[2022.10.06-02.28.14:924][797]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/HUD_TTSCanvasEE7B64FE406A044E92B8C983A4E31B05.tmp' to '../../../../UnrealProject/TTSGame/Content/BluePrint/HUD/HUD_TTSCanvas.uasset'
+[2022.10.06-02.33.40:497][226]BlueprintLog: New page: Compile HUD_TTSCanvas
+[2022.10.06-02.33.40:732][226]LogUObjectHash: Compacting FUObjectHashTables data took   5.91ms
+[2022.10.06-02.33.47:476][629]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/HUD/HUD_TTSCanvas" FILE="../../../../UnrealProject/TTSGame/Content/BluePrint/HUD/HUD_TTSCanvas.uasset" SILENT=true
+[2022.10.06-02.33.47:508][629]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/HUD_TTSCanvasBD82ECFD4FD6F9C100B462873A78AE0A.tmp' to '../../../../UnrealProject/TTSGame/Content/BluePrint/HUD/HUD_TTSCanvas.uasset'
+[2022.10.06-02.36.33:795][574]BlueprintLog: New page: Compile HUD_TTSCanvas
+[2022.10.06-02.36.34:028][574]LogUObjectHash: Compacting FUObjectHashTables data took   5.29ms
+[2022.10.06-02.36.34:324][590]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/HUD/HUD_TTSCanvas" FILE="../../../../UnrealProject/TTSGame/Content/BluePrint/HUD/HUD_TTSCanvas.uasset" SILENT=true
+[2022.10.06-02.36.34:355][590]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/HUD_TTSCanvasC0AAD3B64289FE8A35C911BF9292D95A.tmp' to '../../../../UnrealProject/TTSGame/Content/BluePrint/HUD/HUD_TTSCanvas.uasset'
+[2022.10.06-02.37.27:100][813]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.06-02.37.29:421][952]BlueprintLog: New page: Compile HUD_TTSCanvas
+[2022.10.06-02.37.29:653][952]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2022.10.06-02.37.29:937][967]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/HUD/HUD_TTSCanvas" FILE="../../../../UnrealProject/TTSGame/Content/BluePrint/HUD/HUD_TTSCanvas.uasset" SILENT=true
+[2022.10.06-02.37.29:971][967]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/HUD_TTSCanvas1F0A325841DBA2185E96278B0F9E0FF1.tmp' to '../../../../UnrealProject/TTSGame/Content/BluePrint/HUD/HUD_TTSCanvas.uasset'
+[2022.10.06-02.38.19:931][963]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.06-02.38.19:955][963]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/StartTown.StartTown:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown' with GeneratedClass '/Game/Maps/StartTown.StartTown_C' with ClassGeneratedBy '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown'
+[2022.10.06-02.38.19:955][963]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.06-02.38.19:955][963]PIE: New page: PIE session: StartTown (Oct 6, 2022, 8:38:19 PM)
+[2022.10.06-02.38.19:955][963]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartTown
+[2022.10.06-02.38.19:996][963]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041005s)
+[2022.10.06-02.38.19:997][963]LogAIModule: Creating AISystem for world StartTown
+[2022.10.06-02.38.19:997][963]LogPlayLevel: PIE: World Init took: (0.000932s)
+[2022.10.06-02.38.19:998][963]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartTown.StartTown to /Game/Maps/UEDPIE_0_StartTown.StartTown (0.042375s)
+[2022.10.06-02.38.20:038][963]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2022.10.06-02.38.20:170][963]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.10.06-02.38.20:223][963]LogInit: FAudioDevice initialized.
+[2022.10.06-02.38.20:239][963]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.06-02.38.20:239][963]LogLoad: Game class is 'BP_TTSGameMode_C'
+[2022.10.06-02.38.20:241][963]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartTown.StartTown up for play (max tick rate 60) at 2022.10.06-11.38.20
+[2022.10.06-02.38.20:241][963]LogWorld: Bringing up level for play took: 0.001104
+[2022.10.06-02.38.20:241][963]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2022.10.06-02.38.20:249][963]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_StartTown 0.211
+[2022.10.06-02.38.20:249][963]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/StartTown.StartTown:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown' with GeneratedClass '/Game/Maps/StartTown.StartTown_C' with ClassGeneratedBy '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown'
+[2022.10.06-02.38.28:835][472]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.10.06-02.38.28:927][477]LogSlate: Window 'TTSGame Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2022.10.06-02.38.28:936][477]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/StartTown.StartTown:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown' with GeneratedClass '/Game/Maps/StartTown.StartTown_C' with ClassGeneratedBy '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown'
+[2022.10.06-02.38.28:936][477]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartTown
+[2022.10.06-02.38.28:936][477]LogWorld: UWorld::CleanupWorld for StartTown, bSessionEnded=true, bCleanupResources=true
+[2022.10.06-02.38.28:943][477]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.06-02.38.28:944][477]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/StartTown.StartTown:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown' with GeneratedClass '/Game/Maps/StartTown.StartTown_C' with ClassGeneratedBy '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown'
+[2022.10.06-02.38.29:000][477]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2022.10.06-02.38.29:034][479]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2022.10.06-02.38.42:308][217]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.06-02.38.42:328][217]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/StartTown.StartTown:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown' with GeneratedClass '/Game/Maps/StartTown.StartTown_C' with ClassGeneratedBy '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown'
+[2022.10.06-02.38.42:328][217]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.06-02.38.42:328][217]PIE: New page: PIE session: StartTown (Oct 6, 2022, 8:38:42 PM)
+[2022.10.06-02.38.42:328][217]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartTown
+[2022.10.06-02.38.42:368][217]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040133s)
+[2022.10.06-02.38.42:369][217]LogAIModule: Creating AISystem for world StartTown
+[2022.10.06-02.38.42:370][217]LogPlayLevel: PIE: World Init took: (0.001687s)
+[2022.10.06-02.38.42:370][217]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartTown.StartTown to /Game/Maps/UEDPIE_0_StartTown.StartTown (0.042192s)
+[2022.10.06-02.38.42:410][217]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2022.10.06-02.38.42:541][217]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.10.06-02.38.42:589][217]LogInit: FAudioDevice initialized.
+[2022.10.06-02.38.42:604][217]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.06-02.38.42:604][217]LogLoad: Game class is 'BP_TTSGameMode_C'
+[2022.10.06-02.38.42:605][217]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartTown.StartTown up for play (max tick rate 60) at 2022.10.06-11.38.42
+[2022.10.06-02.38.42:606][217]LogWorld: Bringing up level for play took: 0.001003
+[2022.10.06-02.38.42:606][217]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2022.10.06-02.38.42:612][217]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_StartTown 0.574
+[2022.10.06-02.38.42:613][217]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/StartTown.StartTown:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown' with GeneratedClass '/Game/Maps/StartTown.StartTown_C' with ClassGeneratedBy '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown'
+[2022.10.06-02.39.08:357][757]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.10.06-02.39.08:448][762]LogSlate: Window 'TTSGame Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2022.10.06-02.39.08:456][762]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/StartTown.StartTown:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown' with GeneratedClass '/Game/Maps/StartTown.StartTown_C' with ClassGeneratedBy '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown'
+[2022.10.06-02.39.08:456][762]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartTown
+[2022.10.06-02.39.08:456][762]LogWorld: UWorld::CleanupWorld for StartTown, bSessionEnded=true, bCleanupResources=true
+[2022.10.06-02.39.08:464][762]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.06-02.39.08:464][762]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/StartTown.StartTown:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown' with GeneratedClass '/Game/Maps/StartTown.StartTown_C' with ClassGeneratedBy '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown'
+[2022.10.06-02.39.08:516][762]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2022.10.06-02.39.08:547][764]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.10.06-02.40.22:789][191]BlueprintLog: New page: Compile HUD_TTSCanvas
+[2022.10.06-02.40.23:015][191]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2022.10.06-02.40.23:211][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/HUD/HUD_TTSCanvas" FILE="../../../../UnrealProject/TTSGame/Content/BluePrint/HUD/HUD_TTSCanvas.uasset" SILENT=true
+[2022.10.06-02.40.23:243][201]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/HUD_TTSCanvasA9CB16544AE61D5D8D43D38555AFCC0A.tmp' to '../../../../UnrealProject/TTSGame/Content/BluePrint/HUD/HUD_TTSCanvas.uasset'
+[2022.10.06-02.40.26:025][367]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.06-02.40.26:047][367]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/StartTown.StartTown:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown' with GeneratedClass '/Game/Maps/StartTown.StartTown_C' with ClassGeneratedBy '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown'
+[2022.10.06-02.40.26:047][367]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.06-02.40.26:047][367]PIE: New page: PIE session: StartTown (Oct 6, 2022, 8:40:26 PM)
+[2022.10.06-02.40.26:047][367]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartTown
+[2022.10.06-02.40.26:078][367]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030743s)
+[2022.10.06-02.40.26:079][367]LogAIModule: Creating AISystem for world StartTown
+[2022.10.06-02.40.26:079][367]LogPlayLevel: PIE: World Init took: (0.000928s)
+[2022.10.06-02.40.26:079][367]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartTown.StartTown to /Game/Maps/UEDPIE_0_StartTown.StartTown (0.031853s)
+[2022.10.06-02.40.26:122][367]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2022.10.06-02.40.26:241][367]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.10.06-02.40.26:285][367]LogInit: FAudioDevice initialized.
+[2022.10.06-02.40.26:300][367]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.06-02.40.26:300][367]LogLoad: Game class is 'BP_TTSGameMode_C'
+[2022.10.06-02.40.26:302][367]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartTown.StartTown up for play (max tick rate 60) at 2022.10.06-11.40.26
+[2022.10.06-02.40.26:303][367]LogWorld: Bringing up level for play took: 0.001114
+[2022.10.06-02.40.26:303][367]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2022.10.06-02.40.26:310][367]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_StartTown 0.271
+[2022.10.06-02.40.26:310][367]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/StartTown.StartTown:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown' with GeneratedClass '/Game/Maps/StartTown.StartTown_C' with ClassGeneratedBy '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown'
+[2022.10.06-02.41.15:953][247]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.10.06-02.41.16:046][252]LogRenderer: Reallocating scene render targets to support 1920x1016 Format 10 NumSamples 1 (Frame:2792).
+[2022.10.06-02.41.19:195][440]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.10.06-02.41.22:101][614]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.10.06-02.41.27:225][921]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.10.06-02.41.30:196][ 99]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.10.06-02.41.30:309][105]LogSlate: Window 'TTSGame Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2022.10.06-02.41.30:317][105]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/StartTown.StartTown:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown' with GeneratedClass '/Game/Maps/StartTown.StartTown_C' with ClassGeneratedBy '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown'
+[2022.10.06-02.41.30:317][105]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartTown
+[2022.10.06-02.41.30:317][105]LogWorld: UWorld::CleanupWorld for StartTown, bSessionEnded=true, bCleanupResources=true
+[2022.10.06-02.41.30:330][105]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.06-02.41.30:330][105]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/StartTown.StartTown:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown' with GeneratedClass '/Game/Maps/StartTown.StartTown_C' with ClassGeneratedBy '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown'
+[2022.10.06-02.41.30:387][105]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2022.10.06-02.41.30:411][106]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.10.06-02.44.02:029][776]BlueprintLog: New page: Compile HUD_TTSCanvas
+[2022.10.06-02.44.02:253][776]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2022.10.06-02.44.02:456][786]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/HUD/HUD_TTSCanvas" FILE="../../../../UnrealProject/TTSGame/Content/BluePrint/HUD/HUD_TTSCanvas.uasset" SILENT=true
+[2022.10.06-02.44.02:485][786]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/HUD_TTSCanvasD9AA40C448F663CDBA9D7A85CE84BA22.tmp' to '../../../../UnrealProject/TTSGame/Content/BluePrint/HUD/HUD_TTSCanvas.uasset'
+[2022.10.06-02.44.03:017][817]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.06-02.44.03:038][817]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/StartTown.StartTown:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown' with GeneratedClass '/Game/Maps/StartTown.StartTown_C' with ClassGeneratedBy '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown'
+[2022.10.06-02.44.03:038][817]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.06-02.44.03:038][817]PIE: New page: PIE session: StartTown (Oct 6, 2022, 8:44:03 PM)
+[2022.10.06-02.44.03:038][817]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartTown
+[2022.10.06-02.44.03:069][817]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031942s)
+[2022.10.06-02.44.03:070][817]LogAIModule: Creating AISystem for world StartTown
+[2022.10.06-02.44.03:070][817]LogPlayLevel: PIE: World Init took: (0.000937s)
+[2022.10.06-02.44.03:070][817]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartTown.StartTown to /Game/Maps/UEDPIE_0_StartTown.StartTown (0.033031s)
+[2022.10.06-02.44.03:107][817]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2022.10.06-02.44.03:229][817]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.10.06-02.44.03:276][817]LogInit: FAudioDevice initialized.
+[2022.10.06-02.44.03:291][817]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.06-02.44.03:292][817]LogLoad: Game class is 'BP_TTSGameMode_C'
+[2022.10.06-02.44.03:293][817]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartTown.StartTown up for play (max tick rate 60) at 2022.10.06-11.44.03
+[2022.10.06-02.44.03:293][817]LogWorld: Bringing up level for play took: 0.000970
+[2022.10.06-02.44.03:293][817]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2022.10.06-02.44.03:299][817]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_StartTown 1.261
+[2022.10.06-02.44.03:299][817]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/StartTown.StartTown:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown' with GeneratedClass '/Game/Maps/StartTown.StartTown_C' with ClassGeneratedBy '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown'
+[2022.10.06-02.44.12:206][345]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.10.06-02.44.12:298][350]LogSlate: Window 'TTSGame Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2022.10.06-02.44.12:308][350]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/StartTown.StartTown:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown' with GeneratedClass '/Game/Maps/StartTown.StartTown_C' with ClassGeneratedBy '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown'
+[2022.10.06-02.44.12:308][350]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartTown
+[2022.10.06-02.44.12:308][350]LogWorld: UWorld::CleanupWorld for StartTown, bSessionEnded=true, bCleanupResources=true
+[2022.10.06-02.44.12:314][350]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.06-02.44.12:314][350]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/StartTown.StartTown:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown' with GeneratedClass '/Game/Maps/StartTown.StartTown_C' with ClassGeneratedBy '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown'
+[2022.10.06-02.44.12:365][350]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2022.10.06-02.44.12:399][352]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.10.06-02.44.27:574][262]BlueprintLog: New page: Compile HUD_TTSCanvas
+[2022.10.06-02.44.27:798][262]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2022.10.06-02.44.28:127][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/HUD/HUD_TTSCanvas" FILE="../../../../UnrealProject/TTSGame/Content/BluePrint/HUD/HUD_TTSCanvas.uasset" SILENT=true
+[2022.10.06-02.44.28:155][280]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/HUD_TTSCanvas9B42DF37494940B35E4DEBB897EDEF0F.tmp' to '../../../../UnrealProject/TTSGame/Content/BluePrint/HUD/HUD_TTSCanvas.uasset'
+[2022.10.06-02.44.28:819][319]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.06-02.44.28:841][319]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/StartTown.StartTown:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown' with GeneratedClass '/Game/Maps/StartTown.StartTown_C' with ClassGeneratedBy '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown'
+[2022.10.06-02.44.28:841][319]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.06-02.44.28:841][319]PIE: New page: PIE session: StartTown (Oct 6, 2022, 8:44:28 PM)
+[2022.10.06-02.44.28:841][319]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartTown
+[2022.10.06-02.44.28:873][319]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031429s)
+[2022.10.06-02.44.28:873][319]LogAIModule: Creating AISystem for world StartTown
+[2022.10.06-02.44.28:874][319]LogPlayLevel: PIE: World Init took: (0.000820s)
+[2022.10.06-02.44.28:874][319]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartTown.StartTown to /Game/Maps/UEDPIE_0_StartTown.StartTown (0.032401s)
+[2022.10.06-02.44.28:913][319]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2022.10.06-02.44.29:034][319]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.10.06-02.44.29:079][319]LogInit: FAudioDevice initialized.
+[2022.10.06-02.44.29:094][319]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.06-02.44.29:094][319]LogLoad: Game class is 'BP_TTSGameMode_C'
+[2022.10.06-02.44.29:096][319]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartTown.StartTown up for play (max tick rate 60) at 2022.10.06-11.44.29
+[2022.10.06-02.44.29:096][319]LogWorld: Bringing up level for play took: 0.000737
+[2022.10.06-02.44.29:096][319]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2022.10.06-02.44.29:102][319]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_StartTown 1.065
+[2022.10.06-02.44.29:103][319]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/StartTown.StartTown:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown' with GeneratedClass '/Game/Maps/StartTown.StartTown_C' with ClassGeneratedBy '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown'
+[2022.10.06-02.44.37:696][831]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.10.06-02.44.37:771][835]LogSlate: Window 'TTSGame Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2022.10.06-02.44.37:779][835]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/StartTown.StartTown:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown' with GeneratedClass '/Game/Maps/StartTown.StartTown_C' with ClassGeneratedBy '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown'
+[2022.10.06-02.44.37:779][835]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartTown
+[2022.10.06-02.44.37:779][835]LogWorld: UWorld::CleanupWorld for StartTown, bSessionEnded=true, bCleanupResources=true
+[2022.10.06-02.44.37:785][835]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.06-02.44.37:785][835]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/StartTown.StartTown:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown' with GeneratedClass '/Game/Maps/StartTown.StartTown_C' with ClassGeneratedBy '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown'
+[2022.10.06-02.44.37:838][835]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2022.10.06-02.44.37:870][837]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.10.06-02.44.50:463][  7]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.06-02.44.51:464][ 67]BlueprintLog: New page: Compile HUD_TTSCanvas
+[2022.10.06-02.44.51:692][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2022.10.06-02.44.51:983][ 83]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/HUD/HUD_TTSCanvas" FILE="../../../../UnrealProject/TTSGame/Content/BluePrint/HUD/HUD_TTSCanvas.uasset" SILENT=true
+[2022.10.06-02.44.52:013][ 83]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/HUD_TTSCanvas7BBD87A940787C024146E894AEB5B2AD.tmp' to '../../../../UnrealProject/TTSGame/Content/BluePrint/HUD/HUD_TTSCanvas.uasset'
+[2022.10.06-02.44.52:627][119]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.06-02.44.52:652][119]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/StartTown.StartTown:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown' with GeneratedClass '/Game/Maps/StartTown.StartTown_C' with ClassGeneratedBy '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown'
+[2022.10.06-02.44.52:652][119]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.06-02.44.52:652][119]PIE: New page: PIE session: StartTown (Oct 6, 2022, 8:44:52 PM)
+[2022.10.06-02.44.52:652][119]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartTown
+[2022.10.06-02.44.52:682][119]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029937s)
+[2022.10.06-02.44.52:683][119]LogAIModule: Creating AISystem for world StartTown
+[2022.10.06-02.44.52:684][119]LogPlayLevel: PIE: World Init took: (0.001152s)
+[2022.10.06-02.44.52:684][119]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartTown.StartTown to /Game/Maps/UEDPIE_0_StartTown.StartTown (0.031259s)
+[2022.10.06-02.44.52:720][119]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2022.10.06-02.44.52:835][119]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.10.06-02.44.52:878][119]LogInit: FAudioDevice initialized.
+[2022.10.06-02.44.52:893][119]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.06-02.44.52:893][119]LogLoad: Game class is 'BP_TTSGameMode_C'
+[2022.10.06-02.44.52:894][119]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartTown.StartTown up for play (max tick rate 60) at 2022.10.06-11.44.52
+[2022.10.06-02.44.52:895][119]LogWorld: Bringing up level for play took: 0.001080
+[2022.10.06-02.44.52:895][119]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2022.10.06-02.44.52:901][119]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_StartTown 0.863
+[2022.10.06-02.44.52:901][119]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/StartTown.StartTown:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown' with GeneratedClass '/Game/Maps/StartTown.StartTown_C' with ClassGeneratedBy '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown'
+[2022.10.06-02.44.55:590][280]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.10.06-02.44.55:699][286]LogSlate: Window 'TTSGame Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2022.10.06-02.44.55:706][286]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/StartTown.StartTown:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown' with GeneratedClass '/Game/Maps/StartTown.StartTown_C' with ClassGeneratedBy '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown'
+[2022.10.06-02.44.55:706][286]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartTown
+[2022.10.06-02.44.55:707][286]LogWorld: UWorld::CleanupWorld for StartTown, bSessionEnded=true, bCleanupResources=true
+[2022.10.06-02.44.55:712][286]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.06-02.44.55:712][286]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/StartTown.StartTown:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown' with GeneratedClass '/Game/Maps/StartTown.StartTown_C' with ClassGeneratedBy '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown'
+[2022.10.06-02.44.55:765][286]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2022.10.06-02.44.55:796][288]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2022.10.06-02.45.01:764][332]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.06-02.45.03:133][414]BlueprintLog: New page: Compile HUD_TTSCanvas
+[2022.10.06-02.45.03:343][414]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2022.10.06-02.45.03:654][431]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/HUD/HUD_TTSCanvas" FILE="../../../../UnrealProject/TTSGame/Content/BluePrint/HUD/HUD_TTSCanvas.uasset" SILENT=true
+[2022.10.06-02.45.03:683][431]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/HUD_TTSCanvas016A122B471D5DE47B24579EE488F724.tmp' to '../../../../UnrealProject/TTSGame/Content/BluePrint/HUD/HUD_TTSCanvas.uasset'
+[2022.10.06-02.45.04:577][484]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.06-02.45.04:598][484]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/StartTown.StartTown:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown' with GeneratedClass '/Game/Maps/StartTown.StartTown_C' with ClassGeneratedBy '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown'
+[2022.10.06-02.45.04:598][484]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.06-02.45.04:599][484]PIE: New page: PIE session: StartTown (Oct 6, 2022, 8:45:04 PM)
+[2022.10.06-02.45.04:599][484]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartTown
+[2022.10.06-02.45.04:631][484]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032100s)
+[2022.10.06-02.45.04:632][484]LogAIModule: Creating AISystem for world StartTown
+[2022.10.06-02.45.04:632][484]LogPlayLevel: PIE: World Init took: (0.000856s)
+[2022.10.06-02.45.04:632][484]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartTown.StartTown to /Game/Maps/UEDPIE_0_StartTown.StartTown (0.033140s)
+[2022.10.06-02.45.04:670][484]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2022.10.06-02.45.04:788][484]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.10.06-02.45.04:831][484]LogInit: FAudioDevice initialized.
+[2022.10.06-02.45.04:843][484]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.06-02.45.04:843][484]LogLoad: Game class is 'BP_TTSGameMode_C'
+[2022.10.06-02.45.04:845][484]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartTown.StartTown up for play (max tick rate 60) at 2022.10.06-11.45.04
+[2022.10.06-02.45.04:845][484]LogWorld: Bringing up level for play took: 0.000984
+[2022.10.06-02.45.04:845][484]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2022.10.06-02.45.04:851][484]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_StartTown 0.814
+[2022.10.06-02.45.04:852][484]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/StartTown.StartTown:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown' with GeneratedClass '/Game/Maps/StartTown.StartTown_C' with ClassGeneratedBy '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown'
+[2022.10.06-02.45.15:510][123]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.10.06-02.45.15:601][128]LogSlate: Window 'TTSGame Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2022.10.06-02.45.15:609][128]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/StartTown.StartTown:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown' with GeneratedClass '/Game/Maps/StartTown.StartTown_C' with ClassGeneratedBy '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown'
+[2022.10.06-02.45.15:609][128]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartTown
+[2022.10.06-02.45.15:609][128]LogWorld: UWorld::CleanupWorld for StartTown, bSessionEnded=true, bCleanupResources=true
+[2022.10.06-02.45.15:621][128]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.06-02.45.15:621][128]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/StartTown.StartTown:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown' with GeneratedClass '/Game/Maps/StartTown.StartTown_C' with ClassGeneratedBy '/Game/Maps/StartTown.StartTown:PersistentLevel.StartTown'
+[2022.10.06-02.45.15:673][128]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2022.10.06-02.45.15:706][130]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.10.06-02.45.39:712][570]BlueprintLog: New page: Compile BP_TTSMainPlayerController
+[2022.10.06-02.45.39:960][570]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2022.10.06-02.45.40:276][585]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/Player/BP_TTSMainPlayerController" FILE="../../../../UnrealProject/TTSGame/Content/BluePrint/Player/BP_TTSMainPlayerController.uasset" SILENT=true
+[2022.10.06-02.45.40:343][585]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/BP_TTSMainPlayerController5CA6BF884502872293DC5A8F07A17221.tmp' to '../../../../UnrealProject/TTSGame/Content/BluePrint/Player/BP_TTSMainPlayerController.uasset'
+[2022.10.06-02.49.42:397][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2022.10.06-02.49.42:398][ 74]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/StartTown' took 0.054
+[2022.10.06-02.49.42:399][ 74]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrint/HUD/HUD_TTSCanvas] ([1] browsable assets)...
+[2022.10.06-02.49.42:399][ 74]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/HUD/HUD_TTSCanvas]
+[2022.10.06-02.49.42:399][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/HUD/HUD_TTSCanvas" FILE="../../../../UnrealProject/TTSGame/Saved/Autosaves/Game/BluePrint/HUD/HUD_TTSCanvas_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2022.10.06-02.49.42:442][ 74]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/HUD_TTSCanvas_Auto44E5A27D24D3D1AD3F9C4D8A95CCD783B.tmp' to '../../../../UnrealProject/TTSGame/Saved/Autosaves/Game/BluePrint/HUD/HUD_TTSCanvas_Auto4.uasset'
+[2022.10.06-02.49.42:444][ 74]LogFileHelpers: Auto-saving content packages took 0.045
+[2022.10.06-02.52.27:926][721]LogSlate: Window 'Change Variable Type' being destroyed
+[2022.10.06-02.59.51:086][254]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={FA6CF467-4810-1BC0-BD80-FDB19EC51915}
+[2022.10.06-03.00.23:539][197]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2022.10.06-03.00.23:540][197]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/StartTown' took 0.043
+[2022.10.06-03.00.23:542][197]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrint/Player/BP_TTSMainPlayerController] ([1] browsable assets)...
+[2022.10.06-03.00.23:542][197]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/Player/BP_TTSMainPlayerController]
+[2022.10.06-03.00.23:610][197]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/BP_TTSMainPlayerController_Auto5C27E67F74E6D527A0B535DA11DAA9B52.tmp' to '../../../../UnrealProject/TTSGame/Saved/Autosaves/Game/BluePrint/Player/BP_TTSMainPlayerController_Auto5.uasset'
+[2022.10.06-03.00.23:611][197]LogFileHelpers: Auto-saving content packages took 0.069
+[2022.10.06-03.00.48:921][368]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2022.10.06-03.00.48:932][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:932][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:933][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:933][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:933][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:933][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:933][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:933][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:933][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:933][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:933][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:933][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:934][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:934][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:934][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:934][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:934][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:934][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:934][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:934][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:934][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:935][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:935][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:935][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:935][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:935][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:935][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:935][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:936][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:936][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:936][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:936][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:936][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:936][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:936][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:936][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:936][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:936][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:937][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:937][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:937][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:937][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:937][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:937][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:937][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:937][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:938][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:938][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:938][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:938][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:938][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:938][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:938][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:939][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:939][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:939][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:939][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:939][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:939][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:939][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:939][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:939][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:939][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:939][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:940][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:940][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:940][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:940][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:940][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:940][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:941][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:941][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:941][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:941][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:941][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:941][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:942][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:942][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:942][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:942][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:942][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:943][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:943][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:943][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:943][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:943][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:943][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:943][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:943][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:943][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:944][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:944][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:944][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:944][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:944][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:944][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:944][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:944][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:944][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:944][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:944][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:944][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:945][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:945][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:945][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:945][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:945][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:945][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:945][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:945][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:945][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:945][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:945][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:945][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:946][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:946][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:962][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:962][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:963][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:996][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:998][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.48:998][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.49:000][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.49:047][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.49:106][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.49:208][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.49:213][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.49:213][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.49:213][368]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.06-03.00.51:256][375]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={577ABD85-477A-3FF0-32A8-E38B9D49571D}
+[2022.10.06-03.10.23:916][  6]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.10.06-03.10.23:916][  6]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/StartTown' took 0.035
+[2022.10.06-03.10.23:918][  6]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrint/Player/BP_TTSMainPlayerController] ([1] browsable assets)...
+[2022.10.06-03.10.23:918][  6]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/Player/BP_TTSMainPlayerController]
+[2022.10.06-03.10.23:997][  6]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/BP_TTSMainPlayerController_Auto680859C6D43BD52F0E1593C87BADA4093.tmp' to '../../../../UnrealProject/TTSGame/Saved/Autosaves/Game/BluePrint/Player/BP_TTSMainPlayerController_Auto6.uasset'
+[2022.10.06-03.10.23:998][  6]LogFileHelpers: Auto-saving content packages took 0.081
+[2022.10.06-03.11.38:769][558]BlueprintLog: New page: Compile BP_TTSMainPlayerController
+[2022.10.06-03.11.38:783][558]LogClass: Warning: Type mismatch in SelectedActors of BP_TTSMainPlayerController_C - Previous (ObjectProperty) Current(ArrayProperty) for package:  FObjectReader
+[2022.10.06-03.11.38:784][558]LogBlueprint: Warning: [Compiler BP_TTSMainPlayerController] Can't parse default value 'None' for  . Property: SelectedActors.
+[2022.10.06-03.11.39:000][558]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2022.10.06-03.11.39:435][579]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/Player/BP_TTSMainPlayerController" FILE="../../../../UnrealProject/TTSGame/Content/BluePrint/Player/BP_TTSMainPlayerController.uasset" SILENT=true
+[2022.10.06-03.11.39:506][579]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/BP_TTSMainPlayerController0A936C154858BB89C224BBB776FDAF8B.tmp' to '../../../../UnrealProject/TTSGame/Content/BluePrint/Player/BP_TTSMainPlayerController.uasset'
+[2022.10.06-03.20.24:810][333]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2022.10.06-03.20.24:810][333]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/StartTown' took 0.049
+[2022.10.06-03.20.24:812][333]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrint/Piece/BP_TTSChararcter] ([1] browsable assets)...
+[2022.10.06-03.20.24:858][333]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrint/Piece/BP_TTSChararcter.BP_TTSChararcter]
+[2022.10.06-03.20.24:859][333]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/Piece/BP_TTSChararcter]
+[2022.10.06-03.20.24:896][333]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/BP_TTSChararcter_Auto7B2C7CCDD49039AC681ECAD817552945D.tmp' to '../../../../UnrealProject/TTSGame/Saved/Autosaves/Game/BluePrint/Piece/BP_TTSChararcter_Auto7.uasset'
+[2022.10.06-03.20.24:897][333]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrint/Player/BP_TTSMainPlayerController] ([1] browsable assets)...
+[2022.10.06-03.20.24:898][333]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/Player/BP_TTSMainPlayerController]
+[2022.10.06-03.20.24:975][333]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/BP_TTSMainPlayerController_Auto73BD2913C48523907653425B7AF5459BD.tmp' to '../../../../UnrealProject/TTSGame/Saved/Autosaves/Game/BluePrint/Player/BP_TTSMainPlayerController_Auto7.uasset'
+[2022.10.06-03.20.24:975][333]LogFileHelpers: Auto-saving content packages took 0.165
+[2022.10.06-03.38.45:498][ 11]BlueprintLog: New page: Compile BP_TTSChararcter
+[2022.10.06-03.38.45:723][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2022.10.06-03.38.46:059][ 28]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/Piece/BP_TTSChararcter" FILE="../../../../UnrealProject/TTSGame/Content/BluePrint/Piece/BP_TTSChararcter.uasset" SILENT=true
+[2022.10.06-03.38.46:095][ 28]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/BP_TTSChararcterD482B7344254C05E0A6B6DA3FEDC498E.tmp' to '../../../../UnrealProject/TTSGame/Content/BluePrint/Piece/BP_TTSChararcter.uasset'
+[2022.10.06-03.39.38:321][142]BlueprintLog: New page: Compile BP_TTSMainPlayerController
+[2022.10.06-03.39.38:546][142]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2022.10.06-03.40.37:628][653]BlueprintLog: New page: Compile BP_TTSMainPlayerController
+[2022.10.06-03.40.37:858][653]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2022.10.06-03.40.38:254][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/Player/BP_TTSMainPlayerController" FILE="../../../../UnrealProject/TTSGame/Content/BluePrint/Player/BP_TTSMainPlayerController.uasset" SILENT=true
+[2022.10.06-03.40.38:332][675]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/BP_TTSMainPlayerControllerE46FFF65428873F1D788B98250AE6F7B.tmp' to '../../../../UnrealProject/TTSGame/Content/BluePrint/Player/BP_TTSMainPlayerController.uasset'
+[2022.10.06-03.45.45:489][697]BlueprintLog: New page: Compile BP_TTSMainPlayerController
+[2022.10.06-03.45.45:742][697]LogUObjectHash: Compacting FUObjectHashTables data took   6.10ms
+[2022.10.06-03.45.46:101][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/Player/BP_TTSMainPlayerController" FILE="../../../../UnrealProject/TTSGame/Content/BluePrint/Player/BP_TTSMainPlayerController.uasset" SILENT=true
+[2022.10.06-03.45.46:174][714]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/BP_TTSMainPlayerController506A58BF4DF5ECC55EB7E7B2563C9787.tmp' to '../../../../UnrealProject/TTSGame/Content/BluePrint/Player/BP_TTSMainPlayerController.uasset'
+[2022.10.06-03.46.07:017][941]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.10.06-03.46.56:887][306]BlueprintLog: New page: Compile HUD_TTSCanvas
+[2022.10.06-03.46.57:125][306]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2022.10.06-03.46.57:440][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/HUD/HUD_TTSCanvas" FILE="../../../../UnrealProject/TTSGame/Content/BluePrint/HUD/HUD_TTSCanvas.uasset" SILENT=true
+[2022.10.06-03.46.57:481][323]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/HUD_TTSCanvasFD1DA7164D4BF7C057D8A2BFA6422654.tmp' to '../../../../UnrealProject/TTSGame/Content/BluePrint/HUD/HUD_TTSCanvas.uasset'
+[2022.10.06-03.49.05:005][888]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2022.10.06-03.49.05:005][888]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/StartTown' took 0.038
+[2022.10.06-03.49.05:006][888]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrint/Piece/BP_TTSChararcter] ([1] browsable assets)...
+[2022.10.06-03.49.05:036][888]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrint/Piece/BP_TTSChararcter.BP_TTSChararcter]
+[2022.10.06-03.49.05:036][888]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/Piece/BP_TTSChararcter]
+[2022.10.06-03.49.05:071][888]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/BP_TTSChararcter_Auto8500B66A545368029952C7FBB7528059B.tmp' to '../../../../UnrealProject/TTSGame/Saved/Autosaves/Game/BluePrint/Piece/BP_TTSChararcter_Auto8.uasset'
+[2022.10.06-03.49.05:071][888]LogFileHelpers: Auto-saving content packages took 0.066
+[2022.10.06-03.50.03:256][367]BlueprintLog: New page: Compile BP_TTSChararcter
+[2022.10.06-03.50.03:477][367]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2022.10.06-03.50.03:783][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/Piece/BP_TTSChararcter" FILE="../../../../UnrealProject/TTSGame/Content/BluePrint/Piece/BP_TTSChararcter.uasset" SILENT=true
+[2022.10.06-03.50.03:813][381]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/BP_TTSChararcter86E32657451F54BC621908B240BDBC45.tmp' to '../../../../UnrealProject/TTSGame/Content/BluePrint/Piece/BP_TTSChararcter.uasset'
+[2022.10.06-03.51.35:817][881]BlueprintLog: New page: Compile BP_TTSChararcter
+[2022.10.06-03.51.36:047][881]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2022.10.06-03.51.36:217][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/Piece/BP_TTSChararcter" FILE="../../../../UnrealProject/TTSGame/Content/BluePrint/Piece/BP_TTSChararcter.uasset" SILENT=true
+[2022.10.06-03.51.36:253][887]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/BP_TTSChararcter986A82C9468B3D6F9711C6982E8755C7.tmp' to '../../../../UnrealProject/TTSGame/Content/BluePrint/Piece/BP_TTSChararcter.uasset'
+[2022.10.06-03.51.46:598][487]BlueprintLog: New page: Compile BP_TTSChararcter
+[2022.10.06-03.51.46:823][487]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2022.10.06-03.51.47:161][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/Piece/BP_TTSChararcter" FILE="../../../../UnrealProject/TTSGame/Content/BluePrint/Piece/BP_TTSChararcter.uasset" SILENT=true
+[2022.10.06-03.51.47:192][503]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/BP_TTSChararcterFE5F06C64D709215EB9C1EB568A76E62.tmp' to '../../../../UnrealProject/TTSGame/Content/BluePrint/Piece/BP_TTSChararcter.uasset'
+[2022.10.06-03.59.05:426][631]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2022.10.06-03.59.05:426][631]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/StartTown' took 0.047
+[2022.10.06-03.59.05:428][631]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrint/Piece/BP_TTSChararcter] ([1] browsable assets)...
+[2022.10.06-03.59.05:459][631]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrint/Piece/BP_TTSChararcter.BP_TTSChararcter]
+[2022.10.06-03.59.05:459][631]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/Piece/BP_TTSChararcter]
+[2022.10.06-03.59.05:491][631]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/BP_TTSChararcter_Auto90E3864C047A393374CEB08A20A489002.tmp' to '../../../../UnrealProject/TTSGame/Saved/Autosaves/Game/BluePrint/Piece/BP_TTSChararcter_Auto9.uasset'
+[2022.10.06-03.59.05:492][631]LogFileHelpers: Auto-saving content packages took 0.064
+[2022.10.06-04.04.50:105][110]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.10.06-04.04.50:748][111]LogInit: XAudio2 using '헤드폰(BS-BT101 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
