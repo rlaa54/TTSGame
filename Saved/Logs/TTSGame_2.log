@@ -1,4 +1,4 @@
-﻿Log file open, 10/06/22 14:39:26
+﻿Log file open, 10/10/22 08:06:31
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -9,7 +9,7 @@ LogConsoleResponse: Display: Failed to find resolution value strings in scalabil
 LogInit: Display: Running engine for game: TTSGame
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.093003
+LogStats: Stats thread started at 0.097896
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -157,836 +157,829 @@ LogInit: Presizing for max 16777216 objects, including 0 objects not considered 
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
-[2022.10.06-05.39.26:477][  0]LogConfig: Setting CVar [[r.VSync:0]]
-[2022.10.06-05.39.26:477][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
-[2022.10.06-05.39.26:477][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Engine.ini]
-[2022.10.06-05.39.26:477][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
-[2022.10.06-05.39.26:477][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
-[2022.10.06-05.39.26:477][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
-[2022.10.06-05.39.26:477][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
-[2022.10.06-05.39.26:477][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
-[2022.10.06-05.39.26:477][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
-[2022.10.06-05.39.26:477][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
-[2022.10.06-05.39.26:477][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
-[2022.10.06-05.39.26:477][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
-[2022.10.06-05.39.26:477][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
-[2022.10.06-05.39.26:477][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
-[2022.10.06-05.39.26:477][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
-[2022.10.06-05.39.26:477][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
-[2022.10.06-05.39.26:477][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
-[2022.10.06-05.39.26:477][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
-[2022.10.06-05.39.26:477][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
-[2022.10.06-05.39.26:477][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
-[2022.10.06-05.39.26:477][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
-[2022.10.06-05.39.26:477][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
-[2022.10.06-05.39.26:477][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
-[2022.10.06-05.39.26:477][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
-[2022.10.06-05.39.26:477][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
-[2022.10.06-05.39.26:477][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
-[2022.10.06-05.39.26:477][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
-[2022.10.06-05.39.26:477][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
-[2022.10.06-05.39.26:477][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
-[2022.10.06-05.39.26:477][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
-[2022.10.06-05.39.26:477][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
-[2022.10.06-05.39.26:477][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
-[2022.10.06-05.39.26:477][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
-[2022.10.06-05.39.26:477][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
-[2022.10.06-05.39.26:477][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
-[2022.10.06-05.39.26:477][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
-[2022.10.06-05.39.26:477][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
-[2022.10.06-05.39.26:477][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
-[2022.10.06-05.39.26:477][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
-[2022.10.06-05.39.26:477][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
-[2022.10.06-05.39.26:477][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
-[2022.10.06-05.39.26:477][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
-[2022.10.06-05.39.26:477][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
-[2022.10.06-05.39.26:477][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
-[2022.10.06-05.39.26:478][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
-[2022.10.06-05.39.26:478][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
-[2022.10.06-05.39.26:478][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
-[2022.10.06-05.39.26:478][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
-[2022.10.06-05.39.26:478][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
-[2022.10.06-05.39.26:478][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
-[2022.10.06-05.39.26:478][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
-[2022.10.06-05.39.26:478][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:1]]
-[2022.10.06-05.39.26:478][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
-[2022.10.06-05.39.26:478][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
-[2022.10.06-05.39.26:478][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
-[2022.10.06-05.39.26:478][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
-[2022.10.06-05.39.26:478][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
-[2022.10.06-05.39.26:478][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
-[2022.10.06-05.39.26:478][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
-[2022.10.06-05.39.26:478][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
-[2022.10.06-05.39.26:478][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
-[2022.10.06-05.39.26:478][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
-[2022.10.06-05.39.26:478][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
-[2022.10.06-05.39.26:478][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
-[2022.10.06-05.39.26:478][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
-[2022.10.06-05.39.26:478][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
-[2022.10.06-05.39.26:478][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
-[2022.10.06-05.39.26:478][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
-[2022.10.06-05.39.26:478][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
-[2022.10.06-05.39.26:478][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
-[2022.10.06-05.39.26:478][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
-[2022.10.06-05.39.26:478][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
-[2022.10.06-05.39.26:478][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
-[2022.10.06-05.39.26:478][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
-[2022.10.06-05.39.26:478][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
-[2022.10.06-05.39.26:478][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
-[2022.10.06-05.39.26:478][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
-[2022.10.06-05.39.26:478][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
-[2022.10.06-05.39.26:478][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
-[2022.10.06-05.39.26:478][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
-[2022.10.06-05.39.26:478][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
-[2022.10.06-05.39.26:478][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
-[2022.10.06-05.39.26:478][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
-[2022.10.06-05.39.26:478][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
-[2022.10.06-05.39.26:478][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
-[2022.10.06-05.39.26:478][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
-[2022.10.06-05.39.26:478][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
-[2022.10.06-05.39.26:478][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
-[2022.10.06-05.39.26:478][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
-[2022.10.06-05.39.26:478][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
-[2022.10.06-05.39.26:478][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
-[2022.10.06-05.39.26:478][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
-[2022.10.06-05.39.26:478][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
-[2022.10.06-05.39.26:478][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
-[2022.10.06-05.39.26:478][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
-[2022.10.06-05.39.26:478][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
-[2022.10.06-05.39.26:478][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Engine.ini]
-[2022.10.06-05.39.26:478][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Engine.ini]
-[2022.10.06-05.39.26:478][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
-[2022.10.06-05.39.26:478][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
-[2022.10.06-05.39.26:478][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
-[2022.10.06-05.39.26:478][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
-[2022.10.06-05.39.26:479][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
-[2022.10.06-05.39.26:479][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
-[2022.10.06-05.39.26:479][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
-[2022.10.06-05.39.26:479][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
-[2022.10.06-05.39.26:479][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
-[2022.10.06-05.39.26:479][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
-[2022.10.06-05.39.26:479][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
-[2022.10.06-05.39.26:479][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
-[2022.10.06-05.39.26:479][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
-[2022.10.06-05.39.26:479][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Engine.ini]
-[2022.10.06-05.39.26:479][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
-[2022.10.06-05.39.26:479][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
-[2022.10.06-05.39.26:479][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
-[2022.10.06-05.39.26:479][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
-[2022.10.06-05.39.26:479][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
-[2022.10.06-05.39.26:479][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
-[2022.10.06-05.39.26:479][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
-[2022.10.06-05.39.26:479][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
-[2022.10.06-05.39.26:479][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
-[2022.10.06-05.39.26:479][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
-[2022.10.06-05.39.26:479][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
-[2022.10.06-05.39.26:479][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
-[2022.10.06-05.39.26:479][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
-[2022.10.06-05.39.26:479][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Engine.ini]
-[2022.10.06-05.39.26:479][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Engine.ini]
-[2022.10.06-05.39.26:487][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Scalability.ini]
-[2022.10.06-05.39.26:487][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2022.10.06-05.39.26:487][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2022.10.06-05.39.26:487][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Scalability.ini]
-[2022.10.06-05.39.26:487][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2022.10.06-05.39.26:487][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Scalability.ini]
-[2022.10.06-05.39.26:487][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2022.10.06-05.39.26:487][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2022.10.06-05.39.26:487][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2022.10.06-05.39.26:487][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2022.10.06-05.39.26:487][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2022.10.06-05.39.26:487][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2022.10.06-05.39.26:487][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2022.10.06-05.39.26:487][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2022.10.06-05.39.26:487][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2022.10.06-05.39.26:487][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2022.10.06-05.39.26:487][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2022.10.06-05.39.26:487][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2022.10.06-05.39.26:487][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2022.10.06-05.39.26:487][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2022.10.06-05.39.26:487][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2022.10.06-05.39.26:487][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2022.10.06-05.39.26:487][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2022.10.06-05.39.26:487][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2022.10.06-05.39.26:487][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Scalability.ini]
-[2022.10.06-05.39.26:487][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2022.10.06-05.39.26:487][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2022.10.06-05.39.26:487][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2022.10.06-05.39.26:487][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2022.10.06-05.39.26:487][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2022.10.06-05.39.26:487][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2022.10.06-05.39.26:487][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2022.10.06-05.39.26:487][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2022.10.06-05.39.26:487][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2022.10.06-05.39.26:487][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2022.10.06-05.39.26:487][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2022.10.06-05.39.26:487][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2022.10.06-05.39.26:487][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2022.10.06-05.39.26:488][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2022.10.06-05.39.26:488][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2022.10.06-05.39.26:488][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2022.10.06-05.39.26:488][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2022.10.06-05.39.26:488][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2022.10.06-05.39.26:488][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2022.10.06-05.39.26:488][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2022.10.06-05.39.26:488][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2022.10.06-05.39.26:488][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2022.10.06-05.39.26:488][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2022.10.06-05.39.26:488][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2022.10.06-05.39.26:488][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2022.10.06-05.39.26:488][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2022.10.06-05.39.26:488][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2022.10.06-05.39.26:488][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2022.10.06-05.39.26:488][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2022.10.06-05.39.26:488][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2022.10.06-05.39.26:488][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Scalability.ini]
-[2022.10.06-05.39.26:488][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2022.10.06-05.39.26:488][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2022.10.06-05.39.26:488][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2022.10.06-05.39.26:488][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2022.10.06-05.39.26:488][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2022.10.06-05.39.26:488][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2022.10.06-05.39.26:488][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2022.10.06-05.39.26:488][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2022.10.06-05.39.26:488][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Scalability.ini]
-[2022.10.06-05.39.26:488][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2022.10.06-05.39.26:488][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2022.10.06-05.39.26:488][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2022.10.06-05.39.26:488][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2022.10.06-05.39.26:488][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2022.10.06-05.39.26:488][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2022.10.06-05.39.26:488][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2022.10.06-05.39.26:488][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2022.10.06-05.39.26:488][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2022.10.06-05.39.26:488][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2022.10.06-05.39.26:488][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
-[2022.10.06-05.39.26:488][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2022.10.06-05.39.26:488][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2022.10.06-05.39.26:488][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Scalability.ini]
-[2022.10.06-05.39.26:488][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2022.10.06-05.39.26:488][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2022.10.06-05.39.26:488][  0]LogInit: Selected Device Profile: [Windows]
-[2022.10.06-05.39.26:488][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2022.10.06-05.39.26:491][  0]LogHAL: Display: Platform has ~ 16 GB [17097846784 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
-[2022.10.06-05.39.26:491][  0]LogInit: Going up to parent DeviceProfile []
-[2022.10.06-05.39.26:491][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Scalability.ini]
-[2022.10.06-05.39.26:492][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2022.10.06-05.39.26:492][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2022.10.06-05.39.26:492][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Scalability.ini]
-[2022.10.06-05.39.26:492][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2022.10.06-05.39.26:492][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Scalability.ini]
-[2022.10.06-05.39.26:492][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2022.10.06-05.39.26:492][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2022.10.06-05.39.26:492][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2022.10.06-05.39.26:492][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2022.10.06-05.39.26:492][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2022.10.06-05.39.26:492][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2022.10.06-05.39.26:492][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2022.10.06-05.39.26:492][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2022.10.06-05.39.26:492][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2022.10.06-05.39.26:492][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2022.10.06-05.39.26:492][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2022.10.06-05.39.26:492][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2022.10.06-05.39.26:492][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2022.10.06-05.39.26:492][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2022.10.06-05.39.26:492][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2022.10.06-05.39.26:492][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2022.10.06-05.39.26:492][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2022.10.06-05.39.26:492][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2022.10.06-05.39.26:492][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Scalability.ini]
-[2022.10.06-05.39.26:492][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2022.10.06-05.39.26:492][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2022.10.06-05.39.26:492][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2022.10.06-05.39.26:492][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2022.10.06-05.39.26:492][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2022.10.06-05.39.26:492][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2022.10.06-05.39.26:492][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2022.10.06-05.39.26:492][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2022.10.06-05.39.26:492][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2022.10.06-05.39.26:492][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2022.10.06-05.39.26:492][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2022.10.06-05.39.26:492][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2022.10.06-05.39.26:492][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2022.10.06-05.39.26:492][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2022.10.06-05.39.26:492][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2022.10.06-05.39.26:492][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2022.10.06-05.39.26:492][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2022.10.06-05.39.26:492][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2022.10.06-05.39.26:492][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2022.10.06-05.39.26:492][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2022.10.06-05.39.26:492][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2022.10.06-05.39.26:492][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2022.10.06-05.39.26:492][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2022.10.06-05.39.26:492][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2022.10.06-05.39.26:492][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2022.10.06-05.39.26:492][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2022.10.06-05.39.26:492][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2022.10.06-05.39.26:492][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2022.10.06-05.39.26:492][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2022.10.06-05.39.26:492][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2022.10.06-05.39.26:492][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Scalability.ini]
-[2022.10.06-05.39.26:492][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2022.10.06-05.39.26:492][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2022.10.06-05.39.26:492][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2022.10.06-05.39.26:492][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2022.10.06-05.39.26:492][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2022.10.06-05.39.26:492][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2022.10.06-05.39.26:492][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2022.10.06-05.39.26:493][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2022.10.06-05.39.26:493][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Scalability.ini]
-[2022.10.06-05.39.26:493][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2022.10.06-05.39.26:493][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2022.10.06-05.39.26:493][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2022.10.06-05.39.26:493][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2022.10.06-05.39.26:493][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2022.10.06-05.39.26:493][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2022.10.06-05.39.26:493][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2022.10.06-05.39.26:493][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2022.10.06-05.39.26:493][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2022.10.06-05.39.26:493][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2022.10.06-05.39.26:493][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
-[2022.10.06-05.39.26:493][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2022.10.06-05.39.26:493][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2022.10.06-05.39.26:493][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Scalability.ini]
-[2022.10.06-05.39.26:493][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2022.10.06-05.39.26:493][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2022.10.06-05.39.26:493][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
-[2022.10.06-05.39.26:493][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
-[2022.10.06-05.39.26:493][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
-[2022.10.06-05.39.26:493][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Engine.ini]
-[2022.10.06-05.39.26:493][  0]LogInit: Computer: DESKTOP-MURC6HF
-[2022.10.06-05.39.26:493][  0]LogInit: User: kimminwoong
-[2022.10.06-05.39.26:493][  0]LogInit: CPU Page size=4096, Cores=4
-[2022.10.06-05.39.26:493][  0]LogInit: High frequency timer resolution =10.000000 MHz
-[2022.10.06-05.39.26:493][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
-[2022.10.06-05.39.26:493][  0]LogMemory: Platform Memory Stats for Windows
-[2022.10.06-05.39.26:493][  0]LogMemory: Process Physical Memory: 105.14 MB used, 105.14 MB peak
-[2022.10.06-05.39.26:493][  0]LogMemory: Process Virtual Memory: 99.10 MB used, 99.10 MB peak
-[2022.10.06-05.39.26:493][  0]LogMemory: Physical Memory: 9301.26 MB used,  7004.52 MB free, 16305.78 MB total
-[2022.10.06-05.39.26:493][  0]LogMemory: Virtual Memory: 4668.94 MB used,  134213056.00 MB free, 134217728.00 MB total
-[2022.10.06-05.39.26:500][  0]LogWindows: WindowsPlatformFeatures enabled
-[2022.10.06-05.39.26:632][  0]LogInit: Overriding language with editor language configuration option (en).
-[2022.10.06-05.39.26:632][  0]LogInit: Overriding locale with editor locale configuration option (en).
-[2022.10.06-05.39.26:831][  0]LogInit: Setting process to per monitor DPI aware
-[2022.10.06-05.39.26:909][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2022.10.06-05.39.26:910][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2022.10.06-05.39.27:189][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2022.10.06-05.39.27:189][  0]LogD3D11RHI: D3D11 adapters:
-[2022.10.06-05.39.27:415][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
-[2022.10.06-05.39.27:415][  0]LogD3D11RHI:       4043/0/8152 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
-[2022.10.06-05.39.27:418][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2022.10.06-05.39.27:418][  0]LogD3D11RHI:       0/0/8152 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2022.10.06-05.39.27:418][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2022.10.06-05.39.27:425][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2022.10.06-05.39.27:425][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
-[2022.10.06-05.39.27:425][  0]LogWindows: EnumDisplayDevices:
-[2022.10.06-05.39.27:426][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
-[2022.10.06-05.39.27:427][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:1)
-[2022.10.06-05.39.27:428][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
-[2022.10.06-05.39.27:430][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
-[2022.10.06-05.39.27:430][  0]LogWindows: DebugString: FoundDriverCount:4 
-[2022.10.06-05.39.27:430][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
-[2022.10.06-05.39.27:430][  0]LogD3D11RHI:   Driver Version: 516.94 (internal:31.0.15.1694, unified:516.94)
-[2022.10.06-05.39.27:430][  0]LogD3D11RHI:      Driver Date: 7-21-2022
-[2022.10.06-05.39.27:431][  0]LogRHI: Texture pool is 2830 MB (70% of 4043 MB)
-[2022.10.06-05.39.27:513][  0]LogD3D11RHI: Async texture creation enabled
-[2022.10.06-05.39.27:535][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
-[2022.10.06-05.39.28:036][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
-[2022.10.06-05.39.28:046][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
-[2022.10.06-05.39.28:055][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
-[2022.10.06-05.39.28:064][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
-[2022.10.06-05.39.28:079][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
-[2022.10.06-05.39.28:087][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
-[2022.10.06-05.39.28:096][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
-[2022.10.06-05.39.28:106][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
-[2022.10.06-05.39.28:110][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
-[2022.10.06-05.39.28:147][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
-[2022.10.06-05.39.28:147][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
-[2022.10.06-05.39.28:147][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
-[2022.10.06-05.39.28:147][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
-[2022.10.06-05.39.28:147][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
-[2022.10.06-05.39.28:147][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
-[2022.10.06-05.39.28:147][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
-[2022.10.06-05.39.28:147][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
-[2022.10.06-05.39.28:147][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
-[2022.10.06-05.39.28:147][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
-[2022.10.06-05.39.28:147][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
-[2022.10.06-05.39.28:147][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
-[2022.10.06-05.39.28:147][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
-[2022.10.06-05.39.28:147][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
-[2022.10.06-05.39.28:147][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
-[2022.10.06-05.39.28:147][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
-[2022.10.06-05.39.28:147][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
-[2022.10.06-05.39.28:147][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
-[2022.10.06-05.39.28:150][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
-[2022.10.06-05.39.28:174][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
-[2022.10.06-05.39.28:174][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
-[2022.10.06-05.39.28:189][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
-[2022.10.06-05.39.28:189][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
-[2022.10.06-05.39.28:200][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
-[2022.10.06-05.39.28:210][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
-[2022.10.06-05.39.28:217][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
-[2022.10.06-05.39.28:234][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
-[2022.10.06-05.39.28:260][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
-[2022.10.06-05.39.28:260][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
-[2022.10.06-05.39.28:260][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2022.10.06-05.39.28:270][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
-[2022.10.06-05.39.28:331][  0]LogShaderCompilers: Guid format shader working directory is 18 characters bigger than the processId version (../../../../UnrealProject/TTSGame/Intermediate/Shaders/WorkingDirectory/11740/).
-[2022.10.06-05.39.28:331][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/kimminwoong/AppData/Local/Temp/UnrealShaderWorkingDir/CB83297944BF69A505A79A978A17F9DE/'.
-[2022.10.06-05.39.28:333][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
-[2022.10.06-05.39.28:333][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
-[2022.10.06-05.39.28:334][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2022.10.06-05.39.28:982][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2022.10.06-05.39.29:031][  0]LogDerivedDataCache: Loaded boot cache 0.05s 73MB C:/Users/kimminwoong/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
-[2022.10.06-05.39.29:031][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/kimminwoong/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
-[2022.10.06-05.39.29:031][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../UnrealProject/TTSGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2022.10.06-05.39.29:031][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2022.10.06-05.39.29:031][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../UnrealProject/TTSGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2022.10.06-05.39.29:031][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2022.10.06-05.39.29:041][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2022.10.06-05.39.29:041][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2022.10.06-05.39.29:041][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
-[2022.10.06-05.39.29:043][  0]LogDerivedDataCache: Using Local data cache path C:/Users/kimminwoong/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2022.10.06-05.39.29:043][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
-[2022.10.06-05.39.29:044][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
-[2022.10.06-05.39.29:066][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2022.10.06-05.39.29:068][  0]LogSlate: Using FreeType 2.6.0
-[2022.10.06-05.39.29:069][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2022.10.06-05.39.29:142][  0]LogAssetRegistry: FAssetRegistry took 0.0029 seconds to start up
-[2022.10.06-05.39.29:414][  0]LogInit: Selected Device Profile: [Windows]
-[2022.10.06-05.39.29:567][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2022.10.06-05.39.29:567][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
-[2022.10.06-05.39.29:567][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
-[2022.10.06-05.39.29:567][  0]LogMeshReduction: No distributed automatic mesh merging module available
-[2022.10.06-05.39.29:567][  0]LogMeshMerging: No distributed automatic mesh merging module available
-[2022.10.06-05.39.29:577][  0]LogNetVersion: TTSGame 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 1457153238)
-[2022.10.06-05.39.29:985][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.043974 seconds
-[2022.10.06-05.39.29:991][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
-[2022.10.06-05.39.29:991][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
-[2022.10.06-05.39.29:991][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2022.10.06-05.39.31:076][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2022.10.06-05.39.31:080][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2022.10.06-05.39.31:138][  0]SourceControl: Source control is disabled
-[2022.10.06-05.39.31:138][  0]SourceControl: Source control is disabled
-[2022.10.06-05.39.31:139][  0]SourceControl: Source control is disabled
-[2022.10.06-05.39.31:141][  0]SourceControl: Source control is disabled
-[2022.10.06-05.39.31:247][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2022.10.06-05.39.31:615][  0]LogOcInput: OculusInput pre-init called
-[2022.10.06-05.39.31:623][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
-[2022.10.06-05.39.31:623][  0]LogWindows: File 'OVRPlugin.dll' does not exist
-[2022.10.06-05.39.31:689][  0]LogEngine: Initializing Engine...
-[2022.10.06-05.39.31:690][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2022.10.06-05.39.31:691][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
-[2022.10.06-05.39.31:909][  0]LogInit: Initializing FReadOnlyCVARCache
-[2022.10.06-05.39.31:924][  0]LogAIModule: Creating AISystem for world Untitled
-[2022.10.06-05.39.32:064][  0]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2022.10.06-05.39.32:173][  0]LogInit: FAudioDevice initialized.
-[2022.10.06-05.39.32:174][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
-[2022.10.06-05.39.32:255][  0]LogDerivedDataCache: Saved boot cache 0.08s 73MB C:/Users/kimminwoong/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
-[2022.10.06-05.39.32:258][  0]LogInit: Texture streaming: Enabled
-[2022.10.06-05.39.32:278][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2022.10.06-05.39.32:278][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
-[2022.10.06-05.39.32:282][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
-[2022.10.06-05.39.32:331][  0]LogInit: Transaction tracking system initialized
-[2022.10.06-05.39.32:361][  0]BlueprintLog: New page: Editor Load
-[2022.10.06-05.39.32:442][  0]LocalizationService: Localization service is disabled
-[2022.10.06-05.39.33:912][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProject/TTSGame/Content/' took 0.01s
-[2022.10.06-05.39.33:912][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2022.10.06-05.39.33:912][  0]LogCook: Display: Mobile HDR setting 1
-[2022.10.06-05.39.34:129][  0]SourceControl: Source control is disabled
-[2022.10.06-05.39.34:252][  0]LogSlate: Took 0.000316 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2022.10.06-05.39.41:412][  0]LogSlate: Window 'Restore Packages' being destroyed
-[2022.10.06-05.39.41:416][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
-[2022.10.06-05.39.41:424][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
-[2022.10.06-05.39.41:437][  0]Cmd: MAP LOAD FILE="../../../../UnrealProject/TTSGame/Content/Maps/StartTown.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2022.10.06-05.39.41:445][  0]LightingResults: New page: Lighting Build
-[2022.10.06-05.39.41:449][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
-[2022.10.06-05.39.41:449][  0]MapCheck: New page: Map Check
-[2022.10.06-05.39.41:449][  0]LightingResults: New page: Lighting Build
-[2022.10.06-05.39.41:476][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
-[2022.10.06-05.39.42:088][  0]LogAIModule: Creating AISystem for world StartTown
-[2022.10.06-05.39.42:113][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2022.10.06-05.39.42:141][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
-[2022.10.06-05.39.42:142][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2022.10.06-05.39.42:142][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.239ms to complete.
-[2022.10.06-05.39.42:142][  0]LogFileHelpers: Loading map 'StartTown' took 0.706
-[2022.10.06-05.39.42:216][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2022.10.06-05.39.42:224][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2022.10.06-05.39.42:232][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2022.10.06-05.39.42:239][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2022.10.06-05.39.42:249][  0]LogCollectionManager: Loaded 0 collections in 0.001598 seconds
-[2022.10.06-05.39.42:255][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProject/TTSGame/Saved/Collections/' took 0.00s
-[2022.10.06-05.39.42:255][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProject/TTSGame/Content/Developers/kimminwoong/Collections/' took 0.00s
-[2022.10.06-05.39.42:255][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProject/TTSGame/Content/Collections/' took 0.00s
-[2022.10.06-05.39.42:255][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
-[2022.10.06-05.39.42:264][  0]LogContentBrowser: Native class hierarchy populated in 0.0091 seconds. Added 2863 classes and 680 folders.
-[2022.10.06-05.39.42:271][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2022.10.06-05.39.42:710][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
-[2022.10.06-05.39.42:743][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
-[2022.10.06-05.39.42:838][  0]LogSlate: Took 0.000210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2022.10.06-05.39.42:848][  0]LogSlate: Took 0.005879 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2022.10.06-05.39.42:960][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
-[2022.10.06-05.39.43:046][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2022.10.06-05.39.43:046][  0]LogLoad: (Engine Initialization) Total time: 18.13 seconds
-[2022.10.06-05.39.43:046][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2022.10.06-05.39.43:123][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2022.10.06-05.39.43:153][  0]LogSlate: Took 0.004549 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2022.10.06-05.39.43:299][  3]LogAssetRegistry: Asset discovery search completed in 14.1581 seconds
-[2022.10.06-05.39.43:304][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000006 seconds (found 0 objects)
-[2022.10.06-05.39.43:304][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000103 seconds (updated 0 objects)
-[2022.10.06-05.39.44:620][  7]LogSlate: Took 0.000343 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2022.10.06-05.39.45:988][ 89]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2022.10.06-05.39.47:424][175]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2022.10.06-05.39.47:610][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
-[2022.10.06-05.39.47:664][185]LogSlate: Window 'TTSGame - Unreal Editor' being destroyed
-[2022.10.06-05.39.47:746][186]Cmd: QUIT_EDITOR
-[2022.10.06-05.39.47:771][186]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
-[2022.10.06-05.39.47:783][186]LogExit: Preparing to exit.
-[2022.10.06-05.39.48:096][186]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
-[2022.10.06-05.39.48:114][186]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
-[2022.10.06-05.39.48:114][186]LogExit: Editor shut down
-[2022.10.06-05.39.48:115][186]LogExit: Transaction tracking system shut down
-[2022.10.06-05.39.48:116][186]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
-[2022.10.06-05.39.48:350][186]LogExit: Object subsystem successfully closed.
-[2022.10.06-05.39.48:375][186]LogShaderCompilers: Display: Shaders left to compile 0
-[2022.10.06-05.39.48:392][186]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (668)
-[2022.10.06-05.39.48:392][186]LogModuleManager: Shutting down and abandoning module SceneOutliner (666)
-[2022.10.06-05.39.48:392][186]LogModuleManager: Shutting down and abandoning module AddContentDialog (664)
-[2022.10.06-05.39.48:392][186]LogModuleManager: Shutting down and abandoning module WidgetCarousel (663)
-[2022.10.06-05.39.48:392][186]LogModuleManager: Shutting down and abandoning module EditorWidgets (660)
-[2022.10.06-05.39.48:392][186]LogModuleManager: Shutting down and abandoning module CollectionManager (658)
-[2022.10.06-05.39.48:392][186]LogModuleManager: Shutting down and abandoning module StatsViewer (656)
-[2022.10.06-05.39.48:392][186]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (654)
-[2022.10.06-05.39.48:392][186]LogModuleManager: Shutting down and abandoning module FoliageEdit (652)
-[2022.10.06-05.39.48:392][186]LogModuleManager: Shutting down and abandoning module LandscapeEditor (650)
-[2022.10.06-05.39.48:392][186]LogModuleManager: Shutting down and abandoning module MeshPaintMode (648)
-[2022.10.06-05.39.48:392][186]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (646)
-[2022.10.06-05.39.48:392][186]LogModuleManager: Shutting down and abandoning module ActorPickerMode (644)
-[2022.10.06-05.39.48:392][186]LogModuleManager: Shutting down and abandoning module GeometryMode (642)
-[2022.10.06-05.39.48:392][186]LogModuleManager: Shutting down and abandoning module TextureAlignMode (640)
-[2022.10.06-05.39.48:393][186]LogModuleManager: Shutting down and abandoning module BspMode (638)
-[2022.10.06-05.39.48:393][186]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (636)
-[2022.10.06-05.39.48:393][186]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (634)
-[2022.10.06-05.39.48:393][186]LogModuleManager: Shutting down and abandoning module AutomationWorker (632)
-[2022.10.06-05.39.48:393][186]LogModuleManager: Shutting down and abandoning module OculusMR (630)
-[2022.10.06-05.39.48:393][186]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (628)
-[2022.10.06-05.39.48:393][186]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (626)
-[2022.10.06-05.39.48:393][186]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (624)
-[2022.10.06-05.39.48:393][186]LogModuleManager: Shutting down and abandoning module PlacementMode (623)
-[2022.10.06-05.39.48:393][186]LogModuleManager: Shutting down and abandoning module MaterialEditor (622)
-[2022.10.06-05.39.48:393][186]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (618)
-[2022.10.06-05.39.48:393][186]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (616)
-[2022.10.06-05.39.48:393][186]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (614)
-[2022.10.06-05.39.48:393][186]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (612)
-[2022.10.06-05.39.48:393][186]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (610)
-[2022.10.06-05.39.48:393][186]LogModuleManager: Shutting down and abandoning module WebMMedia (608)
-[2022.10.06-05.39.48:393][186]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (606)
-[2022.10.06-05.39.48:393][186]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (604)
-[2022.10.06-05.39.48:393][186]LogModuleManager: Shutting down and abandoning module SequenceRecorder (603)
-[2022.10.06-05.39.48:393][186]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (600)
-[2022.10.06-05.39.48:393][186]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (598)
-[2022.10.06-05.39.48:393][186]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (596)
-[2022.10.06-05.39.48:393][186]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (594)
-[2022.10.06-05.39.48:393][186]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (592)
-[2022.10.06-05.39.48:393][186]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (590)
-[2022.10.06-05.39.48:393][186]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (588)
-[2022.10.06-05.39.48:393][186]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (586)
-[2022.10.06-05.39.48:393][186]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (584)
-[2022.10.06-05.39.48:393][186]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (582)
-[2022.10.06-05.39.48:393][186]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (580)
-[2022.10.06-05.39.48:393][186]LogModuleManager: Shutting down and abandoning module CharacterAI (578)
-[2022.10.06-05.39.48:393][186]LogModuleManager: Shutting down and abandoning module SmartSnapping (576)
-[2022.10.06-05.39.48:393][186]LogModuleManager: Shutting down and abandoning module SessionServices (574)
-[2022.10.06-05.39.48:393][186]LogModuleManager: Shutting down and abandoning module MeshPaint (572)
-[2022.10.06-05.39.48:393][186]LogModuleManager: Shutting down and abandoning module ViewportSnapping (570)
-[2022.10.06-05.39.48:393][186]LogModuleManager: Shutting down and abandoning module ViewportInteraction (568)
-[2022.10.06-05.39.48:393][186]LogModuleManager: Shutting down and abandoning module ClothPainter (566)
-[2022.10.06-05.39.48:393][186]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (565)
-[2022.10.06-05.39.48:393][186]LogModuleManager: Shutting down and abandoning module LogVisualizer (562)
-[2022.10.06-05.39.48:394][186]LogModuleManager: Shutting down and abandoning module IntroTutorials (560)
-[2022.10.06-05.39.48:394][186]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (559)
-[2022.10.06-05.39.48:394][186]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (556)
-[2022.10.06-05.39.48:394][186]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (554)
-[2022.10.06-05.39.48:394][186]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (552)
-[2022.10.06-05.39.48:394][186]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (550)
-[2022.10.06-05.39.48:394][186]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (549)
-[2022.10.06-05.39.48:490][186]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (546)
-[2022.10.06-05.39.48:490][186]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (544)
-[2022.10.06-05.39.48:490][186]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (542)
-[2022.10.06-05.39.48:490][186]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (540)
-[2022.10.06-05.39.48:490][186]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (538)
-[2022.10.06-05.39.48:490][186]LogModuleManager: Shutting down and abandoning module InputBindingEditor (536)
-[2022.10.06-05.39.48:490][186]LogModuleManager: Shutting down and abandoning module MergeActors (534)
-[2022.10.06-05.39.48:490][186]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (532)
-[2022.10.06-05.39.48:490][186]LogModuleManager: Shutting down and abandoning module LocalizationService (531)
-[2022.10.06-05.39.48:490][186]LogModuleManager: Shutting down and abandoning module HardwareTargeting (528)
-[2022.10.06-05.39.48:490][186]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (526)
-[2022.10.06-05.39.48:490][186]LogModuleManager: Shutting down and abandoning module UndoHistory (524)
-[2022.10.06-05.39.48:490][186]LogModuleManager: Shutting down and abandoning module XmlParser (522)
-[2022.10.06-05.39.48:490][186]LogModuleManager: Shutting down and abandoning module Blutility (520)
-[2022.10.06-05.39.48:490][186]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (518)
-[2022.10.06-05.39.48:490][186]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (517)
-[2022.10.06-05.39.48:490][186]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (514)
-[2022.10.06-05.39.48:490][186]LogModuleManager: Shutting down and abandoning module SettingsEditor (512)
-[2022.10.06-05.39.48:491][186]LogModuleManager: Shutting down and abandoning module ProjectLauncher (510)
-[2022.10.06-05.39.48:491][186]LogModuleManager: Shutting down and abandoning module SessionFrontend (508)
-[2022.10.06-05.39.48:491][186]LogModuleManager: Shutting down and abandoning module ProfilerClient (506)
-[2022.10.06-05.39.48:491][186]LogModuleManager: Shutting down and abandoning module DeviceManager (504)
-[2022.10.06-05.39.48:491][186]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (503)
-[2022.10.06-05.39.48:524][186]LogModuleManager: Shutting down and abandoning module AutomationController (500)
-[2022.10.06-05.39.48:524][186]LogModuleManager: Shutting down and abandoning module AutomationWindow (498)
-[2022.10.06-05.39.48:524][186]LogModuleManager: Shutting down and abandoning module Layers (496)
-[2022.10.06-05.39.48:524][186]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (494)
-[2022.10.06-05.39.48:524][186]LogModuleManager: Shutting down and abandoning module DetailCustomizations (492)
-[2022.10.06-05.39.48:524][186]LogModuleManager: Shutting down and abandoning module PackagesDialog (490)
-[2022.10.06-05.39.48:524][186]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (488)
-[2022.10.06-05.39.48:524][186]LogModuleManager: Shutting down and abandoning module Persona (486)
-[2022.10.06-05.39.48:524][186]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (485)
-[2022.10.06-05.39.48:524][186]LogModuleManager: Shutting down and abandoning module AnimGraph (483)
-[2022.10.06-05.39.48:524][186]LogModuleManager: Shutting down and abandoning module Kismet (480)
-[2022.10.06-05.39.48:524][186]LogModuleManager: Shutting down and abandoning module KismetWidgets (479)
-[2022.10.06-05.39.48:524][186]LogModuleManager: Shutting down and abandoning module GraphEditor (476)
-[2022.10.06-05.39.48:524][186]LogModuleManager: Shutting down and abandoning module StructViewer (474)
-[2022.10.06-05.39.48:524][186]LogModuleManager: Shutting down and abandoning module ClassViewer (472)
-[2022.10.06-05.39.48:524][186]LogModuleManager: Shutting down and abandoning module Toolbox (470)
-[2022.10.06-05.39.48:524][186]LogModuleManager: Shutting down and abandoning module ModuleUI (468)
-[2022.10.06-05.39.48:524][186]LogModuleManager: Shutting down and abandoning module MovieSceneTools (466)
-[2022.10.06-05.39.48:524][186]LogModuleManager: Shutting down and abandoning module OutputLog (464)
-[2022.10.06-05.39.48:524][186]LogModuleManager: Shutting down and abandoning module GammaUI (462)
-[2022.10.06-05.39.48:524][186]LogModuleManager: Shutting down and abandoning module Documentation (460)
-[2022.10.06-05.39.48:524][186]LogModuleManager: Shutting down and abandoning module LiveCoding (458)
-[2022.10.06-05.39.48:525][186]LogModuleManager: Shutting down and abandoning module LevelSequence (456)
-[2022.10.06-05.39.48:525][186]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (454)
-[2022.10.06-05.39.48:525][186]LogModuleManager: Shutting down and abandoning module MovieScene (452)
-[2022.10.06-05.39.48:525][186]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (450)
-[2022.10.06-05.39.48:525][186]LogModuleManager: Shutting down and abandoning module LauncherPlatform (448)
-[2022.10.06-05.39.48:525][186]LogModuleManager: Shutting down and abandoning module AnalyticsET (446)
-[2022.10.06-05.39.48:525][186]LogModuleManager: Shutting down and abandoning module PortalServices (444)
-[2022.10.06-05.39.48:525][186]LogModuleManager: Shutting down and abandoning module PortalRpc (442)
-[2022.10.06-05.39.48:525][186]LogModuleManager: Shutting down and abandoning module MessagingRpc (440)
-[2022.10.06-05.39.48:525][186]LogModuleManager: Shutting down and abandoning module AIModule (438)
-[2022.10.06-05.39.48:525][186]LogModuleManager: Shutting down and abandoning module GameplayDebugger (437)
-[2022.10.06-05.39.48:525][186]LogModuleManager: Shutting down and abandoning module AITestSuite (435)
-[2022.10.06-05.39.48:525][186]LogModuleManager: Shutting down and abandoning module NavigationSystem (433)
-[2022.10.06-05.39.48:525][186]LogModuleManager: Shutting down and abandoning module DesktopPlatform (430)
-[2022.10.06-05.39.48:525][186]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (428)
-[2022.10.06-05.39.48:529][186]LogModuleManager: Shutting down and abandoning module ProfilerService (426)
-[2022.10.06-05.39.48:669][186]LogModuleManager: Shutting down and abandoning module TaskGraph (424)
-[2022.10.06-05.39.48:669][186]LogModuleManager: Shutting down and abandoning module ScreenshotTools (422)
-[2022.10.06-05.39.48:669][186]LogModuleManager: Shutting down and abandoning module SteamVRController (420)
-[2022.10.06-05.39.48:669][186]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (418)
-[2022.10.06-05.39.48:669][186]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (416)
-[2022.10.06-05.39.48:669][186]LogModuleManager: Shutting down and abandoning module OculusEditor (414)
-[2022.10.06-05.39.48:669][186]LogModuleManager: Shutting down and abandoning module OculusInput (412)
-[2022.10.06-05.39.48:669][186]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (410)
-[2022.10.06-05.39.48:669][186]LogModuleManager: Shutting down and abandoning module EditableMesh (408)
-[2022.10.06-05.39.48:669][186]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (406)
-[2022.10.06-05.39.48:669][186]LogModuleManager: Shutting down and abandoning module CableComponent (404)
-[2022.10.06-05.39.48:669][186]LogModuleManager: Shutting down and abandoning module AudioCapture (402)
-[2022.10.06-05.39.48:669][186]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (400)
-[2022.10.06-05.39.48:669][186]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (398)
-[2022.10.06-05.39.48:669][186]LogModuleManager: Shutting down and abandoning module AppleImageUtils (396)
-[2022.10.06-05.39.48:669][186]LogModuleManager: Shutting down and abandoning module AndroidPermission (394)
-[2022.10.06-05.39.48:669][186]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (392)
-[2022.10.06-05.39.48:669][186]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (390)
-[2022.10.06-05.39.48:670][186]LogModuleManager: Shutting down and abandoning module MediaCompositing (388)
-[2022.10.06-05.39.48:670][186]LogModuleManager: Shutting down and abandoning module ImgMedia (386)
-[2022.10.06-05.39.48:670][186]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (384)
-[2022.10.06-05.39.48:670][186]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (382)
-[2022.10.06-05.39.48:670][186]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (380)
-[2022.10.06-05.39.48:670][186]LogModuleManager: Shutting down and abandoning module HTML5Networking (378)
-[2022.10.06-05.39.48:670][186]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (376)
-[2022.10.06-05.39.48:670][186]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (374)
-[2022.10.06-05.39.48:670][186]LogModuleManager: Shutting down and abandoning module BackChannel (372)
-[2022.10.06-05.39.48:670][186]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (370)
-[2022.10.06-05.39.48:670][186]LogModuleManager: Shutting down and abandoning module AutomationUtils (368)
-[2022.10.06-05.39.48:670][186]LogModuleManager: Shutting down and abandoning module AlembicImporter (366)
-[2022.10.06-05.39.48:670][186]LogModuleManager: Shutting down and abandoning module AlembicLibrary (365)
-[2022.10.06-05.39.48:670][186]LogModuleManager: Shutting down and abandoning module GeometryCache (364)
-[2022.10.06-05.39.48:670][186]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (363)
-[2022.10.06-05.39.48:670][186]LogModuleManager: Shutting down and abandoning module VariantManagerContent (358)
-[2022.10.06-05.39.48:670][186]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (356)
-[2022.10.06-05.39.48:670][186]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (354)
-[2022.10.06-05.39.48:670][186]LogModuleManager: Shutting down and abandoning module PluginBrowser (352)
-[2022.10.06-05.39.48:670][186]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (350)
-[2022.10.06-05.39.48:670][186]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (348)
-[2022.10.06-05.39.48:670][186]LogModuleManager: Shutting down and abandoning module CurveEditorTools (346)
-[2022.10.06-05.39.48:670][186]LogModuleManager: Shutting down and abandoning module CurveEditor (345)
-[2022.10.06-05.39.48:670][186]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (342)
-[2022.10.06-05.39.48:670][186]LogModuleManager: Shutting down and abandoning module CryptoKeys (340)
-[2022.10.06-05.39.48:670][186]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (338)
-[2022.10.06-05.39.48:670][186]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (336)
-[2022.10.06-05.39.48:670][186]LogModuleManager: Shutting down and abandoning module UObjectPlugin (334)
-[2022.10.06-05.39.48:670][186]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (332)
-[2022.10.06-05.39.48:670][186]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (330)
-[2022.10.06-05.39.48:670][186]LogModuleManager: Shutting down and abandoning module GitSourceControl (328)
-[2022.10.06-05.39.48:670][186]LogModuleManager: Shutting down and abandoning module SourceControl (327)
-[2022.10.06-05.39.48:671][186]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (324)
-[2022.10.06-05.39.48:671][186]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (322)
-[2022.10.06-05.39.48:671][186]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (320)
-[2022.10.06-05.39.48:671][186]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (318)
-[2022.10.06-05.39.48:671][186]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (316)
-[2022.10.06-05.39.48:671][186]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (314)
-[2022.10.06-05.39.48:671][186]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (312)
-[2022.10.06-05.39.48:671][186]LogModuleManager: Shutting down and abandoning module Paper2DEditor (310)
-[2022.10.06-05.39.48:671][186]LogModuleManager: Shutting down and abandoning module SignificanceManager (308)
-[2022.10.06-05.39.48:671][186]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (306)
-[2022.10.06-05.39.48:671][186]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (304)
-[2022.10.06-05.39.48:671][186]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (300)
-[2022.10.06-05.39.48:671][186]LogModuleManager: Shutting down and abandoning module ActorSequence (298)
-[2022.10.06-05.39.48:671][186]LogModuleManager: Shutting down and abandoning module UdpMessaging (296)
-[2022.10.06-05.39.48:771][186]LogModuleManager: Shutting down and abandoning module TcpMessaging (294)
-[2022.10.06-05.39.49:089][186]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (292)
-[2022.10.06-05.39.49:089][186]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (290)
-[2022.10.06-05.39.49:089][186]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (288)
-[2022.10.06-05.39.49:089][186]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (286)
-[2022.10.06-05.39.49:089][186]LogModuleManager: Shutting down and abandoning module MagicLeapController (284)
-[2022.10.06-05.39.49:089][186]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
-[2022.10.06-05.39.49:089][186]LogModuleManager: Shutting down and abandoning module MagicLeapAR (282)
-[2022.10.06-05.39.49:089][186]LogModuleManager: Shutting down and abandoning module AugmentedReality (281)
-[2022.10.06-05.39.49:089][186]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
-[2022.10.06-05.39.49:089][186]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
-[2022.10.06-05.39.49:089][186]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
-[2022.10.06-05.39.49:089][186]LogModuleManager: Shutting down and abandoning module DataValidation (272)
-[2022.10.06-05.39.49:089][186]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
-[2022.10.06-05.39.49:089][186]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
-[2022.10.06-05.39.49:090][186]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
-[2022.10.06-05.39.49:090][186]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
-[2022.10.06-05.39.49:090][186]LogModuleManager: Shutting down and abandoning module MainFrame (264)
-[2022.10.06-05.39.49:090][186]LogModuleManager: Shutting down and abandoning module HotReload (263)
-[2022.10.06-05.39.49:091][186]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
-[2022.10.06-05.39.49:092][186]LogModuleManager: Shutting down and abandoning module TreeMap (257)
-[2022.10.06-05.39.49:092][186]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
-[2022.10.06-05.39.49:092][186]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
-[2022.10.06-05.39.49:092][186]LogModuleManager: Shutting down and abandoning module Paper2D (250)
-[2022.10.06-05.39.49:092][186]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
-[2022.10.06-05.39.49:093][186]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
-[2022.10.06-05.39.49:093][186]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
-[2022.10.06-05.39.49:093][186]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
-[2022.10.06-05.39.49:093][186]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
-[2022.10.06-05.39.49:093][186]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
-[2022.10.06-05.39.49:093][186]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
-[2022.10.06-05.39.49:093][186]LogModuleManager: Shutting down and abandoning module Overlay (234)
-[2022.10.06-05.39.49:093][186]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
-[2022.10.06-05.39.49:093][186]LogModuleManager: Shutting down and abandoning module VREditor (230)
-[2022.10.06-05.39.49:093][186]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
-[2022.10.06-05.39.49:093][186]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
-[2022.10.06-05.39.49:093][186]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
-[2022.10.06-05.39.49:093][186]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
-[2022.10.06-05.39.49:093][186]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
-[2022.10.06-05.39.49:093][186]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
-[2022.10.06-05.39.49:093][186]LogModuleManager: Shutting down and abandoning module UMG (216)
-[2022.10.06-05.39.49:093][186]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
-[2022.10.06-05.39.49:094][186]LogModuleManager: Shutting down and abandoning module Sequencer (214)
-[2022.10.06-05.39.49:094][186]LogModuleManager: Shutting down and abandoning module MessageLog (211)
-[2022.10.06-05.39.49:094][186]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
-[2022.10.06-05.39.49:094][186]LogModuleManager: Shutting down and abandoning module Slate (204)
-[2022.10.06-05.39.49:094][186]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
-[2022.10.06-05.39.49:094][186]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
-[2022.10.06-05.39.49:095][186]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
-[2022.10.06-05.39.49:095][186]LogModuleManager: Shutting down and abandoning module MRMesh (196)
-[2022.10.06-05.39.49:095][186]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
-[2022.10.06-05.39.49:095][186]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
-[2022.10.06-05.39.49:095][186]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
-[2022.10.06-05.39.49:095][186]LogModuleManager: Shutting down and abandoning module Networking (188)
-[2022.10.06-05.39.49:095][186]LogModuleManager: Shutting down and abandoning module Core (186)
-[2022.10.06-05.39.49:095][186]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
-[2022.10.06-05.39.49:095][186]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
-[2022.10.06-05.39.49:096][186]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
-[2022.10.06-05.39.49:096][186]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
-[2022.10.06-05.39.49:096][186]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
-[2022.10.06-05.39.49:096][186]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
-[2022.10.06-05.39.49:096][186]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
-[2022.10.06-05.39.49:096][186]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
-[2022.10.06-05.39.49:096][186]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
-[2022.10.06-05.39.49:096][186]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
-[2022.10.06-05.39.49:570][186]LogDerivedDataCache: Shutdown
-[2022.10.06-05.39.49:570][186]LogModuleManager: Shutting down and abandoning module XGEController (162)
-[2022.10.06-05.39.49:570][186]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
-[2022.10.06-05.39.49:570][186]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
-[2022.10.06-05.39.49:570][186]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
-[2022.10.06-05.39.49:570][186]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
-[2022.10.06-05.39.49:571][186]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
-[2022.10.06-05.39.49:571][186]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
-[2022.10.06-05.39.49:571][186]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
-[2022.10.06-05.39.49:571][186]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
-[2022.10.06-05.39.49:571][186]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
-[2022.10.06-05.39.49:571][186]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
-[2022.10.06-05.39.49:571][186]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
-[2022.10.06-05.39.49:571][186]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
-[2022.10.06-05.39.49:571][186]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
-[2022.10.06-05.39.49:571][186]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
-[2022.10.06-05.39.49:571][186]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
-[2022.10.06-05.39.49:571][186]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
-[2022.10.06-05.39.49:571][186]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
-[2022.10.06-05.39.49:573][186]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
-[2022.10.06-05.39.49:573][186]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
-[2022.10.06-05.39.49:573][186]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
-[2022.10.06-05.39.49:573][186]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
-[2022.10.06-05.39.49:573][186]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
-[2022.10.06-05.39.49:574][186]LogModuleManager: Shutting down and abandoning module Messaging (117)
-[2022.10.06-05.39.49:574][186]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
-[2022.10.06-05.39.49:576][186]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
-[2022.10.06-05.39.49:576][186]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
-[2022.10.06-05.39.49:589][186]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
-[2022.10.06-05.39.49:589][186]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
-[2022.10.06-05.39.49:589][186]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
-[2022.10.06-05.39.49:589][186]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
-[2022.10.06-05.39.49:589][186]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
-[2022.10.06-05.39.49:589][186]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
-[2022.10.06-05.39.49:589][186]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
-[2022.10.06-05.39.49:589][186]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
-[2022.10.06-05.39.49:590][186]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
-[2022.10.06-05.39.49:590][186]LogModuleManager: Shutting down and abandoning module InputCore (90)
-[2022.10.06-05.39.49:590][186]LogModuleManager: Shutting down and abandoning module Settings (88)
-[2022.10.06-05.39.49:590][186]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
-[2022.10.06-05.39.49:590][186]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
-[2022.10.06-05.39.49:590][186]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
-[2022.10.06-05.39.49:591][186]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
-[2022.10.06-05.39.49:591][186]LogModuleManager: Shutting down and abandoning module SteamVR (78)
-[2022.10.06-05.39.49:591][186]LogHMD: Freeing OpenVRDLLHandle.
-[2022.10.06-05.39.49:591][186]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
-[2022.10.06-05.39.49:591][186]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
-[2022.10.06-05.39.49:591][186]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
-[2022.10.06-05.39.49:591][186]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
-[2022.10.06-05.39.49:591][186]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
-[2022.10.06-05.39.49:593][186]LogModuleManager: Shutting down and abandoning module XMPP (61)
-[2022.10.06-05.39.49:593][186]LogModuleManager: Shutting down and abandoning module WebSockets (60)
-[2022.10.06-05.39.49:605][186]LogModuleManager: Shutting down and abandoning module HTTP (57)
-[2022.10.06-05.39.49:605][186]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
-[2022.10.06-05.39.49:605][186]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC39C5D90-4382-4F21-F1BE-4BAB3D6E6109%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=d3574cf244cc528680ea9baf8cc75a24%7Ce14f188ddc854a33b6cb1272929a2fe2%7C823acc21-f26c-4d66-9432-bee44d06cb19&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
-[2022.10.06-05.39.49:633][186]LogModuleManager: Shutting down and abandoning module SSL (56)
-[2022.10.06-05.39.49:634][186]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
-[2022.10.06-05.39.49:636][186]LogModuleManager: Shutting down and abandoning module Media (51)
-[2022.10.06-05.39.49:637][186]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
-[2022.10.06-05.39.49:637][186]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
-[2022.10.06-05.39.49:637][186]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
-[2022.10.06-05.39.49:637][186]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
-[2022.10.06-05.39.49:637][186]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
-[2022.10.06-05.39.49:637][186]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
-[2022.10.06-05.39.49:637][186]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
-[2022.10.06-05.39.49:637][186]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
-[2022.10.06-05.39.49:637][186]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
-[2022.10.06-05.39.49:637][186]LogModuleManager: Shutting down and abandoning module RenderCore (30)
-[2022.10.06-05.39.49:637][186]LogModuleManager: Shutting down and abandoning module Landscape (28)
-[2022.10.06-05.39.49:637][186]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
-[2022.10.06-05.39.49:638][186]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
-[2022.10.06-05.39.49:638][186]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
-[2022.10.06-05.39.49:638][186]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
-[2022.10.06-05.39.49:638][186]LogModuleManager: Shutting down and abandoning module Renderer (18)
-[2022.10.06-05.39.49:638][186]LogModuleManager: Shutting down and abandoning module Engine (16)
-[2022.10.06-05.39.49:638][186]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
-[2022.10.06-05.39.49:638][186]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
-[2022.10.06-05.39.49:638][186]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
-[2022.10.06-05.39.49:638][186]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
-[2022.10.06-05.39.49:638][186]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
-[2022.10.06-05.39.49:638][186]LogModuleManager: Shutting down and abandoning module PakFile (4)
-[2022.10.06-05.39.49:638][186]LogModuleManager: Shutting down and abandoning module RSA (3)
-[2022.10.06-05.39.49:639][186]LogD3D11RHI: Shutdown
-[2022.10.06-05.39.49:639][186]LogD3D11RHI: CleanupD3DDevice
-[2022.10.06-05.39.49:639][186]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
-[2022.10.06-05.39.49:639][186]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
-[2022.10.06-05.39.49:639][186]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
-[2022.10.06-05.39.49:712][186]LogD3D11RHI: ~FD3D11DynamicRHI
-[2022.10.06-05.39.49:719][186]LogExit: Exiting.
-[2022.10.06-05.39.49:729][186]Log file closed, 10/06/22 14:39:49
+[2022.10.09-23.06.31:895][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.10.09-23.06.31:895][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.10.09-23.06.31:895][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Engine.ini]
+[2022.10.09-23.06.31:895][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.10.09-23.06.31:895][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2022.10.09-23.06.31:895][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2022.10.09-23.06.31:895][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2022.10.09-23.06.31:895][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2022.10.09-23.06.31:895][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2022.10.09-23.06.31:895][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2022.10.09-23.06.31:895][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2022.10.09-23.06.31:895][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2022.10.09-23.06.31:895][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2022.10.09-23.06.31:895][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2022.10.09-23.06.31:895][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2022.10.09-23.06.31:895][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2022.10.09-23.06.31:895][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2022.10.09-23.06.31:895][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2022.10.09-23.06.31:895][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2022.10.09-23.06.31:895][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2022.10.09-23.06.31:895][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2022.10.09-23.06.31:895][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2022.10.09-23.06.31:895][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2022.10.09-23.06.31:895][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2022.10.09-23.06.31:895][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2022.10.09-23.06.31:895][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2022.10.09-23.06.31:895][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2022.10.09-23.06.31:895][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2022.10.09-23.06.31:895][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2022.10.09-23.06.31:895][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2022.10.09-23.06.31:895][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2022.10.09-23.06.31:895][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2022.10.09-23.06.31:895][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2022.10.09-23.06.31:895][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2022.10.09-23.06.31:895][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2022.10.09-23.06.31:895][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2022.10.09-23.06.31:895][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2022.10.09-23.06.31:895][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2022.10.09-23.06.31:895][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2022.10.09-23.06.31:895][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2022.10.09-23.06.31:895][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2022.10.09-23.06.31:895][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2022.10.09-23.06.31:895][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2022.10.09-23.06.31:895][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2022.10.09-23.06.31:896][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2022.10.09-23.06.31:896][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2022.10.09-23.06.31:896][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2022.10.09-23.06.31:896][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2022.10.09-23.06.31:896][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2022.10.09-23.06.31:896][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2022.10.09-23.06.31:896][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2022.10.09-23.06.31:896][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:1]]
+[2022.10.09-23.06.31:896][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2022.10.09-23.06.31:896][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2022.10.09-23.06.31:896][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2022.10.09-23.06.31:896][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2022.10.09-23.06.31:896][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2022.10.09-23.06.31:896][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2022.10.09-23.06.31:896][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2022.10.09-23.06.31:896][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2022.10.09-23.06.31:896][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2022.10.09-23.06.31:896][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2022.10.09-23.06.31:896][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2022.10.09-23.06.31:896][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2022.10.09-23.06.31:896][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2022.10.09-23.06.31:896][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2022.10.09-23.06.31:896][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2022.10.09-23.06.31:896][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2022.10.09-23.06.31:896][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2022.10.09-23.06.31:896][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2022.10.09-23.06.31:896][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2022.10.09-23.06.31:896][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2022.10.09-23.06.31:896][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2022.10.09-23.06.31:896][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2022.10.09-23.06.31:896][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2022.10.09-23.06.31:896][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2022.10.09-23.06.31:896][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2022.10.09-23.06.31:896][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2022.10.09-23.06.31:896][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2022.10.09-23.06.31:896][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2022.10.09-23.06.31:896][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2022.10.09-23.06.31:896][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2022.10.09-23.06.31:896][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2022.10.09-23.06.31:896][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2022.10.09-23.06.31:896][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2022.10.09-23.06.31:896][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2022.10.09-23.06.31:896][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2022.10.09-23.06.31:896][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2022.10.09-23.06.31:896][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2022.10.09-23.06.31:896][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2022.10.09-23.06.31:896][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2022.10.09-23.06.31:896][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2022.10.09-23.06.31:896][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2022.10.09-23.06.31:896][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2022.10.09-23.06.31:896][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2022.10.09-23.06.31:896][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2022.10.09-23.06.31:896][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Engine.ini]
+[2022.10.09-23.06.31:896][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Engine.ini]
+[2022.10.09-23.06.31:896][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.10.09-23.06.31:896][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.10.09-23.06.31:896][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.10.09-23.06.31:896][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.10.09-23.06.31:896][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.10.09-23.06.31:897][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.10.09-23.06.31:897][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.10.09-23.06.31:897][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.10.09-23.06.31:897][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.10.09-23.06.31:897][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.10.09-23.06.31:897][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.10.09-23.06.31:897][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.10.09-23.06.31:897][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.10.09-23.06.31:897][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Engine.ini]
+[2022.10.09-23.06.31:897][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.10.09-23.06.31:897][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.10.09-23.06.31:897][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.10.09-23.06.31:897][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.10.09-23.06.31:897][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.10.09-23.06.31:897][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.10.09-23.06.31:897][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2022.10.09-23.06.31:897][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.10.09-23.06.31:897][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.10.09-23.06.31:897][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.10.09-23.06.31:897][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.10.09-23.06.31:897][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.10.09-23.06.31:897][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.10.09-23.06.31:897][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Engine.ini]
+[2022.10.09-23.06.31:897][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Engine.ini]
+[2022.10.09-23.06.31:904][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Scalability.ini]
+[2022.10.09-23.06.31:904][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.10.09-23.06.31:904][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.10.09-23.06.31:904][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Scalability.ini]
+[2022.10.09-23.06.31:904][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.10.09-23.06.31:904][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Scalability.ini]
+[2022.10.09-23.06.31:904][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.10.09-23.06.31:904][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.10.09-23.06.31:904][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.10.09-23.06.31:905][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.10.09-23.06.31:905][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.10.09-23.06.31:905][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.10.09-23.06.31:905][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.10.09-23.06.31:905][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.10.09-23.06.31:905][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.10.09-23.06.31:905][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.10.09-23.06.31:905][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.10.09-23.06.31:905][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.10.09-23.06.31:905][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.10.09-23.06.31:905][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.10.09-23.06.31:905][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.10.09-23.06.31:905][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.10.09-23.06.31:905][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.10.09-23.06.31:905][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.10.09-23.06.31:905][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Scalability.ini]
+[2022.10.09-23.06.31:905][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.10.09-23.06.31:905][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.10.09-23.06.31:905][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.10.09-23.06.31:905][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.10.09-23.06.31:905][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.10.09-23.06.31:905][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.10.09-23.06.31:905][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.10.09-23.06.31:905][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.10.09-23.06.31:905][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.10.09-23.06.31:905][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.10.09-23.06.31:905][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.10.09-23.06.31:905][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.10.09-23.06.31:905][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.10.09-23.06.31:905][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.10.09-23.06.31:905][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.10.09-23.06.31:905][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.10.09-23.06.31:905][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.10.09-23.06.31:905][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.10.09-23.06.31:905][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.10.09-23.06.31:905][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.10.09-23.06.31:905][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.10.09-23.06.31:905][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.10.09-23.06.31:905][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.10.09-23.06.31:905][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.10.09-23.06.31:905][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.10.09-23.06.31:905][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.10.09-23.06.31:905][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.10.09-23.06.31:905][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.10.09-23.06.31:905][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.10.09-23.06.31:905][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.10.09-23.06.31:905][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Scalability.ini]
+[2022.10.09-23.06.31:905][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.10.09-23.06.31:905][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.10.09-23.06.31:905][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.10.09-23.06.31:905][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.10.09-23.06.31:905][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.10.09-23.06.31:905][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.10.09-23.06.31:905][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.10.09-23.06.31:905][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.10.09-23.06.31:905][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Scalability.ini]
+[2022.10.09-23.06.31:905][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.10.09-23.06.31:905][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.10.09-23.06.31:905][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.10.09-23.06.31:905][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.10.09-23.06.31:905][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.10.09-23.06.31:905][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.10.09-23.06.31:905][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.10.09-23.06.31:905][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.10.09-23.06.31:905][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.10.09-23.06.31:905][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.10.09-23.06.31:905][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2022.10.09-23.06.31:905][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.10.09-23.06.31:905][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.10.09-23.06.31:906][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Scalability.ini]
+[2022.10.09-23.06.31:906][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.10.09-23.06.31:906][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.10.09-23.06.31:906][  0]LogInit: Selected Device Profile: [Windows]
+[2022.10.09-23.06.31:906][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.10.09-23.06.31:909][  0]LogHAL: Display: Platform has ~ 16 GB [17097846784 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.10.09-23.06.31:909][  0]LogInit: Going up to parent DeviceProfile []
+[2022.10.09-23.06.31:909][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Scalability.ini]
+[2022.10.09-23.06.31:909][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.10.09-23.06.31:909][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.10.09-23.06.31:909][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Scalability.ini]
+[2022.10.09-23.06.31:909][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.10.09-23.06.31:909][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Scalability.ini]
+[2022.10.09-23.06.31:909][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.10.09-23.06.31:909][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.10.09-23.06.31:909][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.10.09-23.06.31:909][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.10.09-23.06.31:909][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.10.09-23.06.31:909][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.10.09-23.06.31:909][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.10.09-23.06.31:909][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.10.09-23.06.31:909][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.10.09-23.06.31:909][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.10.09-23.06.31:909][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.10.09-23.06.31:909][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.10.09-23.06.31:909][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.10.09-23.06.31:909][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.10.09-23.06.31:909][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.10.09-23.06.31:909][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.10.09-23.06.31:909][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.10.09-23.06.31:909][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.10.09-23.06.31:910][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Scalability.ini]
+[2022.10.09-23.06.31:910][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.10.09-23.06.31:910][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.10.09-23.06.31:910][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.10.09-23.06.31:910][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.10.09-23.06.31:910][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.10.09-23.06.31:910][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.10.09-23.06.31:910][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.10.09-23.06.31:910][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.10.09-23.06.31:910][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.10.09-23.06.31:910][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.10.09-23.06.31:910][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.10.09-23.06.31:910][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.10.09-23.06.31:910][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.10.09-23.06.31:910][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.10.09-23.06.31:910][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.10.09-23.06.31:910][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.10.09-23.06.31:910][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.10.09-23.06.31:910][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.10.09-23.06.31:910][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.10.09-23.06.31:910][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.10.09-23.06.31:910][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.10.09-23.06.31:910][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.10.09-23.06.31:910][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.10.09-23.06.31:910][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.10.09-23.06.31:910][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.10.09-23.06.31:910][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.10.09-23.06.31:910][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.10.09-23.06.31:910][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.10.09-23.06.31:910][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.10.09-23.06.31:910][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.10.09-23.06.31:910][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Scalability.ini]
+[2022.10.09-23.06.31:910][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.10.09-23.06.31:910][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.10.09-23.06.31:910][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.10.09-23.06.31:910][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.10.09-23.06.31:910][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.10.09-23.06.31:910][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.10.09-23.06.31:910][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.10.09-23.06.31:910][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.10.09-23.06.31:910][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Scalability.ini]
+[2022.10.09-23.06.31:910][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.10.09-23.06.31:910][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.10.09-23.06.31:910][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.10.09-23.06.31:910][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.10.09-23.06.31:910][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.10.09-23.06.31:910][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.10.09-23.06.31:910][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.10.09-23.06.31:910][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.10.09-23.06.31:910][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.10.09-23.06.31:910][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.10.09-23.06.31:910][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2022.10.09-23.06.31:910][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.10.09-23.06.31:910][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.10.09-23.06.31:910][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Scalability.ini]
+[2022.10.09-23.06.31:910][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.10.09-23.06.31:910][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.10.09-23.06.31:910][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.10.09-23.06.31:911][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.10.09-23.06.31:911][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.10.09-23.06.31:911][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Engine.ini]
+[2022.10.09-23.06.31:911][  0]LogInit: Computer: DESKTOP-MURC6HF
+[2022.10.09-23.06.31:911][  0]LogInit: User: kimminwoong
+[2022.10.09-23.06.31:911][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.10.09-23.06.31:911][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.10.09-23.06.31:911][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.10.09-23.06.31:911][  0]LogMemory: Platform Memory Stats for Windows
+[2022.10.09-23.06.31:911][  0]LogMemory: Process Physical Memory: 105.27 MB used, 105.27 MB peak
+[2022.10.09-23.06.31:911][  0]LogMemory: Process Virtual Memory: 99.09 MB used, 99.09 MB peak
+[2022.10.09-23.06.31:911][  0]LogMemory: Physical Memory: 9004.64 MB used,  7301.13 MB free, 16305.78 MB total
+[2022.10.09-23.06.31:911][  0]LogMemory: Virtual Memory: 4668.94 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2022.10.09-23.06.31:917][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.10.09-23.06.32:061][  0]LogInit: Overriding language with editor language configuration option (en).
+[2022.10.09-23.06.32:061][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2022.10.09-23.06.32:294][  0]LogInit: Setting process to per monitor DPI aware
+[2022.10.09-23.06.32:369][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.10.09-23.06.32:369][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.10.09-23.06.32:674][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.10.09-23.06.32:674][  0]LogD3D11RHI: D3D11 adapters:
+[2022.10.09-23.06.32:904][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2022.10.09-23.06.32:904][  0]LogD3D11RHI:       4043/0/8152 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2022.10.09-23.06.32:908][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.10.09-23.06.32:908][  0]LogD3D11RHI:       0/0/8152 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.10.09-23.06.32:908][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.10.09-23.06.32:916][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.10.09-23.06.32:916][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2022.10.09-23.06.32:916][  0]LogWindows: EnumDisplayDevices:
+[2022.10.09-23.06.32:917][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2022.10.09-23.06.32:918][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2022.10.09-23.06.32:919][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2022.10.09-23.06.32:920][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2022.10.09-23.06.32:921][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.10.09-23.06.32:921][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2022.10.09-23.06.32:921][  0]LogD3D11RHI:   Driver Version: 516.94 (internal:31.0.15.1694, unified:516.94)
+[2022.10.09-23.06.32:921][  0]LogD3D11RHI:      Driver Date: 7-21-2022
+[2022.10.09-23.06.32:921][  0]LogRHI: Texture pool is 2830 MB (70% of 4043 MB)
+[2022.10.09-23.06.32:999][  0]LogD3D11RHI: Async texture creation enabled
+[2022.10.09-23.06.33:033][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.10.09-23.06.33:559][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2022.10.09-23.06.33:570][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2022.10.09-23.06.33:580][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2022.10.09-23.06.33:590][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2022.10.09-23.06.33:601][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2022.10.09-23.06.33:612][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2022.10.09-23.06.33:623][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2022.10.09-23.06.33:633][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2022.10.09-23.06.33:638][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2022.10.09-23.06.33:679][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2022.10.09-23.06.33:679][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2022.10.09-23.06.33:679][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2022.10.09-23.06.33:679][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2022.10.09-23.06.33:680][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2022.10.09-23.06.33:680][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2022.10.09-23.06.33:680][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2022.10.09-23.06.33:680][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2022.10.09-23.06.33:680][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2022.10.09-23.06.33:680][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2022.10.09-23.06.33:680][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2022.10.09-23.06.33:680][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2022.10.09-23.06.33:680][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2022.10.09-23.06.33:680][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2022.10.09-23.06.33:680][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2022.10.09-23.06.33:680][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2022.10.09-23.06.33:680][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2022.10.09-23.06.33:680][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2022.10.09-23.06.33:683][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2022.10.09-23.06.33:707][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2022.10.09-23.06.33:707][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2022.10.09-23.06.33:723][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2022.10.09-23.06.33:723][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2022.10.09-23.06.33:732][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2022.10.09-23.06.33:743][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2022.10.09-23.06.33:752][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2022.10.09-23.06.33:762][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2022.10.09-23.06.33:791][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2022.10.09-23.06.33:791][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2022.10.09-23.06.33:791][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.10.09-23.06.33:802][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.10.09-23.06.33:860][  0]LogShaderCompilers: Guid format shader working directory is 18 characters bigger than the processId version (../../../../UnrealProject/TTSGame/Intermediate/Shaders/WorkingDirectory/12940/).
+[2022.10.09-23.06.33:861][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/kimminwoong/AppData/Local/Temp/UnrealShaderWorkingDir/F0F5F78149F76B141A30158B8916C445/'.
+[2022.10.09-23.06.33:863][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.10.09-23.06.33:863][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.10.09-23.06.33:864][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.10.09-23.06.34:562][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.10.09-23.06.34:647][  0]LogDerivedDataCache: Loaded boot cache 0.08s 95MB C:/Users/kimminwoong/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2022.10.09-23.06.34:647][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/kimminwoong/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2022.10.09-23.06.34:647][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../UnrealProject/TTSGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.10.09-23.06.34:647][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.10.09-23.06.34:647][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../UnrealProject/TTSGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.10.09-23.06.34:647][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.10.09-23.06.34:659][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.10.09-23.06.34:659][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.10.09-23.06.34:659][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.10.09-23.06.34:661][  0]LogDerivedDataCache: Using Local data cache path C:/Users/kimminwoong/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.10.09-23.06.34:661][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.10.09-23.06.34:661][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.10.09-23.06.34:690][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2022.10.09-23.06.34:692][  0]LogSlate: Using FreeType 2.6.0
+[2022.10.09-23.06.34:693][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.10.09-23.06.34:776][  0]LogAssetRegistry: FAssetRegistry took 0.0031 seconds to start up
+[2022.10.09-23.06.35:082][  0]LogInit: Selected Device Profile: [Windows]
+[2022.10.09-23.06.35:248][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.10.09-23.06.35:248][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.10.09-23.06.35:248][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.10.09-23.06.35:248][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.10.09-23.06.35:248][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.10.09-23.06.35:260][  0]LogNetVersion: TTSGame 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 1457153238)
+[2022.10.09-23.06.35:772][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.051586 seconds
+[2022.10.09-23.06.35:782][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2022.10.09-23.06.35:782][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2022.10.09-23.06.35:782][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.10.09-23.06.37:606][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.10.09-23.06.37:637][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.10.09-23.06.38:100][  0]SourceControl: Source control is disabled
+[2022.10.09-23.06.38:101][  0]SourceControl: Source control is disabled
+[2022.10.09-23.06.38:143][  0]SourceControl: Source control is disabled
+[2022.10.09-23.06.38:173][  0]SourceControl: Source control is disabled
+[2022.10.09-23.06.39:224][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.10.09-23.06.40:151][  0]LogOcInput: OculusInput pre-init called
+[2022.10.09-23.06.40:208][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.10.09-23.06.40:208][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.10.09-23.06.40:506][  0]LogEngine: Initializing Engine...
+[2022.10.09-23.06.40:511][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.10.09-23.06.40:515][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.002 s
+[2022.10.09-23.06.40:975][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.10.09-23.06.41:040][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.10.09-23.06.41:243][  0]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.10.09-23.06.41:374][  0]LogInit: FAudioDevice initialized.
+[2022.10.09-23.06.41:374][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.10.09-23.06.41:469][  0]LogDerivedDataCache: Saved boot cache 0.09s 95MB C:/Users/kimminwoong/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2022.10.09-23.06.41:473][  0]LogInit: Texture streaming: Enabled
+[2022.10.09-23.06.41:503][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.10.09-23.06.41:503][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.10.09-23.06.41:508][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.10.09-23.06.41:636][  0]LogInit: Transaction tracking system initialized
+[2022.10.09-23.06.41:839][  0]BlueprintLog: New page: Editor Load
+[2022.10.09-23.06.42:375][  0]LocalizationService: Localization service is disabled
+[2022.10.09-23.06.44:798][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProject/TTSGame/Content/' took 0.01s
+[2022.10.09-23.06.44:798][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2022.10.09-23.06.44:798][  0]LogCook: Display: Mobile HDR setting 1
+[2022.10.09-23.06.46:341][  0]SourceControl: Source control is disabled
+[2022.10.09-23.06.46:343][  0]Cmd: MAP LOAD FILE="../../../../UnrealProject/TTSGame/Content/Asset/Maps/StartTown.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.09-23.06.46:345][  0]LightingResults: New page: Lighting Build
+[2022.10.09-23.06.46:352][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.10.09-23.06.46:355][  0]MapCheck: New page: Map Check
+[2022.10.09-23.06.46:355][  0]LightingResults: New page: Lighting Build
+[2022.10.09-23.06.46:384][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2022.10.09-23.06.47:125][  0]LogAIModule: Creating AISystem for world StartTown
+[2022.10.09-23.06.47:172][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.09-23.06.47:205][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2022.10.09-23.06.47:205][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.09-23.06.47:205][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.414ms to complete.
+[2022.10.09-23.06.47:205][  0]LogFileHelpers: Loading map 'StartTown' took 0.863
+[2022.10.09-23.06.47:444][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.09-23.06.47:453][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.09-23.06.47:460][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.09-23.06.47:471][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.09-23.06.47:512][  0]LogCollectionManager: Loaded 0 collections in 0.001948 seconds
+[2022.10.09-23.06.47:541][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProject/TTSGame/Saved/Collections/' took 0.00s
+[2022.10.09-23.06.47:541][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProject/TTSGame/Content/Developers/kimminwoong/Collections/' took 0.00s
+[2022.10.09-23.06.47:541][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProject/TTSGame/Content/Collections/' took 0.00s
+[2022.10.09-23.06.47:541][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2022.10.09-23.06.47:554][  0]LogContentBrowser: Native class hierarchy populated in 0.0105 seconds. Added 2863 classes and 680 folders.
+[2022.10.09-23.06.47:569][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.10.09-23.06.48:151][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.10.09-23.06.48:195][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2022.10.09-23.06.48:473][  0]LogSlate: Took 0.000528 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.10.09-23.06.48:476][  0]LogSlate: Took 0.000274 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.10.09-23.06.48:481][  0]LogSlate: Took 0.000310 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.10.09-23.06.48:630][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2022.10.09-23.06.48:804][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2022.10.09-23.06.48:804][  0]LogLoad: (Engine Initialization) Total time: 18.51 seconds
+[2022.10.09-23.06.48:805][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.10.09-23.06.48:884][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.10.09-23.06.48:930][  0]LogSlate: Took 0.006586 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.10.09-23.06.49:593][ 13]LogAssetRegistry: Asset discovery search completed in 14.8189 seconds
+[2022.10.09-23.06.49:597][ 13]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000006 seconds (found 0 objects)
+[2022.10.09-23.06.49:597][ 13]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000110 seconds (updated 0 objects)
+[2022.10.09-23.06.52:303][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.10.09-23.06.52:363][ 93]LogSlate: Window 'TTSGame - Unreal Editor' being destroyed
+[2022.10.09-23.06.52:368][ 93]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2022.10.09-23.06.52:525][ 94]Cmd: QUIT_EDITOR
+[2022.10.09-23.06.52:560][ 94]LogExit: Preparing to exit.
+[2022.10.09-23.06.52:696][ 94]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.10.09-23.06.52:709][ 94]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.10.09-23.06.52:709][ 94]LogExit: Editor shut down
+[2022.10.09-23.06.52:709][ 94]LogExit: Transaction tracking system shut down
+[2022.10.09-23.06.52:911][ 94]LogExit: Object subsystem successfully closed.
+[2022.10.09-23.06.52:937][ 94]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.10.09-23.06.52:971][ 94]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (668)
+[2022.10.09-23.06.52:971][ 94]LogModuleManager: Shutting down and abandoning module SceneOutliner (666)
+[2022.10.09-23.06.52:971][ 94]LogModuleManager: Shutting down and abandoning module AddContentDialog (664)
+[2022.10.09-23.06.52:971][ 94]LogModuleManager: Shutting down and abandoning module WidgetCarousel (663)
+[2022.10.09-23.06.52:971][ 94]LogModuleManager: Shutting down and abandoning module EditorWidgets (660)
+[2022.10.09-23.06.52:971][ 94]LogModuleManager: Shutting down and abandoning module CollectionManager (658)
+[2022.10.09-23.06.52:972][ 94]LogModuleManager: Shutting down and abandoning module StatsViewer (656)
+[2022.10.09-23.06.52:972][ 94]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (654)
+[2022.10.09-23.06.52:972][ 94]LogModuleManager: Shutting down and abandoning module FoliageEdit (652)
+[2022.10.09-23.06.52:972][ 94]LogModuleManager: Shutting down and abandoning module LandscapeEditor (650)
+[2022.10.09-23.06.52:973][ 94]LogModuleManager: Shutting down and abandoning module MeshPaintMode (648)
+[2022.10.09-23.06.52:973][ 94]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (646)
+[2022.10.09-23.06.52:973][ 94]LogModuleManager: Shutting down and abandoning module ActorPickerMode (644)
+[2022.10.09-23.06.52:973][ 94]LogModuleManager: Shutting down and abandoning module GeometryMode (642)
+[2022.10.09-23.06.52:973][ 94]LogModuleManager: Shutting down and abandoning module TextureAlignMode (640)
+[2022.10.09-23.06.52:973][ 94]LogModuleManager: Shutting down and abandoning module BspMode (638)
+[2022.10.09-23.06.52:973][ 94]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (636)
+[2022.10.09-23.06.52:974][ 94]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (634)
+[2022.10.09-23.06.52:974][ 94]LogModuleManager: Shutting down and abandoning module AutomationWorker (632)
+[2022.10.09-23.06.52:974][ 94]LogModuleManager: Shutting down and abandoning module OculusMR (630)
+[2022.10.09-23.06.52:974][ 94]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (628)
+[2022.10.09-23.06.52:974][ 94]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (626)
+[2022.10.09-23.06.52:974][ 94]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (624)
+[2022.10.09-23.06.52:975][ 94]LogModuleManager: Shutting down and abandoning module PlacementMode (623)
+[2022.10.09-23.06.52:975][ 94]LogModuleManager: Shutting down and abandoning module MaterialEditor (622)
+[2022.10.09-23.06.52:976][ 94]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (618)
+[2022.10.09-23.06.52:977][ 94]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (616)
+[2022.10.09-23.06.52:977][ 94]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (614)
+[2022.10.09-23.06.52:977][ 94]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (612)
+[2022.10.09-23.06.52:977][ 94]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (610)
+[2022.10.09-23.06.52:977][ 94]LogModuleManager: Shutting down and abandoning module WebMMedia (608)
+[2022.10.09-23.06.52:977][ 94]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (606)
+[2022.10.09-23.06.52:977][ 94]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (604)
+[2022.10.09-23.06.52:977][ 94]LogModuleManager: Shutting down and abandoning module SequenceRecorder (603)
+[2022.10.09-23.06.52:977][ 94]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (600)
+[2022.10.09-23.06.52:977][ 94]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (598)
+[2022.10.09-23.06.52:977][ 94]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (596)
+[2022.10.09-23.06.52:977][ 94]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (594)
+[2022.10.09-23.06.52:977][ 94]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (592)
+[2022.10.09-23.06.52:978][ 94]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (590)
+[2022.10.09-23.06.52:978][ 94]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (588)
+[2022.10.09-23.06.52:978][ 94]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (586)
+[2022.10.09-23.06.52:978][ 94]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (584)
+[2022.10.09-23.06.52:978][ 94]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (582)
+[2022.10.09-23.06.52:978][ 94]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (580)
+[2022.10.09-23.06.52:978][ 94]LogModuleManager: Shutting down and abandoning module CharacterAI (578)
+[2022.10.09-23.06.52:978][ 94]LogModuleManager: Shutting down and abandoning module SmartSnapping (576)
+[2022.10.09-23.06.52:978][ 94]LogModuleManager: Shutting down and abandoning module SessionServices (574)
+[2022.10.09-23.06.52:978][ 94]LogModuleManager: Shutting down and abandoning module MeshPaint (572)
+[2022.10.09-23.06.52:978][ 94]LogModuleManager: Shutting down and abandoning module ViewportSnapping (570)
+[2022.10.09-23.06.52:978][ 94]LogModuleManager: Shutting down and abandoning module ViewportInteraction (568)
+[2022.10.09-23.06.52:978][ 94]LogModuleManager: Shutting down and abandoning module ClothPainter (566)
+[2022.10.09-23.06.52:978][ 94]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (565)
+[2022.10.09-23.06.52:980][ 94]LogModuleManager: Shutting down and abandoning module LogVisualizer (562)
+[2022.10.09-23.06.52:981][ 94]LogModuleManager: Shutting down and abandoning module IntroTutorials (560)
+[2022.10.09-23.06.52:981][ 94]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (559)
+[2022.10.09-23.06.52:981][ 94]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (556)
+[2022.10.09-23.06.52:981][ 94]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (554)
+[2022.10.09-23.06.52:981][ 94]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (552)
+[2022.10.09-23.06.52:981][ 94]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (550)
+[2022.10.09-23.06.52:981][ 94]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (549)
+[2022.10.09-23.06.53:676][ 94]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (546)
+[2022.10.09-23.06.53:676][ 94]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (544)
+[2022.10.09-23.06.53:677][ 94]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (542)
+[2022.10.09-23.06.53:677][ 94]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (540)
+[2022.10.09-23.06.53:677][ 94]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (538)
+[2022.10.09-23.06.53:677][ 94]LogModuleManager: Shutting down and abandoning module InputBindingEditor (536)
+[2022.10.09-23.06.53:677][ 94]LogModuleManager: Shutting down and abandoning module MergeActors (534)
+[2022.10.09-23.06.53:677][ 94]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (532)
+[2022.10.09-23.06.53:677][ 94]LogModuleManager: Shutting down and abandoning module LocalizationService (531)
+[2022.10.09-23.06.53:678][ 94]LogModuleManager: Shutting down and abandoning module HardwareTargeting (528)
+[2022.10.09-23.06.53:678][ 94]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (526)
+[2022.10.09-23.06.53:678][ 94]LogModuleManager: Shutting down and abandoning module UndoHistory (524)
+[2022.10.09-23.06.53:678][ 94]LogModuleManager: Shutting down and abandoning module XmlParser (522)
+[2022.10.09-23.06.53:678][ 94]LogModuleManager: Shutting down and abandoning module Blutility (520)
+[2022.10.09-23.06.53:678][ 94]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (518)
+[2022.10.09-23.06.53:678][ 94]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (517)
+[2022.10.09-23.06.53:678][ 94]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (514)
+[2022.10.09-23.06.53:678][ 94]LogModuleManager: Shutting down and abandoning module SettingsEditor (512)
+[2022.10.09-23.06.53:678][ 94]LogModuleManager: Shutting down and abandoning module ProjectLauncher (510)
+[2022.10.09-23.06.53:679][ 94]LogModuleManager: Shutting down and abandoning module SessionFrontend (508)
+[2022.10.09-23.06.53:679][ 94]LogModuleManager: Shutting down and abandoning module ProfilerClient (506)
+[2022.10.09-23.06.53:680][ 94]LogModuleManager: Shutting down and abandoning module DeviceManager (504)
+[2022.10.09-23.06.53:680][ 94]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (503)
+[2022.10.09-23.06.53:712][ 94]LogModuleManager: Shutting down and abandoning module AutomationController (500)
+[2022.10.09-23.06.53:712][ 94]LogModuleManager: Shutting down and abandoning module AutomationWindow (498)
+[2022.10.09-23.06.53:713][ 94]LogModuleManager: Shutting down and abandoning module Layers (496)
+[2022.10.09-23.06.53:713][ 94]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (494)
+[2022.10.09-23.06.53:713][ 94]LogModuleManager: Shutting down and abandoning module DetailCustomizations (492)
+[2022.10.09-23.06.53:713][ 94]LogModuleManager: Shutting down and abandoning module PackagesDialog (490)
+[2022.10.09-23.06.53:714][ 94]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (488)
+[2022.10.09-23.06.53:716][ 94]LogModuleManager: Shutting down and abandoning module Persona (486)
+[2022.10.09-23.06.53:716][ 94]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (485)
+[2022.10.09-23.06.53:716][ 94]LogModuleManager: Shutting down and abandoning module AnimGraph (483)
+[2022.10.09-23.06.53:716][ 94]LogModuleManager: Shutting down and abandoning module Kismet (480)
+[2022.10.09-23.06.53:719][ 94]LogModuleManager: Shutting down and abandoning module KismetWidgets (479)
+[2022.10.09-23.06.53:719][ 94]LogModuleManager: Shutting down and abandoning module GraphEditor (476)
+[2022.10.09-23.06.53:722][ 94]LogModuleManager: Shutting down and abandoning module StructViewer (474)
+[2022.10.09-23.06.53:722][ 94]LogModuleManager: Shutting down and abandoning module ClassViewer (472)
+[2022.10.09-23.06.53:722][ 94]LogModuleManager: Shutting down and abandoning module Toolbox (470)
+[2022.10.09-23.06.53:722][ 94]LogModuleManager: Shutting down and abandoning module ModuleUI (468)
+[2022.10.09-23.06.53:722][ 94]LogModuleManager: Shutting down and abandoning module MovieSceneTools (466)
+[2022.10.09-23.06.53:722][ 94]LogModuleManager: Shutting down and abandoning module OutputLog (464)
+[2022.10.09-23.06.53:723][ 94]LogModuleManager: Shutting down and abandoning module GammaUI (462)
+[2022.10.09-23.06.53:723][ 94]LogModuleManager: Shutting down and abandoning module Documentation (460)
+[2022.10.09-23.06.53:723][ 94]LogModuleManager: Shutting down and abandoning module LiveCoding (458)
+[2022.10.09-23.06.53:723][ 94]LogModuleManager: Shutting down and abandoning module LevelSequence (456)
+[2022.10.09-23.06.53:723][ 94]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (454)
+[2022.10.09-23.06.53:723][ 94]LogModuleManager: Shutting down and abandoning module MovieScene (452)
+[2022.10.09-23.06.53:723][ 94]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (450)
+[2022.10.09-23.06.53:723][ 94]LogModuleManager: Shutting down and abandoning module LauncherPlatform (448)
+[2022.10.09-23.06.53:723][ 94]LogModuleManager: Shutting down and abandoning module AnalyticsET (446)
+[2022.10.09-23.06.53:724][ 94]LogModuleManager: Shutting down and abandoning module PortalServices (444)
+[2022.10.09-23.06.53:724][ 94]LogModuleManager: Shutting down and abandoning module PortalRpc (442)
+[2022.10.09-23.06.53:724][ 94]LogModuleManager: Shutting down and abandoning module MessagingRpc (440)
+[2022.10.09-23.06.53:724][ 94]LogModuleManager: Shutting down and abandoning module AIModule (438)
+[2022.10.09-23.06.53:724][ 94]LogModuleManager: Shutting down and abandoning module GameplayDebugger (437)
+[2022.10.09-23.06.53:724][ 94]LogModuleManager: Shutting down and abandoning module AITestSuite (435)
+[2022.10.09-23.06.53:724][ 94]LogModuleManager: Shutting down and abandoning module NavigationSystem (433)
+[2022.10.09-23.06.53:724][ 94]LogModuleManager: Shutting down and abandoning module DesktopPlatform (430)
+[2022.10.09-23.06.53:724][ 94]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (428)
+[2022.10.09-23.06.53:727][ 94]LogModuleManager: Shutting down and abandoning module ProfilerService (426)
+[2022.10.09-23.06.53:900][ 94]LogModuleManager: Shutting down and abandoning module TaskGraph (424)
+[2022.10.09-23.06.53:900][ 94]LogModuleManager: Shutting down and abandoning module ScreenshotTools (422)
+[2022.10.09-23.06.53:900][ 94]LogModuleManager: Shutting down and abandoning module SteamVRController (420)
+[2022.10.09-23.06.53:900][ 94]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (418)
+[2022.10.09-23.06.53:900][ 94]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (416)
+[2022.10.09-23.06.53:901][ 94]LogModuleManager: Shutting down and abandoning module OculusEditor (414)
+[2022.10.09-23.06.53:901][ 94]LogModuleManager: Shutting down and abandoning module OculusInput (412)
+[2022.10.09-23.06.53:901][ 94]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (410)
+[2022.10.09-23.06.53:901][ 94]LogModuleManager: Shutting down and abandoning module EditableMesh (408)
+[2022.10.09-23.06.53:902][ 94]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (406)
+[2022.10.09-23.06.53:902][ 94]LogModuleManager: Shutting down and abandoning module CableComponent (404)
+[2022.10.09-23.06.53:902][ 94]LogModuleManager: Shutting down and abandoning module AudioCapture (402)
+[2022.10.09-23.06.53:902][ 94]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (400)
+[2022.10.09-23.06.53:902][ 94]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (398)
+[2022.10.09-23.06.53:902][ 94]LogModuleManager: Shutting down and abandoning module AppleImageUtils (396)
+[2022.10.09-23.06.53:902][ 94]LogModuleManager: Shutting down and abandoning module AndroidPermission (394)
+[2022.10.09-23.06.53:902][ 94]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (392)
+[2022.10.09-23.06.53:902][ 94]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (390)
+[2022.10.09-23.06.53:902][ 94]LogModuleManager: Shutting down and abandoning module MediaCompositing (388)
+[2022.10.09-23.06.53:902][ 94]LogModuleManager: Shutting down and abandoning module ImgMedia (386)
+[2022.10.09-23.06.53:902][ 94]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (384)
+[2022.10.09-23.06.53:902][ 94]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (382)
+[2022.10.09-23.06.53:902][ 94]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (380)
+[2022.10.09-23.06.53:902][ 94]LogModuleManager: Shutting down and abandoning module HTML5Networking (378)
+[2022.10.09-23.06.53:902][ 94]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (376)
+[2022.10.09-23.06.53:902][ 94]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (374)
+[2022.10.09-23.06.53:902][ 94]LogModuleManager: Shutting down and abandoning module BackChannel (372)
+[2022.10.09-23.06.53:902][ 94]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (370)
+[2022.10.09-23.06.53:902][ 94]LogModuleManager: Shutting down and abandoning module AutomationUtils (368)
+[2022.10.09-23.06.53:902][ 94]LogModuleManager: Shutting down and abandoning module AlembicImporter (366)
+[2022.10.09-23.06.53:902][ 94]LogModuleManager: Shutting down and abandoning module AlembicLibrary (365)
+[2022.10.09-23.06.53:902][ 94]LogModuleManager: Shutting down and abandoning module GeometryCache (364)
+[2022.10.09-23.06.53:902][ 94]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (363)
+[2022.10.09-23.06.53:902][ 94]LogModuleManager: Shutting down and abandoning module VariantManagerContent (358)
+[2022.10.09-23.06.53:902][ 94]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (356)
+[2022.10.09-23.06.53:902][ 94]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (354)
+[2022.10.09-23.06.53:902][ 94]LogModuleManager: Shutting down and abandoning module PluginBrowser (352)
+[2022.10.09-23.06.53:903][ 94]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (350)
+[2022.10.09-23.06.53:903][ 94]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (348)
+[2022.10.09-23.06.53:903][ 94]LogModuleManager: Shutting down and abandoning module CurveEditorTools (346)
+[2022.10.09-23.06.53:903][ 94]LogModuleManager: Shutting down and abandoning module CurveEditor (345)
+[2022.10.09-23.06.53:904][ 94]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (342)
+[2022.10.09-23.06.53:904][ 94]LogModuleManager: Shutting down and abandoning module CryptoKeys (340)
+[2022.10.09-23.06.53:904][ 94]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (338)
+[2022.10.09-23.06.53:905][ 94]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (336)
+[2022.10.09-23.06.53:905][ 94]LogModuleManager: Shutting down and abandoning module UObjectPlugin (334)
+[2022.10.09-23.06.53:905][ 94]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (332)
+[2022.10.09-23.06.53:905][ 94]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (330)
+[2022.10.09-23.06.53:905][ 94]LogModuleManager: Shutting down and abandoning module GitSourceControl (328)
+[2022.10.09-23.06.53:906][ 94]LogModuleManager: Shutting down and abandoning module SourceControl (327)
+[2022.10.09-23.06.53:906][ 94]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (324)
+[2022.10.09-23.06.53:906][ 94]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (322)
+[2022.10.09-23.06.53:906][ 94]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (320)
+[2022.10.09-23.06.53:906][ 94]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (318)
+[2022.10.09-23.06.53:906][ 94]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (316)
+[2022.10.09-23.06.53:906][ 94]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (314)
+[2022.10.09-23.06.53:906][ 94]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (312)
+[2022.10.09-23.06.53:906][ 94]LogModuleManager: Shutting down and abandoning module Paper2DEditor (310)
+[2022.10.09-23.06.53:907][ 94]LogModuleManager: Shutting down and abandoning module SignificanceManager (308)
+[2022.10.09-23.06.53:907][ 94]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (306)
+[2022.10.09-23.06.53:907][ 94]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (304)
+[2022.10.09-23.06.53:907][ 94]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (300)
+[2022.10.09-23.06.53:907][ 94]LogModuleManager: Shutting down and abandoning module ActorSequence (298)
+[2022.10.09-23.06.53:907][ 94]LogModuleManager: Shutting down and abandoning module UdpMessaging (296)
+[2022.10.09-23.06.54:008][ 94]LogModuleManager: Shutting down and abandoning module TcpMessaging (294)
+[2022.10.09-23.06.54:109][ 94]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (292)
+[2022.10.09-23.06.54:109][ 94]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (290)
+[2022.10.09-23.06.54:109][ 94]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (288)
+[2022.10.09-23.06.54:109][ 94]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (286)
+[2022.10.09-23.06.54:109][ 94]LogModuleManager: Shutting down and abandoning module MagicLeapController (284)
+[2022.10.09-23.06.54:109][ 94]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.10.09-23.06.54:109][ 94]LogModuleManager: Shutting down and abandoning module MagicLeapAR (282)
+[2022.10.09-23.06.54:109][ 94]LogModuleManager: Shutting down and abandoning module AugmentedReality (281)
+[2022.10.09-23.06.54:109][ 94]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2022.10.09-23.06.54:110][ 94]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2022.10.09-23.06.54:110][ 94]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2022.10.09-23.06.54:110][ 94]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2022.10.09-23.06.54:110][ 94]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2022.10.09-23.06.54:110][ 94]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2022.10.09-23.06.54:111][ 94]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2022.10.09-23.06.54:111][ 94]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2022.10.09-23.06.54:111][ 94]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2022.10.09-23.06.54:111][ 94]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2022.10.09-23.06.54:111][ 94]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2022.10.09-23.06.54:112][ 94]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2022.10.09-23.06.54:113][ 94]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2022.10.09-23.06.54:113][ 94]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2022.10.09-23.06.54:113][ 94]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2022.10.09-23.06.54:113][ 94]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2022.10.09-23.06.54:116][ 94]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2022.10.09-23.06.54:116][ 94]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2022.10.09-23.06.54:116][ 94]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2022.10.09-23.06.54:116][ 94]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2022.10.09-23.06.54:116][ 94]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2022.10.09-23.06.54:117][ 94]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2022.10.09-23.06.54:117][ 94]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2022.10.09-23.06.54:117][ 94]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2022.10.09-23.06.54:117][ 94]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2022.10.09-23.06.54:117][ 94]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2022.10.09-23.06.54:119][ 94]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2022.10.09-23.06.54:119][ 94]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2022.10.09-23.06.54:119][ 94]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2022.10.09-23.06.54:119][ 94]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2022.10.09-23.06.54:119][ 94]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2022.10.09-23.06.54:119][ 94]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2022.10.09-23.06.54:120][ 94]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2022.10.09-23.06.54:120][ 94]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2022.10.09-23.06.54:122][ 94]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2022.10.09-23.06.54:122][ 94]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2022.10.09-23.06.54:123][ 94]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2022.10.09-23.06.54:123][ 94]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2022.10.09-23.06.54:123][ 94]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2022.10.09-23.06.54:124][ 94]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2022.10.09-23.06.54:124][ 94]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2022.10.09-23.06.54:124][ 94]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2022.10.09-23.06.54:124][ 94]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2022.10.09-23.06.54:124][ 94]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2022.10.09-23.06.54:124][ 94]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2022.10.09-23.06.54:124][ 94]LogModuleManager: Shutting down and abandoning module Core (186)
+[2022.10.09-23.06.54:124][ 94]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2022.10.09-23.06.54:124][ 94]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2022.10.09-23.06.54:124][ 94]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2022.10.09-23.06.54:125][ 94]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2022.10.09-23.06.54:125][ 94]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2022.10.09-23.06.54:125][ 94]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2022.10.09-23.06.54:126][ 94]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2022.10.09-23.06.54:126][ 94]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2022.10.09-23.06.54:127][ 94]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2022.10.09-23.06.54:127][ 94]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2022.10.09-23.06.54:187][ 94]LogDerivedDataCache: Shutdown
+[2022.10.09-23.06.54:187][ 94]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2022.10.09-23.06.54:187][ 94]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2022.10.09-23.06.54:187][ 94]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2022.10.09-23.06.54:187][ 94]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2022.10.09-23.06.54:187][ 94]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2022.10.09-23.06.54:187][ 94]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2022.10.09-23.06.54:187][ 94]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2022.10.09-23.06.54:188][ 94]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2022.10.09-23.06.54:188][ 94]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2022.10.09-23.06.54:188][ 94]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2022.10.09-23.06.54:188][ 94]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2022.10.09-23.06.54:188][ 94]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2022.10.09-23.06.54:188][ 94]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2022.10.09-23.06.54:188][ 94]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2022.10.09-23.06.54:188][ 94]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2022.10.09-23.06.54:188][ 94]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2022.10.09-23.06.54:188][ 94]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2022.10.09-23.06.54:188][ 94]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2022.10.09-23.06.54:189][ 94]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2022.10.09-23.06.54:189][ 94]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2022.10.09-23.06.54:189][ 94]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2022.10.09-23.06.54:189][ 94]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2022.10.09-23.06.54:189][ 94]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2022.10.09-23.06.54:189][ 94]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2022.10.09-23.06.54:189][ 94]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2022.10.09-23.06.54:190][ 94]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2022.10.09-23.06.54:190][ 94]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2022.10.09-23.06.54:193][ 94]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2022.10.09-23.06.54:193][ 94]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2022.10.09-23.06.54:193][ 94]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2022.10.09-23.06.54:193][ 94]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2022.10.09-23.06.54:193][ 94]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2022.10.09-23.06.54:193][ 94]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2022.10.09-23.06.54:193][ 94]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2022.10.09-23.06.54:193][ 94]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2022.10.09-23.06.54:193][ 94]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2022.10.09-23.06.54:193][ 94]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2022.10.09-23.06.54:193][ 94]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2022.10.09-23.06.54:193][ 94]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2022.10.09-23.06.54:195][ 94]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2022.10.09-23.06.54:195][ 94]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2022.10.09-23.06.54:195][ 94]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2022.10.09-23.06.54:195][ 94]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2022.10.09-23.06.54:195][ 94]LogHMD: Freeing OpenVRDLLHandle.
+[2022.10.09-23.06.54:195][ 94]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2022.10.09-23.06.54:195][ 94]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2022.10.09-23.06.54:195][ 94]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2022.10.09-23.06.54:195][ 94]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2022.10.09-23.06.54:195][ 94]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2022.10.09-23.06.54:197][ 94]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2022.10.09-23.06.54:198][ 94]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2022.10.09-23.06.54:214][ 94]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2022.10.09-23.06.54:214][ 94]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2022.10.09-23.06.54:214][ 94]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA45E3E88-4A96-0E3C-7093-56AEDBA173A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=d3574cf244cc528680ea9baf8cc75a24%7Ce14f188ddc854a33b6cb1272929a2fe2%7C823acc21-f26c-4d66-9432-bee44d06cb19&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2022.10.09-23.06.54:224][ 94]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2022.10.09-23.06.54:224][ 94]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2022.10.09-23.06.54:226][ 94]LogModuleManager: Shutting down and abandoning module Media (51)
+[2022.10.09-23.06.54:227][ 94]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2022.10.09-23.06.54:227][ 94]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2022.10.09-23.06.54:228][ 94]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2022.10.09-23.06.54:228][ 94]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2022.10.09-23.06.54:228][ 94]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2022.10.09-23.06.54:228][ 94]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2022.10.09-23.06.54:229][ 94]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2022.10.09-23.06.54:229][ 94]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2022.10.09-23.06.54:230][ 94]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2022.10.09-23.06.54:230][ 94]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2022.10.09-23.06.54:230][ 94]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2022.10.09-23.06.54:230][ 94]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2022.10.09-23.06.54:231][ 94]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2022.10.09-23.06.54:231][ 94]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2022.10.09-23.06.54:231][ 94]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.10.09-23.06.54:231][ 94]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.10.09-23.06.54:231][ 94]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.10.09-23.06.54:231][ 94]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.10.09-23.06.54:231][ 94]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2022.10.09-23.06.54:231][ 94]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2022.10.09-23.06.54:231][ 94]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2022.10.09-23.06.54:232][ 94]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2022.10.09-23.06.54:232][ 94]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.10.09-23.06.54:232][ 94]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.10.09-23.06.54:232][ 94]LogD3D11RHI: Shutdown
+[2022.10.09-23.06.54:232][ 94]LogD3D11RHI: CleanupD3DDevice
+[2022.10.09-23.06.54:233][ 94]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2022.10.09-23.06.54:233][ 94]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2022.10.09-23.06.54:233][ 94]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2022.10.09-23.06.54:320][ 94]LogD3D11RHI: ~FD3D11DynamicRHI
+[2022.10.09-23.06.54:328][ 94]LogExit: Exiting.
+[2022.10.09-23.06.54:339][ 94]Log file closed, 10/10/22 08:06:54
