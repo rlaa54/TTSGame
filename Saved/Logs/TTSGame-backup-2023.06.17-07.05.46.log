@@ -1,0 +1,1628 @@
+﻿Log file open, 06/17/23 10:05:28
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: TTSGame
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.284349
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 970
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.06.17-01.05.30:388][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2023.06.17-01.05.30:388][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2023.06.17-01.05.30:388][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Engine.ini]
+[2023.06.17-01.05.30:388][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.06.17-01.05.30:388][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2023.06.17-01.05.30:388][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2023.06.17-01.05.30:388][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2023.06.17-01.05.30:388][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2023.06.17-01.05.30:388][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2023.06.17-01.05.30:388][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2023.06.17-01.05.30:388][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2023.06.17-01.05.30:389][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2023.06.17-01.05.30:389][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2023.06.17-01.05.30:389][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2023.06.17-01.05.30:389][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2023.06.17-01.05.30:389][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2023.06.17-01.05.30:389][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2023.06.17-01.05.30:389][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2023.06.17-01.05.30:389][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2023.06.17-01.05.30:389][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2023.06.17-01.05.30:389][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2023.06.17-01.05.30:389][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2023.06.17-01.05.30:389][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2023.06.17-01.05.30:389][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2023.06.17-01.05.30:389][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2023.06.17-01.05.30:389][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2023.06.17-01.05.30:389][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2023.06.17-01.05.30:389][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2023.06.17-01.05.30:389][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2023.06.17-01.05.30:389][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2023.06.17-01.05.30:389][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2023.06.17-01.05.30:389][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2023.06.17-01.05.30:389][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2023.06.17-01.05.30:389][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2023.06.17-01.05.30:389][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2023.06.17-01.05.30:389][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2023.06.17-01.05.30:389][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2023.06.17-01.05.30:389][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2023.06.17-01.05.30:389][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2023.06.17-01.05.30:389][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2023.06.17-01.05.30:389][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2023.06.17-01.05.30:389][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2023.06.17-01.05.30:389][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2023.06.17-01.05.30:389][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2023.06.17-01.05.30:389][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2023.06.17-01.05.30:389][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2023.06.17-01.05.30:389][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2023.06.17-01.05.30:389][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2023.06.17-01.05.30:389][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2023.06.17-01.05.30:389][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2023.06.17-01.05.30:389][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2023.06.17-01.05.30:389][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:1]]
+[2023.06.17-01.05.30:389][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2023.06.17-01.05.30:389][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2023.06.17-01.05.30:389][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2023.06.17-01.05.30:389][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2023.06.17-01.05.30:389][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2023.06.17-01.05.30:389][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2023.06.17-01.05.30:389][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2023.06.17-01.05.30:389][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2023.06.17-01.05.30:389][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2023.06.17-01.05.30:389][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2023.06.17-01.05.30:389][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2023.06.17-01.05.30:389][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2023.06.17-01.05.30:389][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2023.06.17-01.05.30:389][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2023.06.17-01.05.30:389][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2023.06.17-01.05.30:389][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2023.06.17-01.05.30:389][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2023.06.17-01.05.30:389][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2023.06.17-01.05.30:389][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2023.06.17-01.05.30:389][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2023.06.17-01.05.30:390][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2023.06.17-01.05.30:390][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2023.06.17-01.05.30:390][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2023.06.17-01.05.30:390][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2023.06.17-01.05.30:390][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2023.06.17-01.05.30:390][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2023.06.17-01.05.30:390][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2023.06.17-01.05.30:390][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2023.06.17-01.05.30:390][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2023.06.17-01.05.30:390][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2023.06.17-01.05.30:390][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2023.06.17-01.05.30:390][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2023.06.17-01.05.30:390][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2023.06.17-01.05.30:390][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2023.06.17-01.05.30:390][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2023.06.17-01.05.30:390][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2023.06.17-01.05.30:390][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2023.06.17-01.05.30:390][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2023.06.17-01.05.30:390][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2023.06.17-01.05.30:390][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2023.06.17-01.05.30:390][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2023.06.17-01.05.30:390][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2023.06.17-01.05.30:390][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2023.06.17-01.05.30:390][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2023.06.17-01.05.30:390][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Engine.ini]
+[2023.06.17-01.05.30:390][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Engine.ini]
+[2023.06.17-01.05.30:390][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.06.17-01.05.30:390][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.06.17-01.05.30:390][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.06.17-01.05.30:390][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.06.17-01.05.30:390][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.06.17-01.05.30:390][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.06.17-01.05.30:390][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.06.17-01.05.30:390][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.06.17-01.05.30:390][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.06.17-01.05.30:390][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.06.17-01.05.30:390][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.06.17-01.05.30:390][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.06.17-01.05.30:390][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.06.17-01.05.30:390][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Engine.ini]
+[2023.06.17-01.05.30:390][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.06.17-01.05.30:390][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.06.17-01.05.30:390][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.06.17-01.05.30:390][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.06.17-01.05.30:390][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.06.17-01.05.30:390][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.06.17-01.05.30:390][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2023.06.17-01.05.30:390][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.06.17-01.05.30:390][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.06.17-01.05.30:390][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.06.17-01.05.30:390][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.06.17-01.05.30:390][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.06.17-01.05.30:391][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.06.17-01.05.30:391][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Engine.ini]
+[2023.06.17-01.05.30:391][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Engine.ini]
+[2023.06.17-01.05.30:399][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Scalability.ini]
+[2023.06.17-01.05.30:399][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.06.17-01.05.30:399][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.06.17-01.05.30:399][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Scalability.ini]
+[2023.06.17-01.05.30:399][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.06.17-01.05.30:399][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Scalability.ini]
+[2023.06.17-01.05.30:399][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.06.17-01.05.30:399][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.06.17-01.05.30:400][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.06.17-01.05.30:400][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.06.17-01.05.30:400][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.06.17-01.05.30:400][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.06.17-01.05.30:400][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.06.17-01.05.30:400][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.06.17-01.05.30:400][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.06.17-01.05.30:400][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.06.17-01.05.30:400][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.06.17-01.05.30:400][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.06.17-01.05.30:400][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.06.17-01.05.30:400][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.06.17-01.05.30:400][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.06.17-01.05.30:400][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.06.17-01.05.30:400][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.06.17-01.05.30:400][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.06.17-01.05.30:400][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Scalability.ini]
+[2023.06.17-01.05.30:400][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.06.17-01.05.30:400][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.06.17-01.05.30:400][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.06.17-01.05.30:400][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.06.17-01.05.30:400][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.06.17-01.05.30:400][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.06.17-01.05.30:400][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.06.17-01.05.30:400][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.06.17-01.05.30:400][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.06.17-01.05.30:400][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.06.17-01.05.30:400][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.06.17-01.05.30:400][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.06.17-01.05.30:400][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.06.17-01.05.30:400][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.06.17-01.05.30:400][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.06.17-01.05.30:400][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.06.17-01.05.30:400][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.06.17-01.05.30:400][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.06.17-01.05.30:400][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.06.17-01.05.30:400][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.06.17-01.05.30:400][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.06.17-01.05.30:400][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.06.17-01.05.30:400][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.06.17-01.05.30:400][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.06.17-01.05.30:401][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.06.17-01.05.30:401][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.06.17-01.05.30:401][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.06.17-01.05.30:401][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.06.17-01.05.30:401][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.06.17-01.05.30:401][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.06.17-01.05.30:401][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Scalability.ini]
+[2023.06.17-01.05.30:401][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.06.17-01.05.30:401][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.06.17-01.05.30:401][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.06.17-01.05.30:401][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.06.17-01.05.30:401][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.06.17-01.05.30:401][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.06.17-01.05.30:401][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.06.17-01.05.30:401][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.06.17-01.05.30:401][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Scalability.ini]
+[2023.06.17-01.05.30:401][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.06.17-01.05.30:401][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.06.17-01.05.30:401][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.06.17-01.05.30:401][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.06.17-01.05.30:401][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.06.17-01.05.30:401][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.06.17-01.05.30:401][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.06.17-01.05.30:401][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.06.17-01.05.30:401][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.06.17-01.05.30:401][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.06.17-01.05.30:401][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2023.06.17-01.05.30:401][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.06.17-01.05.30:401][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.06.17-01.05.30:401][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Scalability.ini]
+[2023.06.17-01.05.30:401][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.06.17-01.05.30:401][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.06.17-01.05.30:401][  0]LogInit: Selected Device Profile: [Windows]
+[2023.06.17-01.05.30:401][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.06.17-01.05.30:412][  0]LogHAL: Display: Platform has ~ 16 GB [17097846784 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.06.17-01.05.30:412][  0]LogInit: Going up to parent DeviceProfile []
+[2023.06.17-01.05.30:412][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Scalability.ini]
+[2023.06.17-01.05.30:412][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:2]]
+[2023.06.17-01.05.30:412][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.4]]
+[2023.06.17-01.05.30:412][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Scalability.ini]
+[2023.06.17-01.05.30:412][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:0]]
+[2023.06.17-01.05.30:412][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Scalability.ini]
+[2023.06.17-01.05.30:412][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:0]]
+[2023.06.17-01.05.30:413][  0]LogConfig: Setting CVar [[r.ShadowQuality:0]]
+[2023.06.17-01.05.30:413][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2023.06.17-01.05.30:413][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:512]]
+[2023.06.17-01.05.30:413][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:512]]
+[2023.06.17-01.05.30:413][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2023.06.17-01.05.30:413][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.6]]
+[2023.06.17-01.05.30:413][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2023.06.17-01.05.30:413][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2023.06.17-01.05.30:413][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2023.06.17-01.05.30:413][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2023.06.17-01.05.30:413][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2023.06.17-01.05.30:413][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:0]]
+[2023.06.17-01.05.30:413][  0]LogConfig: Setting CVar [[r.CapsuleShadows:0]]
+[2023.06.17-01.05.30:413][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Scalability.ini]
+[2023.06.17-01.05.30:413][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2023.06.17-01.05.30:413][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2023.06.17-01.05.30:413][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2023.06.17-01.05.30:413][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2023.06.17-01.05.30:413][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2023.06.17-01.05.30:413][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2023.06.17-01.05.30:413][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:300]]
+[2023.06.17-01.05.30:413][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2023.06.17-01.05.30:413][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2023.06.17-01.05.30:413][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2023.06.17-01.05.30:413][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2023.06.17-01.05.30:413][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2023.06.17-01.05.30:413][  0]LogConfig: Setting CVar [[r.Upscale.Quality:1]]
+[2023.06.17-01.05.30:413][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2023.06.17-01.05.30:413][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2023.06.17-01.05.30:413][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.6]]
+[2023.06.17-01.05.30:413][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2023.06.17-01.05.30:413][  0]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Scalability.ini]
+[2023.06.17-01.05.30:413][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:16]]
+[2023.06.17-01.05.30:413][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:1]]
+[2023.06.17-01.05.30:413][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:1]]
+[2023.06.17-01.05.30:413][  0]LogConfig: Setting CVar [[r.Streaming.Boost:0.3]]
+[2023.06.17-01.05.30:413][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:0]]
+[2023.06.17-01.05.30:413][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2023.06.17-01.05.30:413][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:400]]
+[2023.06.17-01.05.30:413][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.06.17-01.05.30:413][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Scalability.ini]
+[2023.06.17-01.05.30:413][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:24]]
+[2023.06.17-01.05.30:413][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2023.06.17-01.05.30:413][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2023.06.17-01.05.30:413][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2023.06.17-01.05.30:413][  0]LogConfig: Setting CVar [[r.DetailMode:0]]
+[2023.06.17-01.05.30:413][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2023.06.17-01.05.30:413][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:0 ; Low quality]]
+[2023.06.17-01.05.30:413][  0]LogConfig: Setting CVar [[r.SSS.Scale:0]]
+[2023.06.17-01.05.30:413][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2023.06.17-01.05.30:413][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2023.06.17-01.05.30:413][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2023.06.17-01.05.30:413][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.125]]
+[2023.06.17-01.05.30:413][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2023.06.17-01.05.30:413][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Scalability.ini]
+[2023.06.17-01.05.30:413][  0]LogConfig: Setting CVar [[foliage.DensityScale:0]]
+[2023.06.17-01.05.30:413][  0]LogConfig: Setting CVar [[grass.DensityScale:0]]
+[2023.06.17-01.05.30:413][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.06.17-01.05.30:420][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.06.17-01.05.30:420][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.06.17-01.05.30:420][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/UnrealProject/TTSGame/Saved/Config/Windows/Engine.ini]
+[2023.06.17-01.05.30:420][  0]LogInit: Computer: DESKTOP-MURC6HF
+[2023.06.17-01.05.30:420][  0]LogInit: User: kimminwoong
+[2023.06.17-01.05.30:420][  0]LogInit: CPU Page size=4096, Cores=4
+[2023.06.17-01.05.30:420][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.06.17-01.05.30:420][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2023.06.17-01.05.30:420][  0]LogMemory: Platform Memory Stats for Windows
+[2023.06.17-01.05.30:420][  0]LogMemory: Process Physical Memory: 103.97 MB used, 103.98 MB peak
+[2023.06.17-01.05.30:420][  0]LogMemory: Process Virtual Memory: 88.60 MB used, 88.60 MB peak
+[2023.06.17-01.05.30:420][  0]LogMemory: Physical Memory: 9136.96 MB used,  7168.82 MB free, 16305.78 MB total
+[2023.06.17-01.05.30:420][  0]LogMemory: Virtual Memory: 4658.69 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2023.06.17-01.05.30:436][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.06.17-01.05.30:947][  0]LogInit: Overriding language with editor language configuration option (en).
+[2023.06.17-01.05.30:947][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2023.06.17-01.05.31:336][  0]LogInit: Setting process to per monitor DPI aware
+[2023.06.17-01.05.31:500][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.06.17-01.05.31:500][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.06.17-01.05.34:612][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.06.17-01.05.34:612][  0]LogD3D11RHI: D3D11 adapters:
+[2023.06.17-01.05.34:895][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2023.06.17-01.05.34:895][  0]LogD3D11RHI:       4043/0/8152 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2023.06.17-01.05.34:899][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.06.17-01.05.34:899][  0]LogD3D11RHI:       0/0/8152 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.06.17-01.05.34:899][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2023.06.17-01.05.34:907][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.06.17-01.05.34:907][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2023.06.17-01.05.34:907][  0]LogWindows: EnumDisplayDevices:
+[2023.06.17-01.05.34:908][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2023.06.17-01.05.34:909][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2023.06.17-01.05.34:910][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2023.06.17-01.05.34:911][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2023.06.17-01.05.34:912][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.06.17-01.05.34:912][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2023.06.17-01.05.34:912][  0]LogD3D11RHI:   Driver Version: 516.94 (internal:31.0.15.1694, unified:516.94)
+[2023.06.17-01.05.34:912][  0]LogD3D11RHI:      Driver Date: 7-21-2022
+[2023.06.17-01.05.34:912][  0]LogRHI: Texture pool is 2830 MB (70% of 4043 MB)
+[2023.06.17-01.05.34:996][  0]LogD3D11RHI: Async texture creation enabled
+[2023.06.17-01.05.35:038][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2023.06.17-01.05.36:469][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2023.06.17-01.05.36:504][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2023.06.17-01.05.36:540][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2023.06.17-01.05.36:575][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2023.06.17-01.05.36:624][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2023.06.17-01.05.36:662][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2023.06.17-01.05.36:704][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2023.06.17-01.05.36:741][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2023.06.17-01.05.36:772][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2023.06.17-01.05.36:864][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2023.06.17-01.05.36:864][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2023.06.17-01.05.36:864][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2023.06.17-01.05.36:864][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2023.06.17-01.05.36:864][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2023.06.17-01.05.36:864][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2023.06.17-01.05.36:864][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2023.06.17-01.05.36:864][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2023.06.17-01.05.36:864][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2023.06.17-01.05.36:864][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2023.06.17-01.05.36:864][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2023.06.17-01.05.36:864][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2023.06.17-01.05.36:864][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2023.06.17-01.05.36:864][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2023.06.17-01.05.36:864][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2023.06.17-01.05.36:864][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2023.06.17-01.05.36:864][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2023.06.17-01.05.36:864][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2023.06.17-01.05.36:897][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2023.06.17-01.05.37:029][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2023.06.17-01.05.37:029][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2023.06.17-01.05.37:071][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2023.06.17-01.05.37:071][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2023.06.17-01.05.37:104][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2023.06.17-01.05.37:139][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2023.06.17-01.05.37:180][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2023.06.17-01.05.37:231][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2023.06.17-01.05.37:295][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2023.06.17-01.05.37:295][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2023.06.17-01.05.37:295][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.06.17-01.05.37:402][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.06.17-01.05.38:152][  0]LogShaderCompilers: Guid format shader working directory is 18 characters bigger than the processId version (../../../../UnrealProject/TTSGame/Intermediate/Shaders/WorkingDirectory/20416/).
+[2023.06.17-01.05.38:152][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/kimminwoong/AppData/Local/Temp/UnrealShaderWorkingDir/7BCCDE2C4C35F3EAB154AA8B47DE573B/'.
+[2023.06.17-01.05.38:154][  0]LogXGEController: Cleaning working directory: C:/Users/kimminwoong/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2023.06.17-01.05.38:155][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.06.17-01.05.38:155][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2023.06.17-01.05.38:155][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.06.17-01.05.41:605][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.06.17-01.05.41:805][  0]LogDerivedDataCache: Loaded boot cache 0.20s 73MB C:/Users/kimminwoong/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2023.06.17-01.05.41:805][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/kimminwoong/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2023.06.17-01.05.41:806][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../UnrealProject/TTSGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.06.17-01.05.41:806][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.06.17-01.05.41:806][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../UnrealProject/TTSGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.06.17-01.05.41:806][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.06.17-01.05.41:833][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.06.17-01.05.41:833][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.06.17-01.05.41:833][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2023.06.17-01.05.41:835][  0]LogDerivedDataCache: Using Local data cache path C:/Users/kimminwoong/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.06.17-01.05.41:835][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.06.17-01.05.41:835][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.06.17-01.05.41:869][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2023.06.17-01.05.41:880][  0]LogSlate: Using FreeType 2.6.0
+[2023.06.17-01.05.41:901][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.06.17-01.05.43:116][  0]LogAssetRegistry: FAssetRegistry took 0.0100 seconds to start up
+[2023.06.17-01.05.43:819][  0]LogInit: Selected Device Profile: [Windows]
+[2023.06.17-01.05.44:914][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.06.17-01.05.44:914][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.06.17-01.05.44:914][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.06.17-01.05.44:914][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.06.17-01.05.44:914][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.06.17-01.05.44:992][  0]LogNetVersion: TTSGame 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 1457153238)
+[2023.06.17-01.05.46:458][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.078939 seconds
+[2023.06.17-01.05.46:466][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2023.06.17-01.05.46:466][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2023.06.17-01.05.46:466][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.06.17-01.06.01:426][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.06.17-01.06.01:461][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.06.17-01.06.02:189][  0]SourceControl: Source control is disabled
+[2023.06.17-01.06.02:190][  0]SourceControl: Source control is disabled
+[2023.06.17-01.06.02:334][  0]SourceControl: Source control is disabled
+[2023.06.17-01.06.02:381][  0]SourceControl: Source control is disabled
+[2023.06.17-01.06.03:963][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.06.17-01.06.05:027][  0]LogOcInput: OculusInput pre-init called
+[2023.06.17-01.06.05:108][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2023.06.17-01.06.05:108][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2023.06.17-01.06.05:562][  0]LogEngine: Initializing Engine...
+[2023.06.17-01.06.05:569][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.06.17-01.06.05:575][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.002 s
+[2023.06.17-01.06.06:112][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.06.17-01.06.06:260][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.06.17-01.06.06:427][  0]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.06.17-01.06.06:666][  0]LogInit: FAudioDevice initialized.
+[2023.06.17-01.06.06:667][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.06.17-01.06.06:751][  0]LogDerivedDataCache: Saved boot cache 0.08s 73MB C:/Users/kimminwoong/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2023.06.17-01.06.06:752][  0]LogInit: Texture streaming: Enabled
+[2023.06.17-01.06.06:922][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.06.17-01.06.06:922][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2023.06.17-01.06.06:927][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2023.06.17-01.06.07:076][  0]LogInit: Transaction tracking system initialized
+[2023.06.17-01.06.07:378][  0]BlueprintLog: New page: Editor Load
+[2023.06.17-01.06.08:262][  0]LocalizationService: Localization service is disabled
+[2023.06.17-01.06.09:862][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProject/TTSGame/Content/' took 0.02s
+[2023.06.17-01.06.09:862][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2023.06.17-01.06.09:863][  0]LogCook: Display: Mobile HDR setting 1
+[2023.06.17-01.06.12:110][  0]SourceControl: Source control is disabled
+[2023.06.17-01.06.12:112][  0]Cmd: MAP LOAD FILE="../../../../UnrealProject/TTSGame/Content/Asset/Maps/StartTown.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.06.17-01.06.12:121][  0]LightingResults: New page: Lighting Build
+[2023.06.17-01.06.12:137][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.06.17-01.06.12:143][  0]MapCheck: New page: Map Check
+[2023.06.17-01.06.12:144][  0]LightingResults: New page: Lighting Build
+[2023.06.17-01.06.12:191][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2023.06.17-01.06.13:289][  0]LogAIModule: Creating AISystem for world StartTown
+[2023.06.17-01.06.13:398][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.06.17-01.06.13:448][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2023.06.17-01.06.13:449][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.06.17-01.06.13:450][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.759ms to complete.
+[2023.06.17-01.06.13:450][  0]LogFileHelpers: Loading map 'StartTown' took 1.339
+[2023.06.17-01.06.13:765][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.17-01.06.13:777][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.17-01.06.13:784][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.17-01.06.13:793][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.17-01.06.13:853][  0]LogCollectionManager: Loaded 0 collections in 0.001673 seconds
+[2023.06.17-01.06.13:921][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProject/TTSGame/Saved/Collections/' took 0.00s
+[2023.06.17-01.06.13:921][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProject/TTSGame/Content/Developers/kimminwoong/Collections/' took 0.00s
+[2023.06.17-01.06.13:921][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProject/TTSGame/Content/Collections/' took 0.00s
+[2023.06.17-01.06.13:921][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2023.06.17-01.06.13:935][  0]LogContentBrowser: Native class hierarchy populated in 0.0095 seconds. Added 2863 classes and 680 folders.
+[2023.06.17-01.06.13:959][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2023.06.17-01.06.14:587][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.06.17-01.06.14:665][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2023.06.17-01.06.15:018][  0]LogSlate: Took 0.013117 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.06.17-01.06.15:030][  0]LogSlate: Took 0.006040 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.06.17-01.06.15:048][  0]LogSlate: Took 0.006062 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.06.17-01.06.15:245][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 9 NumSamples 1 (Frame:1).
+[2023.06.17-01.06.15:514][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.06.17-01.06.15:514][  0]LogLoad: (Engine Initialization) Total time: 51.77 seconds
+[2023.06.17-01.06.15:514][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.06.17-01.06.15:620][  0]LogContentStreaming: Texture pool size now 400 MB
+[2023.06.17-01.06.15:681][  0]LogSlate: Took 0.007522 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.06.17-01.06.16:463][ 13]LogAssetRegistry: Asset discovery search completed in 33.3499 seconds
+[2023.06.17-01.06.16:468][ 13]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000376 seconds (found 0 objects)
+[2023.06.17-01.06.16:468][ 13]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000440 seconds (updated 0 objects)
+[2023.06.17-01.06.17:413][ 16]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.17-01.07.15:817][359]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={5A382429-498D-E4D6-6DCF-D58A041C3AEF}
+[2023.06.17-01.42.00:197][969]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.17-01.42.00:219][969]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel' has LevelScriptBlueprint '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel.StartTown' with GeneratedClass '/Game/Asset/Maps/StartTown.StartTown_C' with ClassGeneratedBy '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel.StartTown'
+[2023.06.17-01.42.00:221][969]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.17-01.42.00:227][969]PIE: New page: PIE session: StartTown (Jun 17, 2023, 7:42:00 PM)
+[2023.06.17-01.42.00:234][969]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2023.06.17-01.42.00:237][969]LogPlayLevel: Creating play world package: /Game/Asset/Maps/UEDPIE_0_StartTown
+[2023.06.17-01.42.00:283][969]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045137s)
+[2023.06.17-01.42.00:284][969]LogAIModule: Creating AISystem for world StartTown
+[2023.06.17-01.42.00:285][969]LogPlayLevel: PIE: World Init took: (0.002284s)
+[2023.06.17-01.42.00:285][969]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Asset/Maps/StartTown.StartTown to /Game/Asset/Maps/UEDPIE_0_StartTown.StartTown (0.048167s)
+[2023.06.17-01.42.00:307][969]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.06.17-01.42.00:435][969]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.06.17-01.42.00:487][969]LogInit: FAudioDevice initialized.
+[2023.06.17-01.42.00:506][969]LogLoad: Game class is 'BP_TTSGameMode_C'
+[2023.06.17-01.42.00:525][969]LogWorld: Bringing World /Game/Asset/Maps/UEDPIE_0_StartTown.StartTown up for play (max tick rate 60) at 2023.06.17-10.42.00
+[2023.06.17-01.42.00:554][969]LogWorld: Bringing up level for play took: 0.034255
+[2023.06.17-01.42.00:556][969]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2023.06.17-01.42.00:585][969]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2023.06.17-01.42.00:605][969]PIE: Play in editor start time for /Game/Asset/Maps/UEDPIE_0_StartTown 0.673
+[2023.06.17-01.42.00:606][969]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel' has LevelScriptBlueprint '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel.StartTown' with GeneratedClass '/Game/Asset/Maps/StartTown.StartTown_C' with ClassGeneratedBy '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel.StartTown'
+[2023.06.17-01.42.03:526][141]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.17-01.42.08:493][439]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.17-01.42.19:795][117]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.17-01.42.19:915][124]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel' has LevelScriptBlueprint '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel.StartTown' with GeneratedClass '/Game/Asset/Maps/StartTown.StartTown_C' with ClassGeneratedBy '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel.StartTown'
+[2023.06.17-01.42.19:916][124]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.17-01.42.19:916][124]LogWorld: BeginTearingDown for /Game/Asset/Maps/UEDPIE_0_StartTown
+[2023.06.17-01.42.19:917][124]LogWorld: UWorld::CleanupWorld for StartTown, bSessionEnded=true, bCleanupResources=true
+[2023.06.17-01.42.19:927][124]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.17-01.42.19:927][124]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel' has LevelScriptBlueprint '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel.StartTown' with GeneratedClass '/Game/Asset/Maps/StartTown.StartTown_C' with ClassGeneratedBy '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel.StartTown'
+[2023.06.17-01.42.19:956][124]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.17-01.42.19:966][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.06.17-01.42.20:027][128]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2023.06.17-01.42.32:371][753]LogSlate: Took 0.003188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.06.17-01.42.32:382][753]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/BluePrint/HUD/WBP_TTSInterActMenuList.WBP_TTSInterActMenuList
+[2023.06.17-01.42.32:791][753]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2023.06.17-01.42.34:143][753]LogSlate: Took 0.006240 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.06.17-01.42.36:349][874]LogSlate: Took 0.006026 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.06.17-01.43.35:156][709]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SGraphPanel [SGraphEditorImpl.cpp(327)].
+[2023.06.17-01.43.35:256][709]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2023.06.17-01.43.35:256][709]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Asset/Maps/StartTown' took 0.065
+[2023.06.17-01.43.35:261][709]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrint/HUD/WBP_TTSInterActMenuList] ([1] browsable assets)...
+[2023.06.17-01.43.35:262][709]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/HUD/WBP_TTSInterActMenuList]
+[2023.06.17-01.43.35:408][709]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/WBP_TTSInterActMenuList_Auto1E98AFFEE44F61C71EB1FA2B09C9F4E35.tmp' to '../../../../UnrealProject/TTSGame/Saved/Autosaves/Game/BluePrint/HUD/WBP_TTSInterActMenuList_Auto1.uasset'
+[2023.06.17-01.43.35:413][709]LogFileHelpers: Auto-saving content packages took 0.154
+[2023.06.17-01.53.35:703][702]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2023.06.17-01.53.35:703][702]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Asset/Maps/StartTown' took 0.036
+[2023.06.17-01.53.35:704][702]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrint/HUD/WBP_TTSInterActMenuList] ([1] browsable assets)...
+[2023.06.17-01.53.35:704][702]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/HUD/WBP_TTSInterActMenuList]
+[2023.06.17-01.53.35:813][702]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/WBP_TTSInterActMenuList_Auto2CCD335F44EC62279F4FB0AA16C469F29.tmp' to '../../../../UnrealProject/TTSGame/Saved/Autosaves/Game/BluePrint/HUD/WBP_TTSInterActMenuList_Auto2.uasset'
+[2023.06.17-01.53.35:818][702]LogFileHelpers: Auto-saving content packages took 0.115
+[2023.06.17-02.09.51:152][354]BlueprintLog: New page: Compile WBP_TTSInterActMenuList
+[2023.06.17-02.09.51:198][354]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2023.06.17-02.09.51:679][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/HUD/WBP_TTSInterActMenuList" FILE="../../../../UnrealProject/TTSGame/Content/BluePrint/HUD/WBP_TTSInterActMenuList.uasset" SILENT=true
+[2023.06.17-02.09.51:788][381]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/WBP_TTSInterActMenuList6000EE8C4887C358E5FAFC85D487E6F5.tmp' to '../../../../UnrealProject/TTSGame/Content/BluePrint/HUD/WBP_TTSInterActMenuList.uasset'
+[2023.06.17-02.09.59:260][827]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/BluePrint/HUD/WBP_TTSInterActMenu.WBP_TTSInterActMenu
+[2023.06.17-02.11.21:171][698]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2023.06.17-02.11.21:171][698]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Asset/Maps/StartTown' took 0.038
+[2023.06.17-02.11.21:173][698]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrint/HUD/WBP_TTSInterActMenu] ([1] browsable assets)...
+[2023.06.17-02.11.21:173][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/HUD/WBP_TTSInterActMenu]
+[2023.06.17-02.11.21:285][698]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/WBP_TTSInterActMenu_Auto3A2478FE34925AA745B9415AE9081FCEF.tmp' to '../../../../UnrealProject/TTSGame/Saved/Autosaves/Game/BluePrint/HUD/WBP_TTSInterActMenu_Auto3.uasset'
+[2023.06.17-02.11.21:290][698]LogFileHelpers: Auto-saving content packages took 0.118
+[2023.06.17-02.11.29:666][199]LogAssetEditorManager: Opening Asset editor for UserDefinedEnum /Game/BluePrint/Enum/E_InterAct.E_InterAct
+[2023.06.17-02.11.51:643][513]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrint/Piece/PieceActComponent.PieceActComponent
+[2023.06.17-03.11.03:056][815]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrint/Piece/BP_TTSPieceBase.BP_TTSPieceBase
+[2023.06.17-03.12.10:509][808]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2023.06.17-03.12.10:509][808]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Asset/Maps/StartTown' took 0.049
+[2023.06.17-03.12.10:513][808]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrint/Piece/BP_TTSPieceBase] ([1] browsable assets)...
+[2023.06.17-03.12.10:525][808]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrint/Piece/BP_TTSPieceBase.BP_TTSPieceBase]
+[2023.06.17-03.12.10:525][808]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/Piece/BP_TTSPieceBase]
+[2023.06.17-03.12.10:525][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/Piece/BP_TTSPieceBase" FILE="../../../../UnrealProject/TTSGame/Saved/Autosaves/Game/BluePrint/Piece/BP_TTSPieceBase_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2023.06.17-03.12.10:700][808]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/BP_TTSPieceBase_Auto425B4C65B4A46B530E984478673811A1C.tmp' to '../../../../UnrealProject/TTSGame/Saved/Autosaves/Game/BluePrint/Piece/BP_TTSPieceBase_Auto4.uasset'
+[2023.06.17-03.12.10:705][808]LogFileHelpers: Auto-saving content packages took 0.192
+[2023.06.17-03.13.41:197][217]BlueprintLog: New page: Compile PieceActComponent
+[2023.06.17-03.13.41:214][217]LogBlueprint: Error: [Compiler BP_TTSMainPlayerController] In use pin  <Unnamed>  no longer exists on node  Piece Inter Act . Please refresh node or break links to remove pin.
+[2023.06.17-03.13.41:214][217]LogBlueprint: Error: [Compiler BP_TTSMainPlayerController] In use pin  Target  no longer exists on node  Piece Inter Act . Please refresh node or break links to remove pin.
+[2023.06.17-03.13.41:215][217]LogBlueprint: Error: [Compiler BP_TTSMainPlayerController] In use pin  Inter Act  no longer exists on node  Piece Inter Act . Please refresh node or break links to remove pin.
+[2023.06.17-03.13.41:215][217]LogBlueprint: Error: [Compiler BP_TTSMainPlayerController] Could not find a function named "PieceInterAct" in 'PieceActComponent_C'.
+Make sure 'PieceActComponent_C' has been compiled for  Piece Inter Act
+[2023.06.17-03.13.41:487][217]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2023.06.17-03.13.42:143][253]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/Piece/PieceActComponent" FILE="../../../../UnrealProject/TTSGame/Content/BluePrint/Piece/PieceActComponent.uasset" SILENT=true
+[2023.06.17-03.13.42:255][253]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/PieceActComponentC142B9FA4B6723421D8F6A85F250DE9C.tmp' to '../../../../UnrealProject/TTSGame/Content/BluePrint/Piece/PieceActComponent.uasset'
+[2023.06.17-03.14.01:783][419]BlueprintLog: New page: Compile BP_TTSPieceBase
+[2023.06.17-03.14.01:804][419]LogBlueprint: Error: [Compiler BP_TTSPieceBase] In use pin  <Unnamed>  no longer exists on node  Move . Please refresh node or break links to remove pin.
+[2023.06.17-03.14.01:804][419]LogBlueprint: Error: [Compiler BP_TTSPieceBase] In use pin  <Unnamed>  no longer exists on node  Move . Please refresh node or break links to remove pin.
+[2023.06.17-03.14.01:804][419]LogBlueprint: Error: [Compiler BP_TTSPieceBase] Could not find a function named "Move" in 'BP_TTSPieceBase_C'.
+Make sure 'BP_TTSPieceBase_C' has been compiled for  Move
+[2023.06.17-03.14.01:804][419]LogBlueprint: Error: [Compiler BP_TTSPieceBase] In use pin  <Unnamed>  no longer exists on node  Attack . Please refresh node or break links to remove pin.
+[2023.06.17-03.14.01:804][419]LogBlueprint: Error: [Compiler BP_TTSPieceBase] In use pin  <Unnamed>  no longer exists on node  Attack . Please refresh node or break links to remove pin.
+[2023.06.17-03.14.01:804][419]LogBlueprint: Error: [Compiler BP_TTSPieceBase] Could not find a function named "Attack" in 'BP_TTSPieceBase_C'.
+Make sure 'BP_TTSPieceBase_C' has been compiled for  Attack
+[2023.06.17-03.14.01:804][419]LogBlueprint: Error: [Compiler BP_TTSPieceBase] In use pin  <Unnamed>  no longer exists on node  Active . Please refresh node or break links to remove pin.
+[2023.06.17-03.14.01:804][419]LogBlueprint: Error: [Compiler BP_TTSPieceBase] In use pin  <Unnamed>  no longer exists on node  Active . Please refresh node or break links to remove pin.
+[2023.06.17-03.14.01:805][419]LogBlueprint: Error: [Compiler BP_TTSPieceBase] Could not find a function named "Active" in 'BP_TTSPieceBase_C'.
+Make sure 'BP_TTSPieceBase_C' has been compiled for  Active
+[2023.06.17-03.14.01:805][419]LogBlueprint: Error: [Compiler BP_TTSPieceBase] In use pin  <Unnamed>  no longer exists on node  Disable . Please refresh node or break links to remove pin.
+[2023.06.17-03.14.01:805][419]LogBlueprint: Error: [Compiler BP_TTSPieceBase] In use pin  <Unnamed>  no longer exists on node  Disable . Please refresh node or break links to remove pin.
+[2023.06.17-03.14.01:805][419]LogBlueprint: Error: [Compiler BP_TTSPieceBase] Could not find a function named "Disable" in 'BP_TTSPieceBase_C'.
+Make sure 'BP_TTSPieceBase_C' has been compiled for  Disable
+[2023.06.17-03.14.02:026][419]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2023.06.17-03.15.31:768][765]BlueprintLog: New page: Compile BP_TTSPieceBase
+[2023.06.17-03.15.32:003][765]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2023.06.17-03.15.32:989][820]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/Piece/BP_TTSPieceBase" FILE="../../../../UnrealProject/TTSGame/Content/BluePrint/Piece/BP_TTSPieceBase.uasset" SILENT=true
+[2023.06.17-03.15.33:140][820]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/BP_TTSPieceBase9A1C11F74DF71FF0B3912299C56A955E.tmp' to '../../../../UnrealProject/TTSGame/Content/BluePrint/Piece/BP_TTSPieceBase.uasset'
+[2023.06.17-03.16.09:558][  0]BlueprintLog: New page: Compile BP_TTSPieceBase
+[2023.06.17-03.16.09:574][  0]LogBlueprint: Warning: [Compiler BP_TTSPieceBase] Could not find a variable named "Piece" in 'BP_TTSPieceBase_C'.
+Make sure 'BP_TTSPieceBase_C' has been compiled for  Get Piece
+[2023.06.17-03.16.09:576][  0]LogBlueprint: Error: [Compiler BP_TTSPieceBase] The property associated with  Piece  could not be found in '/Game/BluePrint/Piece/BP_TTSPieceBase.BP_TTSPieceBase_C'
+[2023.06.17-03.16.09:790][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2023.06.17-03.18.33:672][575]BlueprintLog: New page: Compile BP_TTSPieceBase
+[2023.06.17-03.18.33:686][575]LogBlueprint: Error: [Compiler BP_TTSPieceBase] Variable node  Set CurrentActionPoint  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2023.06.17-03.18.33:918][575]LogUObjectHash: Compacting FUObjectHashTables data took   5.36ms
+[2023.06.17-03.18.57:034][955]BlueprintLog: New page: Compile BP_TTSPieceBase
+[2023.06.17-03.18.57:277][955]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2023.06.17-03.18.58:314][ 13]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/Piece/BP_TTSPieceBase" FILE="../../../../UnrealProject/TTSGame/Content/BluePrint/Piece/BP_TTSPieceBase.uasset" SILENT=true
+[2023.06.17-03.18.58:461][ 13]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/BP_TTSPieceBaseD74EB6F34BABB3643AF1FEB335D1BED3.tmp' to '../../../../UnrealProject/TTSGame/Content/BluePrint/Piece/BP_TTSPieceBase.uasset'
+[2023.06.17-03.19.14:321][962]BlueprintLog: New page: Compile BP_TTSPieceBase
+[2023.06.17-03.19.14:567][962]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2023.06.17-03.19.14:954][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/Piece/BP_TTSPieceBase" FILE="../../../../UnrealProject/TTSGame/Content/BluePrint/Piece/BP_TTSPieceBase.uasset" SILENT=true
+[2023.06.17-03.19.15:098][981]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/BP_TTSPieceBase0316001F43C20574180E408994E0F844.tmp' to '../../../../UnrealProject/TTSGame/Content/BluePrint/Piece/BP_TTSPieceBase.uasset'
+[2023.06.17-03.19.21:390][357]LogRenderer: Reallocating scene render targets to support 1220x696 Format 9 NumSamples 1 (Frame:1).
+[2023.06.17-03.22.28:325][543]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2023.06.17-03.22.28:326][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/Maps/StartTown" FILE="../../../../UnrealProject/TTSGame/Saved/Autosaves/Game/Asset/Maps/StartTown_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.06.17-03.22.28:663][543]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/StartTown_Auto542A2AEA64F5DB559A729D290EF8E6E31.tmp' to '../../../../UnrealProject/TTSGame/Saved/Autosaves/Game/Asset/Maps/StartTown_Auto5.umap'
+[2023.06.17-03.22.28:665][543]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Asset/Maps/StartTown' took 0.387
+[2023.06.17-03.22.28:665][543]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.387
+[2023.06.17-03.22.28:667][543]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrint/Piece/BP_TTSPieceBase] ([1] browsable assets)...
+[2023.06.17-03.22.28:667][543]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/Piece/BP_TTSPieceBase]
+[2023.06.17-03.22.28:667][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/Piece/BP_TTSPieceBase" FILE="../../../../UnrealProject/TTSGame/Saved/Autosaves/Game/BluePrint/Piece/BP_TTSPieceBase_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2023.06.17-03.22.28:804][543]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/BP_TTSPieceBase_Auto59C008A9F4569837101D5B1A483D5F8D0.tmp' to '../../../../UnrealProject/TTSGame/Saved/Autosaves/Game/BluePrint/Piece/BP_TTSPieceBase_Auto5.uasset'
+[2023.06.17-03.22.28:805][543]LogFileHelpers: Auto-saving content packages took 0.138
+[2023.06.17-03.23.12:078][134]BlueprintLog: New page: Compile BP_TTSPieceBase
+[2023.06.17-03.23.12:318][134]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2023.06.17-03.23.12:577][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/Piece/BP_TTSPieceBase" FILE="../../../../UnrealProject/TTSGame/Content/BluePrint/Piece/BP_TTSPieceBase.uasset" SILENT=true
+[2023.06.17-03.23.12:720][145]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/BP_TTSPieceBase4D4BF4E64AF90B68D7F492B22982AE7F.tmp' to '../../../../UnrealProject/TTSGame/Content/BluePrint/Piece/BP_TTSPieceBase.uasset'
+[2023.06.17-03.23.14:712][263]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.17-03.23.14:743][263]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel' has LevelScriptBlueprint '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel.StartTown' with GeneratedClass '/Game/Asset/Maps/StartTown.StartTown_C' with ClassGeneratedBy '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel.StartTown'
+[2023.06.17-03.23.14:746][263]BlueprintLog: Warning: Blueprint failed to compile:  BP_TTSMainPlayerController
+[2023.06.17-03.23.14:746][263]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.06.17-03.23.14:748][263]LogPlayLevel: [PlayLevel] Compiling WBP_TTSInterActMenu before play...
+[2023.06.17-03.23.14:959][263]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2023.06.17-03.23.14:959][263]LogPlayLevel: PlayLevel: Blueprint regeneration took 215 ms (1 blueprints)
+[2023.06.17-03.23.14:960][263]LogCustomDialog: Dialog displayed:
+[2023.06.17-03.23.21:475][263]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrint/Player/BP_TTSMainPlayerController.BP_TTSMainPlayerController
+[2023.06.17-03.23.23:401][263]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2023.06.17-03.23.54:113][ 86]LogEditorTransaction: Undo Move Node
+[2023.06.17-03.23.54:405][ 99]LogEditorTransaction: Undo Create Pin Link
+[2023.06.17-03.23.54:680][111]LogEditorTransaction: Undo Move Node
+[2023.06.17-03.23.55:197][138]LogEditorTransaction: Undo Add Node
+[2023.06.17-03.23.55:647][161]LogEditorTransaction: Undo Delete current selection
+[2023.06.17-03.23.56:006][175]LogEditorTransaction: Undo Delete current selection
+[2023.06.17-03.23.58:334][310]LogEditorTransaction: Redo Delete current selection
+[2023.06.17-03.23.58:631][324]LogEditorTransaction: Redo Delete current selection
+[2023.06.17-03.23.58:895][329]LogEditorTransaction: Redo Add Node
+[2023.06.17-03.23.59:196][342]LogEditorTransaction: Redo Move Node
+[2023.06.17-03.23.59:881][378]LogEditorTransaction: Redo Create Pin Link
+[2023.06.17-03.24.05:217][692]BlueprintLog: New page: Compile BP_TTSMainPlayerController
+[2023.06.17-03.24.05:446][692]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2023.06.17-03.24.06:011][720]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/Player/BP_TTSMainPlayerController" FILE="../../../../UnrealProject/TTSGame/Content/BluePrint/Player/BP_TTSMainPlayerController.uasset" SILENT=true
+[2023.06.17-03.24.06:213][720]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/BP_TTSMainPlayerController0AE464CC4FBDA9D519F3028DF36DEBCA.tmp' to '../../../../UnrealProject/TTSGame/Content/BluePrint/Player/BP_TTSMainPlayerController.uasset'
+[2023.06.17-03.24.06:996][766]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.17-03.24.07:022][766]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel' has LevelScriptBlueprint '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel.StartTown' with GeneratedClass '/Game/Asset/Maps/StartTown.StartTown_C' with ClassGeneratedBy '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel.StartTown'
+[2023.06.17-03.24.07:022][766]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.17-03.24.07:022][766]PIE: New page: PIE session: StartTown (Jun 17, 2023, 9:24:07 PM)
+[2023.06.17-03.24.07:023][766]LogPlayLevel: Creating play world package: /Game/Asset/Maps/UEDPIE_0_StartTown
+[2023.06.17-03.24.07:055][766]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031803s)
+[2023.06.17-03.24.07:056][766]LogAIModule: Creating AISystem for world StartTown
+[2023.06.17-03.24.07:056][766]LogPlayLevel: PIE: World Init took: (0.001257s)
+[2023.06.17-03.24.07:056][766]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Asset/Maps/StartTown.StartTown to /Game/Asset/Maps/UEDPIE_0_StartTown.StartTown (0.033271s)
+[2023.06.17-03.24.07:098][766]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2023.06.17-03.24.07:207][766]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.06.17-03.24.07:261][766]LogInit: FAudioDevice initialized.
+[2023.06.17-03.24.07:278][766]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.17-03.24.07:278][766]LogLoad: Game class is 'BP_TTSGameMode_C'
+[2023.06.17-03.24.07:284][766]LogWorld: Bringing World /Game/Asset/Maps/UEDPIE_0_StartTown.StartTown up for play (max tick rate 60) at 2023.06.17-12.24.07
+[2023.06.17-03.24.07:285][766]LogWorld: Bringing up level for play took: 0.005779
+[2023.06.17-03.24.07:286][766]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2023.06.17-03.24.07:295][766]PIE: Play in editor start time for /Game/Asset/Maps/UEDPIE_0_StartTown -0.638
+[2023.06.17-03.24.07:296][766]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel' has LevelScriptBlueprint '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel.StartTown' with GeneratedClass '/Game/Asset/Maps/StartTown.StartTown_C' with ClassGeneratedBy '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel.StartTown'
+[2023.06.17-03.24.10:029][929]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.17-03.24.13:712][150]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.17-03.24.13:828][156]LogSlate: Window 'TTSGame Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.06.17-03.24.13:836][156]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel' has LevelScriptBlueprint '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel.StartTown' with GeneratedClass '/Game/Asset/Maps/StartTown.StartTown_C' with ClassGeneratedBy '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel.StartTown'
+[2023.06.17-03.24.13:836][156]LogWorld: BeginTearingDown for /Game/Asset/Maps/UEDPIE_0_StartTown
+[2023.06.17-03.24.13:836][156]LogWorld: UWorld::CleanupWorld for StartTown, bSessionEnded=true, bCleanupResources=true
+[2023.06.17-03.24.13:851][156]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.17-03.24.13:851][156]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel' has LevelScriptBlueprint '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel.StartTown' with GeneratedClass '/Game/Asset/Maps/StartTown.StartTown_C' with ClassGeneratedBy '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel.StartTown'
+[2023.06.17-03.24.13:904][156]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2023.06.17-03.24.13:922][157]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2023.06.17-03.24.15:623][259]BlueprintLog: New page: Compile BP_TTSMainPlayerController
+[2023.06.17-03.24.15:849][259]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2023.06.17-03.24.16:105][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/Player/BP_TTSMainPlayerController" FILE="../../../../UnrealProject/TTSGame/Content/BluePrint/Player/BP_TTSMainPlayerController.uasset" SILENT=true
+[2023.06.17-03.24.16:290][268]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/BP_TTSMainPlayerControllerF6C1A362424055055F9A689B204A39BC.tmp' to '../../../../UnrealProject/TTSGame/Content/BluePrint/Player/BP_TTSMainPlayerController.uasset'
+[2023.06.17-03.24.17:705][352]BlueprintLog: New page: Compile WBP_TTSInterActMenu
+[2023.06.17-03.24.17:910][352]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2023.06.17-03.24.18:331][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/HUD/WBP_TTSInterActMenu" FILE="../../../../UnrealProject/TTSGame/Content/BluePrint/HUD/WBP_TTSInterActMenu.uasset" SILENT=true
+[2023.06.17-03.24.18:440][375]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/WBP_TTSInterActMenuAC2B6A9F4996E842B4556C92C1C3FADC.tmp' to '../../../../UnrealProject/TTSGame/Content/BluePrint/HUD/WBP_TTSInterActMenu.uasset'
+[2023.06.17-03.26.04:200][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/Enum/E_InterAct" FILE="../../../../UnrealProject/TTSGame/Content/BluePrint/Enum/E_InterAct.uasset" SILENT=true
+[2023.06.17-03.26.04:302][106]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/E_InterAct1E2D2D8246C22FF332C84AB3689AAB6E.tmp' to '../../../../UnrealProject/TTSGame/Content/BluePrint/Enum/E_InterAct.uasset'
+[2023.06.17-03.26.17:859][915]BlueprintLog: New page: Compile PieceActComponent
+[2023.06.17-03.26.17:891][915]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2023.06.17-03.26.17:891][915]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2023.06.17-03.26.17:891][915]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2023.06.17-03.26.17:891][915]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2023.06.17-03.26.17:891][915]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2023.06.17-03.26.17:891][915]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2023.06.17-03.26.17:892][915]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2023.06.17-03.26.17:892][915]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2023.06.17-03.26.17:892][915]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2023.06.17-03.26.17:892][915]LogActorComponent: RegisterComponentWithWorld: Owner belongs to a DEADCLASS
+[2023.06.17-03.26.18:117][915]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2023.06.17-03.26.18:943][962]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/Piece/PieceActComponent" FILE="../../../../UnrealProject/TTSGame/Content/BluePrint/Piece/PieceActComponent.uasset" SILENT=true
+[2023.06.17-03.26.19:054][962]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/PieceActComponentA7043DAA4193B60658CA3FA8428A352C.tmp' to '../../../../UnrealProject/TTSGame/Content/BluePrint/Piece/PieceActComponent.uasset'
+[2023.06.17-03.26.23:382][221]BlueprintLog: New page: Compile BP_TTSPieceBase
+[2023.06.17-03.26.23:623][221]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2023.06.17-03.26.24:125][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/Piece/BP_TTSPieceBase" FILE="../../../../UnrealProject/TTSGame/Content/BluePrint/Piece/BP_TTSPieceBase.uasset" SILENT=true
+[2023.06.17-03.26.24:271][246]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/BP_TTSPieceBaseD4C1F9D44C93D455146213930586090E.tmp' to '../../../../UnrealProject/TTSGame/Content/BluePrint/Piece/BP_TTSPieceBase.uasset'
+[2023.06.17-03.27.38:976][630]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/Enum/E_InterAct" FILE="../../../../UnrealProject/TTSGame/Content/BluePrint/Enum/E_InterAct.uasset" SILENT=true
+[2023.06.17-03.27.39:078][630]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/E_InterActAD5FB3D94C7EDC5EBD35E3B7FCB19A6B.tmp' to '../../../../UnrealProject/TTSGame/Content/BluePrint/Enum/E_InterAct.uasset'
+[2023.06.17-03.27.51:127][351]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/Enum/E_InterAct" FILE="../../../../UnrealProject/TTSGame/Content/BluePrint/Enum/E_InterAct.uasset" SILENT=true
+[2023.06.17-03.27.51:228][351]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/E_InterActF2571B8945B6837F5874CA8C36072AE5.tmp' to '../../../../UnrealProject/TTSGame/Content/BluePrint/Enum/E_InterAct.uasset'
+[2023.06.17-03.28.04:587][147]BlueprintLog: New page: Compile BP_TTSPieceBase
+[2023.06.17-03.28.04:839][147]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2023.06.17-03.28.05:288][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/Piece/BP_TTSPieceBase" FILE="../../../../UnrealProject/TTSGame/Content/BluePrint/Piece/BP_TTSPieceBase.uasset" SILENT=true
+[2023.06.17-03.28.05:434][169]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/BP_TTSPieceBaseAAC9056247178F760B72BCB6C0BC3387.tmp' to '../../../../UnrealProject/TTSGame/Content/BluePrint/Piece/BP_TTSPieceBase.uasset'
+[2023.06.17-03.28.21:263][117]BlueprintLog: New page: Compile PieceActComponent
+[2023.06.17-03.28.21:487][117]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2023.06.17-03.28.21:891][138]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/Piece/PieceActComponent" FILE="../../../../UnrealProject/TTSGame/Content/BluePrint/Piece/PieceActComponent.uasset" SILENT=true
+[2023.06.17-03.28.22:001][138]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/PieceActComponent6527A592434B4EA88B57AD83D93E954D.tmp' to '../../../../UnrealProject/TTSGame/Content/BluePrint/Piece/PieceActComponent.uasset'
+[2023.06.17-03.32.36:124][373]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2023.06.17-03.32.36:125][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/Maps/StartTown" FILE="../../../../UnrealProject/TTSGame/Saved/Autosaves/Game/Asset/Maps/StartTown_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.06.17-03.32.36:464][373]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/StartTown_Auto67C245F3B4FD1BEAB95B2F0A622D7306F.tmp' to '../../../../UnrealProject/TTSGame/Saved/Autosaves/Game/Asset/Maps/StartTown_Auto6.umap'
+[2023.06.17-03.32.36:467][373]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Asset/Maps/StartTown' took 0.389
+[2023.06.17-03.32.36:467][373]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.389
+[2023.06.17-04.19.31:223][192]BlueprintLog: New page: Compile BP_TTSPieceBase
+[2023.06.17-04.19.31:503][192]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2023.06.17-04.19.31:836][207]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/Piece/BP_TTSPieceBase" FILE="../../../../UnrealProject/TTSGame/Content/BluePrint/Piece/BP_TTSPieceBase.uasset" SILENT=true
+[2023.06.17-04.19.31:988][207]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/BP_TTSPieceBase4F9F056E4F9ADBBC4605F688854A9260.tmp' to '../../../../UnrealProject/TTSGame/Content/BluePrint/Piece/BP_TTSPieceBase.uasset'
+[2023.06.17-04.20.14:236][719]BlueprintLog: New page: Compile BP_TTSMainPlayerController
+[2023.06.17-04.20.14:470][719]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2023.06.17-04.20.14:967][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/Player/BP_TTSMainPlayerController" FILE="../../../../UnrealProject/TTSGame/Content/BluePrint/Player/BP_TTSMainPlayerController.uasset" SILENT=true
+[2023.06.17-04.20.15:170][742]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/BP_TTSMainPlayerController2A1110BC4C4264E23D1CCA9B10E74EFD.tmp' to '../../../../UnrealProject/TTSGame/Content/BluePrint/Player/BP_TTSMainPlayerController.uasset'
+[2023.06.17-04.20.44:885][522]BlueprintLog: New page: Compile BP_TTSMainPlayerController
+[2023.06.17-04.20.45:117][522]LogUObjectHash: Compacting FUObjectHashTables data took   5.07ms
+[2023.06.17-04.20.45:474][537]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/Player/BP_TTSMainPlayerController" FILE="../../../../UnrealProject/TTSGame/Content/BluePrint/Player/BP_TTSMainPlayerController.uasset" SILENT=true
+[2023.06.17-04.20.45:658][537]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/BP_TTSMainPlayerControllerBC6B701D4B46D084877CA6AC61D9212E.tmp' to '../../../../UnrealProject/TTSGame/Content/BluePrint/Player/BP_TTSMainPlayerController.uasset'
+[2023.06.17-04.20.46:636][588]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2023.06.17-04.20.46:636][588]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/Maps/StartTown" FILE="../../../../UnrealProject/TTSGame/Saved/Autosaves/Game/Asset/Maps/StartTown_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.06.17-04.20.46:968][588]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/StartTown_Auto724C9D37349932155E48EB893324B0FF2.tmp' to '../../../../UnrealProject/TTSGame/Saved/Autosaves/Game/Asset/Maps/StartTown_Auto7.umap'
+[2023.06.17-04.20.46:970][588]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Asset/Maps/StartTown' took 0.377
+[2023.06.17-04.20.46:971][588]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.377
+[2023.06.17-04.30.47:234][589]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2023.06.17-04.30.47:234][589]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Asset/Maps/StartTown' took 0.051
+[2023.06.17-04.30.47:236][589]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrint/Player/BP_TTSMainPlayerController] ([1] browsable assets)...
+[2023.06.17-04.30.47:236][589]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/Player/BP_TTSMainPlayerController]
+[2023.06.17-04.30.47:429][589]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/BP_TTSMainPlayerController_Auto808FF21754B0FFBCF86B72E9A00BDE5AA.tmp' to '../../../../UnrealProject/TTSGame/Saved/Autosaves/Game/BluePrint/Player/BP_TTSMainPlayerController_Auto8.uasset'
+[2023.06.17-04.30.47:435][589]LogFileHelpers: Auto-saving content packages took 0.201
+[2023.06.17-05.55.37:888][ 60]BlueprintLog: New page: Compile BP_TTSMainPlayerController
+[2023.06.17-05.55.38:187][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2023.06.17-05.55.38:711][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/Player/BP_TTSMainPlayerController" FILE="../../../../UnrealProject/TTSGame/Content/BluePrint/Player/BP_TTSMainPlayerController.uasset" SILENT=true
+[2023.06.17-05.55.38:924][ 86]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/BP_TTSMainPlayerControllerC4D65EBC48266159FA1D64A71CE874BE.tmp' to '../../../../UnrealProject/TTSGame/Content/BluePrint/Player/BP_TTSMainPlayerController.uasset'
+[2023.06.17-05.56.56:003][663]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2023.06.17-05.56.56:003][663]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Asset/Maps/StartTown' took 0.048
+[2023.06.17-05.56.56:005][663]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrint/HUD/WBP_TTSInterActMenu] ([1] browsable assets)...
+[2023.06.17-05.56.56:005][663]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/HUD/WBP_TTSInterActMenu]
+[2023.06.17-05.56.56:116][663]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/WBP_TTSInterActMenu_Auto94DE410954BF543C0D3122589522E0E74.tmp' to '../../../../UnrealProject/TTSGame/Saved/Autosaves/Game/BluePrint/HUD/WBP_TTSInterActMenu_Auto9.uasset'
+[2023.06.17-05.56.56:117][663]LogFileHelpers: Auto-saving content packages took 0.112
+[2023.06.17-06.04.56:507][222]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2023.06.17-06.04.56:515][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:515][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:515][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:515][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:515][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:516][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:516][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:516][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:516][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:516][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:516][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:516][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:516][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:516][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:516][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:516][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:517][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:517][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:517][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:517][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:517][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:517][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:517][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:517][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:517][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:517][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:518][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:518][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:518][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:518][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:518][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:518][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:518][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:518][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:518][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:519][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:519][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:519][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:519][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:519][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:519][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:519][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:519][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:519][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:519][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:520][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:520][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:520][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:520][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:520][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:520][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:520][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:520][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:520][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:520][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:521][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:521][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:521][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:521][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:521][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:521][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:521][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:522][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:522][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:522][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:522][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:522][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:522][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:523][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:523][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:523][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:523][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:523][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:523][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:523][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:523][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:523][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:523][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:524][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:524][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:524][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:524][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:524][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:524][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:524][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:525][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:525][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:525][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:525][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:525][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:525][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:525][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:525][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:525][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:525][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:526][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:526][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:526][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:526][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:526][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:526][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:527][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:527][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:527][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:527][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:527][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:528][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:528][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:528][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:528][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:528][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:528][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:529][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:529][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:529][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:540][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:550][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:554][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:558][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:588][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:589][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:600][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:600][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:614][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:628][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:683][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:683][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:726][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:726][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:823][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:823][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.04.56:824][222]LogVSAccessor: Warning: Couldn't access module table
+[2023.06.17-06.06.54:532][685]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrint/HUD/HUD_TTSCanvas.HUD_TTSCanvas
+[2023.06.17-06.07.12:308][728]BlueprintLog: New page: Compile HUD_TTSCanvas
+[2023.06.17-06.07.12:529][728]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2023.06.17-06.07.13:002][754]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/HUD/HUD_TTSCanvas" FILE="../../../../UnrealProject/TTSGame/Content/BluePrint/HUD/HUD_TTSCanvas.uasset" SILENT=true
+[2023.06.17-06.07.13:118][754]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/HUD_TTSCanvasB23E06204FCAEDB0C9DCB29D052D2F11.tmp' to '../../../../UnrealProject/TTSGame/Content/BluePrint/HUD/HUD_TTSCanvas.uasset'
+[2023.06.17-06.08.07:306][973]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.17-06.08.07:344][973]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel' has LevelScriptBlueprint '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel.StartTown' with GeneratedClass '/Game/Asset/Maps/StartTown.StartTown_C' with ClassGeneratedBy '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel.StartTown'
+[2023.06.17-06.08.07:345][973]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.06.17-06.08.07:346][973]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_AnimBlueprint_0 before play...
+[2023.06.17-06.08.07:355][973]LogPlayLevel: [PlayLevel] Compiling WBP_TTSInterActMenu before play...
+[2023.06.17-06.08.07:573][973]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2023.06.17-06.08.07:573][973]LogPlayLevel: PlayLevel: Blueprint regeneration took 228 ms (2 blueprints)
+[2023.06.17-06.08.07:573][973]PIE: New page: PIE session: StartTown (Jun 18, 2023, 12:08:07 AM)
+[2023.06.17-06.08.07:573][973]LogPlayLevel: Creating play world package: /Game/Asset/Maps/UEDPIE_0_StartTown
+[2023.06.17-06.08.07:607][973]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034090s)
+[2023.06.17-06.08.07:609][973]LogAIModule: Creating AISystem for world StartTown
+[2023.06.17-06.08.07:609][973]LogPlayLevel: PIE: World Init took: (0.001484s)
+[2023.06.17-06.08.07:609][973]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Asset/Maps/StartTown.StartTown to /Game/Asset/Maps/UEDPIE_0_StartTown.StartTown (0.035869s)
+[2023.06.17-06.08.07:654][973]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2023.06.17-06.08.07:759][973]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.06.17-06.08.07:820][973]LogInit: FAudioDevice initialized.
+[2023.06.17-06.08.07:837][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.17-06.08.07:837][973]LogLoad: Game class is 'BP_TTSGameMode_C'
+[2023.06.17-06.08.07:843][973]LogWorld: Bringing World /Game/Asset/Maps/UEDPIE_0_StartTown.StartTown up for play (max tick rate 60) at 2023.06.17-15.08.07
+[2023.06.17-06.08.07:845][973]LogWorld: Bringing up level for play took: 0.007022
+[2023.06.17-06.08.07:846][973]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2023.06.17-06.08.07:855][973]PIE: Play in editor start time for /Game/Asset/Maps/UEDPIE_0_StartTown -0.078
+[2023.06.17-06.08.07:855][973]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel' has LevelScriptBlueprint '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel.StartTown' with GeneratedClass '/Game/Asset/Maps/StartTown.StartTown_C' with ClassGeneratedBy '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel.StartTown'
+[2023.06.17-06.08.10:642][139]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.17-06.08.10:720][143]LogSlate: Window 'TTSGame Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.06.17-06.08.10:726][143]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel' has LevelScriptBlueprint '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel.StartTown' with GeneratedClass '/Game/Asset/Maps/StartTown.StartTown_C' with ClassGeneratedBy '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel.StartTown'
+[2023.06.17-06.08.10:726][143]LogWorld: BeginTearingDown for /Game/Asset/Maps/UEDPIE_0_StartTown
+[2023.06.17-06.08.10:727][143]LogWorld: UWorld::CleanupWorld for StartTown, bSessionEnded=true, bCleanupResources=true
+[2023.06.17-06.08.10:739][143]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.17-06.08.10:740][143]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel' has LevelScriptBlueprint '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel.StartTown' with GeneratedClass '/Game/Asset/Maps/StartTown.StartTown_C' with ClassGeneratedBy '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel.StartTown'
+[2023.06.17-06.08.10:799][143]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2023.06.17-06.08.10:812][144]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2023.06.17-06.08.35:961][649]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.06.17-06.08.35:961][649]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Asset/Maps/StartTown' took 0.042
+[2023.06.17-06.08.35:963][649]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrint/HUD/WBP_TTSInterActMenu] ([1] browsable assets)...
+[2023.06.17-06.08.35:963][649]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/HUD/WBP_TTSInterActMenu]
+[2023.06.17-06.08.36:074][649]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/WBP_TTSInterActMenu_Auto0615E1EE34001F6B79132C19EEBC498C8.tmp' to '../../../../UnrealProject/TTSGame/Saved/Autosaves/Game/BluePrint/HUD/WBP_TTSInterActMenu_Auto0.uasset'
+[2023.06.17-06.08.36:075][649]LogFileHelpers: Auto-saving content packages took 0.113
+[2023.06.17-06.18.41:271][ 50]BlueprintLog: New page: Compile HUD_TTSCanvas
+[2023.06.17-06.18.41:274][ 50]LogBlueprint: Warning: [Compiler HUD_TTSCanvas] Could not find a variable named "InterActMenuBoxList" in 'HUD_TTSCanvas_C'.
+Make sure 'HUD_TTSCanvas_C' has been compiled for  Set InterActMenuBoxList
+[2023.06.17-06.18.41:274][ 50]LogBlueprint: Warning: [Compiler HUD_TTSCanvas] Could not find a variable named "InterActMenuBoxList" in 'HUD_TTSCanvas_C'.
+Make sure 'HUD_TTSCanvas_C' has been compiled for  Get InterActMenuBoxList
+[2023.06.17-06.18.41:275][ 50]LogBlueprint: Warning: [Compiler HUD_TTSCanvas] Could not find a variable named "NullActor" in 'HUD_TTSCanvas_C'.
+Make sure 'HUD_TTSCanvas_C' has been compiled for  Get NullActor
+[2023.06.17-06.18.41:275][ 50]LogBlueprint: Error: [Compiler HUD_TTSCanvas] The property associated with  Null Actor  could not be found in '/Game/BluePrint/HUD/HUD_TTSCanvas.HUD_TTSCanvas_C'
+[2023.06.17-06.18.41:275][ 50]LogBlueprint: Error: [Compiler HUD_TTSCanvas] The property associated with  Inter Act Menu Box List  could not be found in '/Game/BluePrint/HUD/HUD_TTSCanvas.HUD_TTSCanvas_C'
+[2023.06.17-06.18.41:275][ 50]LogBlueprint: Error: [Compiler HUD_TTSCanvas] The property associated with  Inter Act Menu Box List  could not be found in '/Game/BluePrint/HUD/HUD_TTSCanvas.HUD_TTSCanvas_C'
+[2023.06.17-06.18.41:500][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2023.06.17-06.20.23:089][ 98]BlueprintLog: New page: Compile HUD_TTSCanvas
+[2023.06.17-06.20.23:092][ 98]LogBlueprint: Warning: [Compiler HUD_TTSCanvas] Could not find a variable named "InterActMenuBoxList" in 'HUD_TTSCanvas_C'.
+Make sure 'HUD_TTSCanvas_C' has been compiled for  Set InterActMenuBoxList
+[2023.06.17-06.20.23:092][ 98]LogBlueprint: Warning: [Compiler HUD_TTSCanvas] Could not find a variable named "InterActMenuBoxList" in 'HUD_TTSCanvas_C'.
+Make sure 'HUD_TTSCanvas_C' has been compiled for  Get InterActMenuBoxList
+[2023.06.17-06.20.23:092][ 98]LogBlueprint: Warning: [Compiler HUD_TTSCanvas] Could not find a variable named "NullActor" in 'HUD_TTSCanvas_C'.
+Make sure 'HUD_TTSCanvas_C' has been compiled for  Get NullActor
+[2023.06.17-06.20.23:092][ 98]LogBlueprint: Error: [Compiler HUD_TTSCanvas] The property associated with  Null Actor  could not be found in '/Game/BluePrint/HUD/HUD_TTSCanvas.HUD_TTSCanvas_C'
+[2023.06.17-06.20.23:092][ 98]LogBlueprint: Error: [Compiler HUD_TTSCanvas] The property associated with  Inter Act Menu Box List  could not be found in '/Game/BluePrint/HUD/HUD_TTSCanvas.HUD_TTSCanvas_C'
+[2023.06.17-06.20.23:093][ 98]LogBlueprint: Error: [Compiler HUD_TTSCanvas] The property associated with  Inter Act Menu Box List  could not be found in '/Game/BluePrint/HUD/HUD_TTSCanvas.HUD_TTSCanvas_C'
+[2023.06.17-06.20.23:296][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2023.06.17-06.21.51:268][167]LogSlate: Window 'Delete Variable' being destroyed
+[2023.06.17-06.22.31:477][544]BlueprintLog: New page: Compile BP_TTSMainPlayerController
+[2023.06.17-06.22.31:509][544]LogBlueprint: Warning: [Compiler HUD_TTSCanvas] Could not find a variable named "InterActMenuBoxList" in 'HUD_TTSCanvas_C'.
+Make sure 'HUD_TTSCanvas_C' has been compiled for  Set InterActMenuBoxList
+[2023.06.17-06.22.31:510][544]LogBlueprint: Warning: [Compiler HUD_TTSCanvas] Could not find a variable named "InterActMenuBoxList" in 'HUD_TTSCanvas_C'.
+Make sure 'HUD_TTSCanvas_C' has been compiled for  Get InterActMenuBoxList
+[2023.06.17-06.22.31:510][544]LogBlueprint: Warning: [Compiler HUD_TTSCanvas] Could not find a variable named "NullActor" in 'HUD_TTSCanvas_C'.
+Make sure 'HUD_TTSCanvas_C' has been compiled for  Get NullActor
+[2023.06.17-06.22.31:516][544]LogBlueprint: Error: [Compiler BP_TTSMainPlayerController] Could not find a function named "ShowHudMousePosition" in 'BP_TTSMainPlayerController_C'.
+Make sure 'BP_TTSMainPlayerController_C' has been compiled for  Show Hud Mouse Position
+[2023.06.17-06.22.31:525][544]LogBlueprint: Error: [Compiler HUD_TTSCanvas] The property associated with  Null Actor  could not be found in '/Game/BluePrint/HUD/HUD_TTSCanvas.HUD_TTSCanvas_C'
+[2023.06.17-06.22.31:526][544]LogBlueprint: Error: [Compiler HUD_TTSCanvas] The property associated with  Inter Act Menu Box List  could not be found in '/Game/BluePrint/HUD/HUD_TTSCanvas.HUD_TTSCanvas_C'
+[2023.06.17-06.22.31:526][544]LogBlueprint: Error: [Compiler HUD_TTSCanvas] The property associated with  Inter Act Menu Box List  could not be found in '/Game/BluePrint/HUD/HUD_TTSCanvas.HUD_TTSCanvas_C'
+[2023.06.17-06.22.31:779][544]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2023.06.17-06.22.32:505][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/Player/BP_TTSMainPlayerController" FILE="../../../../UnrealProject/TTSGame/Content/BluePrint/Player/BP_TTSMainPlayerController.uasset" SILENT=true
+[2023.06.17-06.22.32:690][581]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/BP_TTSMainPlayerController968F48F24DC4C2F8935E2E8F66529DFB.tmp' to '../../../../UnrealProject/TTSGame/Content/BluePrint/Player/BP_TTSMainPlayerController.uasset'
+[2023.06.17-06.23.03:289][186]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2023.06.17-06.23.03:291][186]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/Maps/StartTown" FILE="../../../../UnrealProject/TTSGame/Saved/Autosaves/Game/Asset/Maps/StartTown_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.06.17-06.23.03:627][186]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/StartTown_Auto1AF2F4BE14ACB1B4CEFC7259297E8C500.tmp' to '../../../../UnrealProject/TTSGame/Saved/Autosaves/Game/Asset/Maps/StartTown_Auto1.umap'
+[2023.06.17-06.23.03:634][186]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Asset/Maps/StartTown' took 0.389
+[2023.06.17-06.23.03:634][186]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.389
+[2023.06.17-06.23.03:635][186]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrint/HUD/HUD_TTSCanvas] ([1] browsable assets)...
+[2023.06.17-06.23.03:635][186]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/HUD/HUD_TTSCanvas]
+[2023.06.17-06.23.03:635][186]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/HUD/HUD_TTSCanvas" FILE="../../../../UnrealProject/TTSGame/Saved/Autosaves/Game/BluePrint/HUD/HUD_TTSCanvas_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.06.17-06.23.03:755][186]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/HUD_TTSCanvas_Auto15F5A63E54A3DAFCA51187484AFC3D7FC.tmp' to '../../../../UnrealProject/TTSGame/Saved/Autosaves/Game/BluePrint/HUD/HUD_TTSCanvas_Auto1.uasset'
+[2023.06.17-06.23.03:758][186]LogFileHelpers: Auto-saving content packages took 0.124
+[2023.06.17-06.23.09:198][508]BlueprintLog: New page: Compile BP_TTSMainPlayerController
+[2023.06.17-06.23.09:434][508]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2023.06.17-06.23.10:454][561]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/Player/BP_TTSMainPlayerController" FILE="../../../../UnrealProject/TTSGame/Content/BluePrint/Player/BP_TTSMainPlayerController.uasset" SILENT=true
+[2023.06.17-06.23.10:649][561]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/BP_TTSMainPlayerController6656BCAA4C99BA2181B4D6998D6F6DFA.tmp' to '../../../../UnrealProject/TTSGame/Content/BluePrint/Player/BP_TTSMainPlayerController.uasset'
+[2023.06.17-06.24.35:236][285]LogEditorTransaction: Undo Move Node
+[2023.06.17-06.24.35:696][308]LogEditorTransaction: Undo Create Pin Link
+[2023.06.17-06.24.35:969][320]LogEditorTransaction: Undo Move Node
+[2023.06.17-06.24.36:247][331]LogEditorTransaction: Undo Create Pin Link
+[2023.06.17-06.24.36:528][343]LogEditorTransaction: Undo Delete current selection
+[2023.06.17-06.24.36:800][355]LogEditorTransaction: Undo Move Node
+[2023.06.17-06.25.23:894][234]BlueprintLog: New page: Compile BP_TTSMainPlayerController
+[2023.06.17-06.25.24:140][234]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2023.06.17-06.25.24:601][255]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/Player/BP_TTSMainPlayerController" FILE="../../../../UnrealProject/TTSGame/Content/BluePrint/Player/BP_TTSMainPlayerController.uasset" SILENT=true
+[2023.06.17-06.25.24:805][255]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/BP_TTSMainPlayerControllerDFE579BC427489F97DC427924A1495E4.tmp' to '../../../../UnrealProject/TTSGame/Content/BluePrint/Player/BP_TTSMainPlayerController.uasset'
+[2023.06.17-06.25.41:279][237]BlueprintLog: New page: Compile HUD_TTSCanvas
+[2023.06.17-06.25.41:281][237]LogBlueprint: Warning: [Compiler HUD_TTSCanvas] Could not find a variable named "InterActMenuBoxList" in 'HUD_TTSCanvas_C'.
+Make sure 'HUD_TTSCanvas_C' has been compiled for  Set InterActMenuBoxList
+[2023.06.17-06.25.41:281][237]LogBlueprint: Warning: [Compiler HUD_TTSCanvas] Could not find a variable named "InterActMenuBoxList" in 'HUD_TTSCanvas_C'.
+Make sure 'HUD_TTSCanvas_C' has been compiled for  Get InterActMenuBoxList
+[2023.06.17-06.25.41:281][237]LogBlueprint: Warning: [Compiler HUD_TTSCanvas] Could not find a variable named "NullActor" in 'HUD_TTSCanvas_C'.
+Make sure 'HUD_TTSCanvas_C' has been compiled for  Get NullActor
+[2023.06.17-06.25.41:282][237]LogBlueprint: Error: [Compiler HUD_TTSCanvas] The property associated with  Null Actor  could not be found in '/Game/BluePrint/HUD/HUD_TTSCanvas.HUD_TTSCanvas_C'
+[2023.06.17-06.25.41:282][237]LogBlueprint: Error: [Compiler HUD_TTSCanvas] The property associated with  Inter Act Menu Box List  could not be found in '/Game/BluePrint/HUD/HUD_TTSCanvas.HUD_TTSCanvas_C'
+[2023.06.17-06.25.41:282][237]LogBlueprint: Error: [Compiler HUD_TTSCanvas] The property associated with  Inter Act Menu Box List  could not be found in '/Game/BluePrint/HUD/HUD_TTSCanvas.HUD_TTSCanvas_C'
+[2023.06.17-06.25.41:502][237]LogUObjectHash: Compacting FUObjectHashTables data took   5.52ms
+[2023.06.17-06.33.04:042][737]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2023.06.17-06.33.04:042][737]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Asset/Maps/StartTown' took 0.055
+[2023.06.17-06.33.04:043][737]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrint/HUD/HUD_TTSCanvas] ([1] browsable assets)...
+[2023.06.17-06.33.04:043][737]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/HUD/HUD_TTSCanvas]
+[2023.06.17-06.33.04:044][737]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/HUD/HUD_TTSCanvas" FILE="../../../../UnrealProject/TTSGame/Saved/Autosaves/Game/BluePrint/HUD/HUD_TTSCanvas_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2023.06.17-06.33.04:169][737]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/HUD_TTSCanvas_Auto29E24D51447F43991F05B96BEB41C51CC.tmp' to '../../../../UnrealProject/TTSGame/Saved/Autosaves/Game/BluePrint/HUD/HUD_TTSCanvas_Auto2.uasset'
+[2023.06.17-06.33.04:173][737]LogFileHelpers: Auto-saving content packages took 0.130
+[2023.06.17-06.57.15:535][250]BlueprintLog: New page: Compile HUD_TTSCanvas
+[2023.06.17-06.57.15:541][250]LogBlueprint: Error: [Compiler HUD_TTSCanvas] This blueprint (self) is not a Widget, therefore ' Target ' must have a connection.
+[2023.06.17-06.57.15:752][250]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2023.06.17-06.57.20:639][540]BlueprintLog: New page: Compile HUD_TTSCanvas
+[2023.06.17-06.57.20:855][540]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2023.06.17-06.57.21:309][565]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/HUD/HUD_TTSCanvas" FILE="../../../../UnrealProject/TTSGame/Content/BluePrint/HUD/HUD_TTSCanvas.uasset" SILENT=true
+[2023.06.17-06.57.21:433][565]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/HUD_TTSCanvas03729AFE488CFE037FFBB1A120D590EC.tmp' to '../../../../UnrealProject/TTSGame/Content/BluePrint/HUD/HUD_TTSCanvas.uasset'
+[2023.06.17-06.59.41:905][927]BlueprintLog: New page: Compile BP_TTSMainPlayerController
+[2023.06.17-06.59.42:150][927]LogUObjectHash: Compacting FUObjectHashTables data took   4.76ms
+[2023.06.17-06.59.42:570][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/Player/BP_TTSMainPlayerController" FILE="../../../../UnrealProject/TTSGame/Content/BluePrint/Player/BP_TTSMainPlayerController.uasset" SILENT=true
+[2023.06.17-06.59.42:760][948]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/BP_TTSMainPlayerControllerD8A0779B4D8E274C295C41A0AE44AC62.tmp' to '../../../../UnrealProject/TTSGame/Content/BluePrint/Player/BP_TTSMainPlayerController.uasset'
+[2023.06.17-07.00.04:727][251]BlueprintLog: New page: Compile BP_TTSMainPlayerController
+[2023.06.17-07.00.04:963][251]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2023.06.17-07.00.05:481][275]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/Player/BP_TTSMainPlayerController" FILE="../../../../UnrealProject/TTSGame/Content/BluePrint/Player/BP_TTSMainPlayerController.uasset" SILENT=true
+[2023.06.17-07.00.05:662][275]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/BP_TTSMainPlayerControllerBB330205411EDC53B6D0AC9BEEDB38A5.tmp' to '../../../../UnrealProject/TTSGame/Content/BluePrint/Player/BP_TTSMainPlayerController.uasset'
+[2023.06.17-07.00.06:147][303]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.17-07.00.06:183][303]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel' has LevelScriptBlueprint '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel.StartTown' with GeneratedClass '/Game/Asset/Maps/StartTown.StartTown_C' with ClassGeneratedBy '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel.StartTown'
+[2023.06.17-07.00.06:183][303]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.17-07.00.06:184][303]PIE: New page: PIE session: StartTown (Jun 18, 2023, 1:00:06 AM)
+[2023.06.17-07.00.06:184][303]LogPlayLevel: Creating play world package: /Game/Asset/Maps/UEDPIE_0_StartTown
+[2023.06.17-07.00.06:231][303]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046729s)
+[2023.06.17-07.00.06:231][303]LogAIModule: Creating AISystem for world StartTown
+[2023.06.17-07.00.06:232][303]LogPlayLevel: PIE: World Init took: (0.000957s)
+[2023.06.17-07.00.06:232][303]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Asset/Maps/StartTown.StartTown to /Game/Asset/Maps/UEDPIE_0_StartTown.StartTown (0.047872s)
+[2023.06.17-07.00.06:272][303]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2023.06.17-07.00.06:382][303]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.06.17-07.00.06:434][303]LogInit: FAudioDevice initialized.
+[2023.06.17-07.00.06:449][303]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.17-07.00.06:449][303]LogLoad: Game class is 'BP_TTSGameMode_C'
+[2023.06.17-07.00.06:453][303]LogWorld: Bringing World /Game/Asset/Maps/UEDPIE_0_StartTown.StartTown up for play (max tick rate 60) at 2023.06.17-16.00.06
+[2023.06.17-07.00.06:455][303]LogWorld: Bringing up level for play took: 0.004871
+[2023.06.17-07.00.06:455][303]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2023.06.17-07.00.06:465][303]PIE: Play in editor start time for /Game/Asset/Maps/UEDPIE_0_StartTown 0.532
+[2023.06.17-07.00.06:465][303]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel' has LevelScriptBlueprint '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel.StartTown' with GeneratedClass '/Game/Asset/Maps/StartTown.StartTown_C' with ClassGeneratedBy '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel.StartTown'
+[2023.06.17-07.00.10:090][519]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.17-07.00.10:185][524]LogSlate: Window 'TTSGame Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.06.17-07.00.10:195][524]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel' has LevelScriptBlueprint '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel.StartTown' with GeneratedClass '/Game/Asset/Maps/StartTown.StartTown_C' with ClassGeneratedBy '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel.StartTown'
+[2023.06.17-07.00.10:195][524]LogWorld: BeginTearingDown for /Game/Asset/Maps/UEDPIE_0_StartTown
+[2023.06.17-07.00.10:195][524]LogWorld: UWorld::CleanupWorld for StartTown, bSessionEnded=true, bCleanupResources=true
+[2023.06.17-07.00.10:206][524]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.17-07.00.10:206][524]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel' has LevelScriptBlueprint '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel.StartTown' with GeneratedClass '/Game/Asset/Maps/StartTown.StartTown_C' with ClassGeneratedBy '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel.StartTown'
+[2023.06.17-07.00.10:257][524]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2023.06.17-07.00.10:281][525]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2023.06.17-07.00.31:784][812]BlueprintLog: New page: Compile WBP_TTSInterActMenu
+[2023.06.17-07.00.31:997][812]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2023.06.17-07.00.32:532][842]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/HUD/WBP_TTSInterActMenu" FILE="../../../../UnrealProject/TTSGame/Content/BluePrint/HUD/WBP_TTSInterActMenu.uasset" SILENT=true
+[2023.06.17-07.00.32:647][842]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/WBP_TTSInterActMenu57A8E25F4111039AA63B86BE7BE2D331.tmp' to '../../../../UnrealProject/TTSGame/Content/BluePrint/HUD/WBP_TTSInterActMenu.uasset'
+[2023.06.17-07.00.52:097][  8]BlueprintLog: New page: Compile HUD_TTSCanvas
+[2023.06.17-07.00.52:330][  8]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2023.06.17-07.00.52:739][ 29]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/HUD/HUD_TTSCanvas" FILE="../../../../UnrealProject/TTSGame/Content/BluePrint/HUD/HUD_TTSCanvas.uasset" SILENT=true
+[2023.06.17-07.00.52:860][ 29]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/HUD_TTSCanvas6E4A1D974E1119ACFD8068B84E7B503A.tmp' to '../../../../UnrealProject/TTSGame/Content/BluePrint/HUD/HUD_TTSCanvas.uasset'
+[2023.06.17-07.00.53:448][ 64]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.17-07.00.53:479][ 64]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel' has LevelScriptBlueprint '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel.StartTown' with GeneratedClass '/Game/Asset/Maps/StartTown.StartTown_C' with ClassGeneratedBy '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel.StartTown'
+[2023.06.17-07.00.53:480][ 64]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.17-07.00.53:480][ 64]PIE: New page: PIE session: StartTown (Jun 18, 2023, 1:00:53 AM)
+[2023.06.17-07.00.53:480][ 64]LogPlayLevel: Creating play world package: /Game/Asset/Maps/UEDPIE_0_StartTown
+[2023.06.17-07.00.53:512][ 64]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031758s)
+[2023.06.17-07.00.53:513][ 64]LogAIModule: Creating AISystem for world StartTown
+[2023.06.17-07.00.53:513][ 64]LogPlayLevel: PIE: World Init took: (0.000989s)
+[2023.06.17-07.00.53:513][ 64]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Asset/Maps/StartTown.StartTown to /Game/Asset/Maps/UEDPIE_0_StartTown.StartTown (0.032912s)
+[2023.06.17-07.00.53:554][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2023.06.17-07.00.53:659][ 64]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.06.17-07.00.53:702][ 64]LogInit: FAudioDevice initialized.
+[2023.06.17-07.00.53:718][ 64]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.17-07.00.53:718][ 64]LogLoad: Game class is 'BP_TTSGameMode_C'
+[2023.06.17-07.00.53:723][ 64]LogWorld: Bringing World /Game/Asset/Maps/UEDPIE_0_StartTown.StartTown up for play (max tick rate 60) at 2023.06.17-16.00.53
+[2023.06.17-07.00.53:726][ 64]LogWorld: Bringing up level for play took: 0.006486
+[2023.06.17-07.00.53:726][ 64]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2023.06.17-07.00.53:734][ 64]PIE: Play in editor start time for /Game/Asset/Maps/UEDPIE_0_StartTown -0.199
+[2023.06.17-07.00.53:734][ 64]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel' has LevelScriptBlueprint '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel.StartTown' with GeneratedClass '/Game/Asset/Maps/StartTown.StartTown_C' with ClassGeneratedBy '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel.StartTown'
+[2023.06.17-07.00.58:293][337]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.17-07.00.58:387][342]LogSlate: Window 'TTSGame Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.06.17-07.00.58:393][342]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel' has LevelScriptBlueprint '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel.StartTown' with GeneratedClass '/Game/Asset/Maps/StartTown.StartTown_C' with ClassGeneratedBy '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel.StartTown'
+[2023.06.17-07.00.58:393][342]LogWorld: BeginTearingDown for /Game/Asset/Maps/UEDPIE_0_StartTown
+[2023.06.17-07.00.58:394][342]LogWorld: UWorld::CleanupWorld for StartTown, bSessionEnded=true, bCleanupResources=true
+[2023.06.17-07.00.58:405][342]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.17-07.00.58:405][342]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel' has LevelScriptBlueprint '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel.StartTown' with GeneratedClass '/Game/Asset/Maps/StartTown.StartTown_C' with ClassGeneratedBy '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel.StartTown'
+[2023.06.17-07.00.58:465][342]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2023.06.17-07.00.58:477][343]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2023.06.17-07.01.10:186][ 45]BlueprintLog: New page: Compile HUD_TTSCanvas
+[2023.06.17-07.01.10:402][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2023.06.17-07.01.10:713][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/HUD/HUD_TTSCanvas" FILE="../../../../UnrealProject/TTSGame/Content/BluePrint/HUD/HUD_TTSCanvas.uasset" SILENT=true
+[2023.06.17-07.01.10:828][ 61]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/HUD_TTSCanvas6C6EF480472B960D44DAF79ED8CBBAC4.tmp' to '../../../../UnrealProject/TTSGame/Content/BluePrint/HUD/HUD_TTSCanvas.uasset'
+[2023.06.17-07.01.13:519][222]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.17-07.01.13:550][222]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel' has LevelScriptBlueprint '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel.StartTown' with GeneratedClass '/Game/Asset/Maps/StartTown.StartTown_C' with ClassGeneratedBy '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel.StartTown'
+[2023.06.17-07.01.13:550][222]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.17-07.01.13:551][222]PIE: New page: PIE session: StartTown (Jun 18, 2023, 1:01:13 AM)
+[2023.06.17-07.01.13:551][222]LogPlayLevel: Creating play world package: /Game/Asset/Maps/UEDPIE_0_StartTown
+[2023.06.17-07.01.13:581][222]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031329s)
+[2023.06.17-07.01.13:582][222]LogAIModule: Creating AISystem for world StartTown
+[2023.06.17-07.01.13:582][222]LogPlayLevel: PIE: World Init took: (0.001236s)
+[2023.06.17-07.01.13:582][222]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Asset/Maps/StartTown.StartTown to /Game/Asset/Maps/UEDPIE_0_StartTown.StartTown (0.032755s)
+[2023.06.17-07.01.13:626][222]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2023.06.17-07.01.13:733][222]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.06.17-07.01.13:774][222]LogInit: FAudioDevice initialized.
+[2023.06.17-07.01.13:787][222]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.17-07.01.13:787][222]LogLoad: Game class is 'BP_TTSGameMode_C'
+[2023.06.17-07.01.13:791][222]LogWorld: Bringing World /Game/Asset/Maps/UEDPIE_0_StartTown.StartTown up for play (max tick rate 60) at 2023.06.17-16.01.13
+[2023.06.17-07.01.13:793][222]LogWorld: Bringing up level for play took: 0.004307
+[2023.06.17-07.01.13:793][222]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2023.06.17-07.01.13:801][222]PIE: Play in editor start time for /Game/Asset/Maps/UEDPIE_0_StartTown -0.131
+[2023.06.17-07.01.13:802][222]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel' has LevelScriptBlueprint '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel.StartTown' with GeneratedClass '/Game/Asset/Maps/StartTown.StartTown_C' with ClassGeneratedBy '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel.StartTown'
+[2023.06.17-07.01.42:873][648]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.06.17-07.01.42:963][651]LogSlate: Window 'TTSGame Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2023.06.17-07.01.42:979][651]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel' has LevelScriptBlueprint '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel.StartTown' with GeneratedClass '/Game/Asset/Maps/StartTown.StartTown_C' with ClassGeneratedBy '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel.StartTown'
+[2023.06.17-07.01.42:979][651]LogWorld: BeginTearingDown for /Game/Asset/Maps/UEDPIE_0_StartTown
+[2023.06.17-07.01.42:980][651]LogWorld: UWorld::CleanupWorld for StartTown, bSessionEnded=true, bCleanupResources=true
+[2023.06.17-07.01.42:991][651]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.17-07.01.42:991][651]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel' has LevelScriptBlueprint '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel.StartTown' with GeneratedClass '/Game/Asset/Maps/StartTown.StartTown_C' with ClassGeneratedBy '/Game/Asset/Maps/StartTown.StartTown:PersistentLevel.StartTown'
+[2023.06.17-07.01.43:060][651]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2023.06.17-07.01.43:293][652]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2023.06.17-07.01.47:263][851]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/Maps/StartTown" FILE="../../../../UnrealProject/TTSGame/Content/Asset/Maps/StartTown.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.06.17-07.01.47:304][851]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.06.17-07.01.47:649][851]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/StartTownB0B3522E43FC3391CE1DDDA14A90D8A4.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/Maps/StartTown.umap'
+[2023.06.17-07.01.47:716][851]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Asset/Maps/StartTown_BuiltData" FILE="../../../../UnrealProject/TTSGame/Content/Asset/Maps/StartTown_BuiltData.uasset" SILENT=true
+[2023.06.17-07.01.47:835][851]LogSavePackage: Moving '../../../../UnrealProject/TTSGame/Saved/StartTown_BuiltData4C3F46574DEE37CA3C69CDB9F3A07EE9.tmp' to '../../../../UnrealProject/TTSGame/Content/Asset/Maps/StartTown_BuiltData.uasset'
+[2023.06.17-07.05.42:564][931]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2023.06.17-07.05.42:700][931]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.06.17-07.05.42:708][931]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.06.17-07.05.42:827][931]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.06.17-07.05.42:833][931]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.06.17-07.05.42:931][931]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.06.17-07.05.43:008][931]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.06.17-07.05.43:107][931]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.06.17-07.05.43:107][931]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.06.17-07.05.43:200][931]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.06.17-07.05.43:200][931]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.06.17-07.05.43:252][931]LogSlate: Window 'TTSGame - Unreal Editor' being destroyed
+[2023.06.17-07.05.43:508][932]Cmd: QUIT_EDITOR
+[2023.06.17-07.05.44:149][932]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2023.06.17-07.05.44:178][932]LogExit: Preparing to exit.
+[2023.06.17-07.05.44:278][932]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.06.17-07.05.44:282][932]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.06.17-07.05.44:285][932]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.06.17-07.05.44:289][932]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.06.17-07.05.44:354][932]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2023.06.17-07.05.44:378][932]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.06.17-07.05.44:379][932]LogExit: Editor shut down
+[2023.06.17-07.05.44:381][932]LogExit: Transaction tracking system shut down
+[2023.06.17-07.05.44:972][932]LogExit: Object subsystem successfully closed.
+[2023.06.17-07.05.45:013][932]LogShaderCompilers: Display: Shaders left to compile 0
+[2023.06.17-07.05.45:113][932]LogModuleManager: Shutting down and abandoning module SequencerWidgets (676)
+[2023.06.17-07.05.45:113][932]LogModuleManager: Shutting down and abandoning module BlueprintGraph (674)
+[2023.06.17-07.05.45:113][932]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (672)
+[2023.06.17-07.05.45:113][932]LogModuleManager: Shutting down and abandoning module Voice (670)
+[2023.06.17-07.05.45:115][932]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (668)
+[2023.06.17-07.05.45:115][932]LogModuleManager: Shutting down and abandoning module SceneOutliner (666)
+[2023.06.17-07.05.45:115][932]LogModuleManager: Shutting down and abandoning module AddContentDialog (664)
+[2023.06.17-07.05.45:130][932]LogModuleManager: Shutting down and abandoning module WidgetCarousel (663)
+[2023.06.17-07.05.45:131][932]LogModuleManager: Shutting down and abandoning module EditorWidgets (660)
+[2023.06.17-07.05.45:131][932]LogModuleManager: Shutting down and abandoning module CollectionManager (658)
+[2023.06.17-07.05.45:132][932]LogModuleManager: Shutting down and abandoning module StatsViewer (656)
+[2023.06.17-07.05.45:134][932]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (654)
+[2023.06.17-07.05.45:134][932]LogModuleManager: Shutting down and abandoning module FoliageEdit (652)
+[2023.06.17-07.05.45:134][932]LogModuleManager: Shutting down and abandoning module LandscapeEditor (650)
+[2023.06.17-07.05.45:137][932]LogModuleManager: Shutting down and abandoning module MeshPaintMode (648)
+[2023.06.17-07.05.45:137][932]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (646)
+[2023.06.17-07.05.45:137][932]LogModuleManager: Shutting down and abandoning module ActorPickerMode (644)
+[2023.06.17-07.05.45:137][932]LogModuleManager: Shutting down and abandoning module GeometryMode (642)
+[2023.06.17-07.05.45:137][932]LogModuleManager: Shutting down and abandoning module TextureAlignMode (640)
+[2023.06.17-07.05.45:137][932]LogModuleManager: Shutting down and abandoning module BspMode (638)
+[2023.06.17-07.05.45:137][932]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (636)
+[2023.06.17-07.05.45:139][932]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (634)
+[2023.06.17-07.05.45:139][932]LogModuleManager: Shutting down and abandoning module AutomationWorker (632)
+[2023.06.17-07.05.45:139][932]LogModuleManager: Shutting down and abandoning module OculusMR (630)
+[2023.06.17-07.05.45:139][932]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (628)
+[2023.06.17-07.05.45:140][932]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (626)
+[2023.06.17-07.05.45:141][932]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (624)
+[2023.06.17-07.05.45:143][932]LogModuleManager: Shutting down and abandoning module PlacementMode (623)
+[2023.06.17-07.05.45:143][932]LogModuleManager: Shutting down and abandoning module MaterialEditor (622)
+[2023.06.17-07.05.45:144][932]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (618)
+[2023.06.17-07.05.45:145][932]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (616)
+[2023.06.17-07.05.45:145][932]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (614)
+[2023.06.17-07.05.45:145][932]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (612)
+[2023.06.17-07.05.45:145][932]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (610)
+[2023.06.17-07.05.45:145][932]LogModuleManager: Shutting down and abandoning module WebMMedia (608)
+[2023.06.17-07.05.45:146][932]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (606)
+[2023.06.17-07.05.45:147][932]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (604)
+[2023.06.17-07.05.45:149][932]LogModuleManager: Shutting down and abandoning module SequenceRecorder (603)
+[2023.06.17-07.05.45:149][932]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (600)
+[2023.06.17-07.05.45:149][932]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (598)
+[2023.06.17-07.05.45:149][932]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (596)
+[2023.06.17-07.05.45:149][932]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (594)
+[2023.06.17-07.05.45:149][932]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (592)
+[2023.06.17-07.05.45:149][932]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (590)
+[2023.06.17-07.05.45:149][932]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (588)
+[2023.06.17-07.05.45:149][932]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (586)
+[2023.06.17-07.05.45:149][932]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (584)
+[2023.06.17-07.05.45:149][932]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (582)
+[2023.06.17-07.05.45:149][932]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (580)
+[2023.06.17-07.05.45:149][932]LogModuleManager: Shutting down and abandoning module CharacterAI (578)
+[2023.06.17-07.05.45:149][932]LogModuleManager: Shutting down and abandoning module SmartSnapping (576)
+[2023.06.17-07.05.45:149][932]LogModuleManager: Shutting down and abandoning module SessionServices (574)
+[2023.06.17-07.05.45:149][932]LogModuleManager: Shutting down and abandoning module MeshPaint (572)
+[2023.06.17-07.05.45:150][932]LogModuleManager: Shutting down and abandoning module ViewportSnapping (570)
+[2023.06.17-07.05.45:150][932]LogModuleManager: Shutting down and abandoning module ViewportInteraction (568)
+[2023.06.17-07.05.45:150][932]LogModuleManager: Shutting down and abandoning module ClothPainter (566)
+[2023.06.17-07.05.45:152][932]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (565)
+[2023.06.17-07.05.45:155][932]LogModuleManager: Shutting down and abandoning module LogVisualizer (562)
+[2023.06.17-07.05.45:157][932]LogModuleManager: Shutting down and abandoning module IntroTutorials (560)
+[2023.06.17-07.05.45:157][932]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (559)
+[2023.06.17-07.05.45:158][932]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (556)
+[2023.06.17-07.05.45:158][932]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (554)
+[2023.06.17-07.05.45:158][932]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (552)
+[2023.06.17-07.05.45:158][932]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (550)
+[2023.06.17-07.05.45:158][932]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (549)
+[2023.06.17-07.05.46:124][932]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (546)
+[2023.06.17-07.05.46:124][932]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (544)
+[2023.06.17-07.05.46:125][932]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (542)
+[2023.06.17-07.05.46:125][932]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (540)
+[2023.06.17-07.05.46:125][932]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (538)
+[2023.06.17-07.05.46:125][932]LogModuleManager: Shutting down and abandoning module InputBindingEditor (536)
+[2023.06.17-07.05.46:128][932]LogModuleManager: Shutting down and abandoning module MergeActors (534)
+[2023.06.17-07.05.46:130][932]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (532)
+[2023.06.17-07.05.46:131][932]LogModuleManager: Shutting down and abandoning module LocalizationService (531)
+[2023.06.17-07.05.46:133][932]LogModuleManager: Shutting down and abandoning module HardwareTargeting (528)
+[2023.06.17-07.05.46:133][932]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (526)
+[2023.06.17-07.05.46:133][932]LogModuleManager: Shutting down and abandoning module UndoHistory (524)
+[2023.06.17-07.05.46:134][932]LogModuleManager: Shutting down and abandoning module XmlParser (522)
+[2023.06.17-07.05.46:135][932]LogModuleManager: Shutting down and abandoning module Blutility (520)
+[2023.06.17-07.05.46:135][932]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (518)
+[2023.06.17-07.05.46:135][932]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (517)
+[2023.06.17-07.05.46:135][932]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (514)
+[2023.06.17-07.05.46:135][932]LogModuleManager: Shutting down and abandoning module SettingsEditor (512)
+[2023.06.17-07.05.46:136][932]LogModuleManager: Shutting down and abandoning module ProjectLauncher (510)
+[2023.06.17-07.05.46:137][932]LogModuleManager: Shutting down and abandoning module SessionFrontend (508)
+[2023.06.17-07.05.46:138][932]LogModuleManager: Shutting down and abandoning module ProfilerClient (506)
+[2023.06.17-07.05.46:138][932]LogModuleManager: Shutting down and abandoning module DeviceManager (504)
+[2023.06.17-07.05.46:139][932]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (503)
+[2023.06.17-07.05.46:173][932]LogModuleManager: Shutting down and abandoning module AutomationController (500)
+[2023.06.17-07.05.46:174][932]LogModuleManager: Shutting down and abandoning module AutomationWindow (498)
+[2023.06.17-07.05.46:175][932]LogModuleManager: Shutting down and abandoning module Layers (496)
+[2023.06.17-07.05.46:175][932]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (494)
+[2023.06.17-07.05.46:175][932]LogModuleManager: Shutting down and abandoning module DetailCustomizations (492)
+[2023.06.17-07.05.46:175][932]LogModuleManager: Shutting down and abandoning module PackagesDialog (490)
+[2023.06.17-07.05.46:176][932]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (488)
+[2023.06.17-07.05.46:178][932]LogModuleManager: Shutting down and abandoning module Persona (486)
+[2023.06.17-07.05.46:179][932]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (485)
+[2023.06.17-07.05.46:179][932]LogModuleManager: Shutting down and abandoning module AnimGraph (483)
+[2023.06.17-07.05.46:179][932]LogModuleManager: Shutting down and abandoning module Kismet (480)
+[2023.06.17-07.05.46:187][932]LogModuleManager: Shutting down and abandoning module KismetWidgets (479)
+[2023.06.17-07.05.46:188][932]LogModuleManager: Shutting down and abandoning module GraphEditor (476)
+[2023.06.17-07.05.46:188][932]LogModuleManager: Shutting down and abandoning module StructViewer (474)
+[2023.06.17-07.05.46:188][932]LogModuleManager: Shutting down and abandoning module ClassViewer (472)
+[2023.06.17-07.05.46:188][932]LogModuleManager: Shutting down and abandoning module Toolbox (470)
+[2023.06.17-07.05.46:188][932]LogModuleManager: Shutting down and abandoning module ModuleUI (468)
+[2023.06.17-07.05.46:189][932]LogModuleManager: Shutting down and abandoning module MovieSceneTools (466)
+[2023.06.17-07.05.46:190][932]LogModuleManager: Shutting down and abandoning module OutputLog (464)
+[2023.06.17-07.05.46:190][932]LogModuleManager: Shutting down and abandoning module GammaUI (462)
+[2023.06.17-07.05.46:191][932]LogModuleManager: Shutting down and abandoning module Documentation (460)
+[2023.06.17-07.05.46:192][932]LogModuleManager: Shutting down and abandoning module LiveCoding (458)
+[2023.06.17-07.05.46:194][932]LogModuleManager: Shutting down and abandoning module LevelSequence (456)
+[2023.06.17-07.05.46:194][932]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (454)
+[2023.06.17-07.05.46:194][932]LogModuleManager: Shutting down and abandoning module MovieScene (452)
+[2023.06.17-07.05.46:194][932]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (450)
+[2023.06.17-07.05.46:195][932]LogModuleManager: Shutting down and abandoning module LauncherPlatform (448)
+[2023.06.17-07.05.46:195][932]LogModuleManager: Shutting down and abandoning module AnalyticsET (446)
+[2023.06.17-07.05.46:195][932]LogModuleManager: Shutting down and abandoning module PortalServices (444)
+[2023.06.17-07.05.46:195][932]LogModuleManager: Shutting down and abandoning module PortalRpc (442)
+[2023.06.17-07.05.46:195][932]LogModuleManager: Shutting down and abandoning module MessagingRpc (440)
+[2023.06.17-07.05.46:195][932]LogModuleManager: Shutting down and abandoning module AIModule (438)
+[2023.06.17-07.05.46:195][932]LogModuleManager: Shutting down and abandoning module GameplayDebugger (437)
+[2023.06.17-07.05.46:195][932]LogModuleManager: Shutting down and abandoning module AITestSuite (435)
+[2023.06.17-07.05.46:195][932]LogModuleManager: Shutting down and abandoning module NavigationSystem (433)
+[2023.06.17-07.05.46:195][932]LogModuleManager: Shutting down and abandoning module DesktopPlatform (430)
+[2023.06.17-07.05.46:195][932]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (428)
+[2023.06.17-07.05.46:199][932]LogModuleManager: Shutting down and abandoning module ProfilerService (426)
+[2023.06.17-07.05.46:392][932]LogModuleManager: Shutting down and abandoning module TaskGraph (424)
+[2023.06.17-07.05.46:393][932]LogModuleManager: Shutting down and abandoning module ScreenshotTools (422)
+[2023.06.17-07.05.46:393][932]LogModuleManager: Shutting down and abandoning module SteamVRController (420)
+[2023.06.17-07.05.46:393][932]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (418)
+[2023.06.17-07.05.46:393][932]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (416)
+[2023.06.17-07.05.46:393][932]LogModuleManager: Shutting down and abandoning module OculusEditor (414)
+[2023.06.17-07.05.46:393][932]LogModuleManager: Shutting down and abandoning module OculusInput (412)
+[2023.06.17-07.05.46:393][932]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (410)
+[2023.06.17-07.05.46:393][932]LogModuleManager: Shutting down and abandoning module EditableMesh (408)
+[2023.06.17-07.05.46:394][932]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (406)
+[2023.06.17-07.05.46:394][932]LogModuleManager: Shutting down and abandoning module CableComponent (404)
+[2023.06.17-07.05.46:394][932]LogModuleManager: Shutting down and abandoning module AudioCapture (402)
+[2023.06.17-07.05.46:394][932]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (400)
+[2023.06.17-07.05.46:394][932]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (398)
+[2023.06.17-07.05.46:394][932]LogModuleManager: Shutting down and abandoning module AppleImageUtils (396)
+[2023.06.17-07.05.46:394][932]LogModuleManager: Shutting down and abandoning module AndroidPermission (394)
+[2023.06.17-07.05.46:394][932]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (392)
+[2023.06.17-07.05.46:394][932]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (390)
+[2023.06.17-07.05.46:396][932]LogModuleManager: Shutting down and abandoning module MediaCompositing (388)
+[2023.06.17-07.05.46:396][932]LogModuleManager: Shutting down and abandoning module ImgMedia (386)
+[2023.06.17-07.05.46:396][932]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (384)
+[2023.06.17-07.05.46:396][932]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (382)
+[2023.06.17-07.05.46:396][932]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (380)
+[2023.06.17-07.05.46:397][932]LogModuleManager: Shutting down and abandoning module HTML5Networking (378)
+[2023.06.17-07.05.46:397][932]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (376)
+[2023.06.17-07.05.46:397][932]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (374)
+[2023.06.17-07.05.46:397][932]LogModuleManager: Shutting down and abandoning module BackChannel (372)
+[2023.06.17-07.05.46:398][932]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (370)
+[2023.06.17-07.05.46:398][932]LogModuleManager: Shutting down and abandoning module AutomationUtils (368)
+[2023.06.17-07.05.46:398][932]LogModuleManager: Shutting down and abandoning module AlembicImporter (366)
+[2023.06.17-07.05.46:398][932]LogModuleManager: Shutting down and abandoning module AlembicLibrary (365)
+[2023.06.17-07.05.46:398][932]LogModuleManager: Shutting down and abandoning module GeometryCache (364)
+[2023.06.17-07.05.46:398][932]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (363)
+[2023.06.17-07.05.46:398][932]LogModuleManager: Shutting down and abandoning module VariantManagerContent (358)
+[2023.06.17-07.05.46:398][932]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (356)
+[2023.06.17-07.05.46:399][932]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (354)
+[2023.06.17-07.05.46:399][932]LogModuleManager: Shutting down and abandoning module PluginBrowser (352)
+[2023.06.17-07.05.46:402][932]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (350)
+[2023.06.17-07.05.46:402][932]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (348)
+[2023.06.17-07.05.46:402][932]LogModuleManager: Shutting down and abandoning module CurveEditorTools (346)
+[2023.06.17-07.05.46:402][932]LogModuleManager: Shutting down and abandoning module CurveEditor (345)
+[2023.06.17-07.05.46:402][932]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (342)
+[2023.06.17-07.05.46:402][932]LogModuleManager: Shutting down and abandoning module CryptoKeys (340)
+[2023.06.17-07.05.46:402][932]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (338)
+[2023.06.17-07.05.46:402][932]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (336)
+[2023.06.17-07.05.46:402][932]LogModuleManager: Shutting down and abandoning module UObjectPlugin (334)
+[2023.06.17-07.05.46:402][932]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (332)
+[2023.06.17-07.05.46:403][932]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (330)
+[2023.06.17-07.05.46:405][932]LogModuleManager: Shutting down and abandoning module GitSourceControl (328)
+[2023.06.17-07.05.46:406][932]LogModuleManager: Shutting down and abandoning module SourceControl (327)
+[2023.06.17-07.05.46:406][932]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (324)
+[2023.06.17-07.05.46:406][932]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (322)
+[2023.06.17-07.05.46:406][932]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (320)
+[2023.06.17-07.05.46:406][932]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (318)
+[2023.06.17-07.05.46:406][932]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (316)
+[2023.06.17-07.05.46:406][932]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (314)
+[2023.06.17-07.05.46:406][932]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (312)
+[2023.06.17-07.05.46:406][932]LogModuleManager: Shutting down and abandoning module Paper2DEditor (310)
+[2023.06.17-07.05.46:409][932]LogModuleManager: Shutting down and abandoning module SignificanceManager (308)
+[2023.06.17-07.05.46:409][932]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (306)
+[2023.06.17-07.05.46:409][932]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (304)
+[2023.06.17-07.05.46:409][932]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (300)
+[2023.06.17-07.05.46:409][932]LogModuleManager: Shutting down and abandoning module ActorSequence (298)
+[2023.06.17-07.05.46:409][932]LogModuleManager: Shutting down and abandoning module UdpMessaging (296)
+[2023.06.17-07.05.46:510][932]LogModuleManager: Shutting down and abandoning module TcpMessaging (294)
+[2023.06.17-07.05.46:611][932]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (292)
+[2023.06.17-07.05.46:611][932]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (290)
+[2023.06.17-07.05.46:611][932]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (288)
+[2023.06.17-07.05.46:611][932]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (286)
+[2023.06.17-07.05.46:612][932]LogModuleManager: Shutting down and abandoning module MagicLeapController (284)
+[2023.06.17-07.05.46:612][932]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.06.17-07.05.46:612][932]LogModuleManager: Shutting down and abandoning module MagicLeapAR (282)
+[2023.06.17-07.05.46:613][932]LogModuleManager: Shutting down and abandoning module AugmentedReality (281)
+[2023.06.17-07.05.46:613][932]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2023.06.17-07.05.46:613][932]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2023.06.17-07.05.46:613][932]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2023.06.17-07.05.46:613][932]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2023.06.17-07.05.46:613][932]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2023.06.17-07.05.46:615][932]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2023.06.17-07.05.46:618][932]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2023.06.17-07.05.46:619][932]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2023.06.17-07.05.46:619][932]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2023.06.17-07.05.46:620][932]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2023.06.17-07.05.46:621][932]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2023.06.17-07.05.46:632][932]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2023.06.17-07.05.46:632][932]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2023.06.17-07.05.46:632][932]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2023.06.17-07.05.46:632][932]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2023.06.17-07.05.46:633][932]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2023.06.17-07.05.46:636][932]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2023.06.17-07.05.46:637][932]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2023.06.17-07.05.46:637][932]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2023.06.17-07.05.46:637][932]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2023.06.17-07.05.46:637][932]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2023.06.17-07.05.46:638][932]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2023.06.17-07.05.46:638][932]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2023.06.17-07.05.46:638][932]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2023.06.17-07.05.46:638][932]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2023.06.17-07.05.46:639][932]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2023.06.17-07.05.46:640][932]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2023.06.17-07.05.46:640][932]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2023.06.17-07.05.46:642][932]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2023.06.17-07.05.46:643][932]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2023.06.17-07.05.46:644][932]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2023.06.17-07.05.46:645][932]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2023.06.17-07.05.46:645][932]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2023.06.17-07.05.46:645][932]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2023.06.17-07.05.46:645][932]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2023.06.17-07.05.46:645][932]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2023.06.17-07.05.46:648][932]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2023.06.17-07.05.46:648][932]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2023.06.17-07.05.46:648][932]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2023.06.17-07.05.46:651][932]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2023.06.17-07.05.46:651][932]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2023.06.17-07.05.46:651][932]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2023.06.17-07.05.46:651][932]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2023.06.17-07.05.46:651][932]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2023.06.17-07.05.46:651][932]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2023.06.17-07.05.46:651][932]LogModuleManager: Shutting down and abandoning module Core (186)
+[2023.06.17-07.05.46:651][932]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2023.06.17-07.05.46:651][932]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2023.06.17-07.05.46:651][932]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2023.06.17-07.05.46:652][932]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2023.06.17-07.05.46:652][932]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2023.06.17-07.05.46:653][932]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2023.06.17-07.05.46:654][932]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2023.06.17-07.05.46:654][932]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2023.06.17-07.05.46:655][932]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2023.06.17-07.05.46:655][932]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2023.06.17-07.05.46:655][932]LogDerivedDataCache: Shutdown
+[2023.06.17-07.05.46:655][932]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2023.06.17-07.05.46:655][932]LogXGEController: Cleaning working directory: C:/Users/kimminwoong/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2023.06.17-07.05.46:656][932]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2023.06.17-07.05.46:656][932]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2023.06.17-07.05.46:657][932]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2023.06.17-07.05.46:657][932]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2023.06.17-07.05.46:658][932]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2023.06.17-07.05.46:658][932]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2023.06.17-07.05.46:659][932]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2023.06.17-07.05.46:659][932]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2023.06.17-07.05.46:659][932]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2023.06.17-07.05.46:660][932]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2023.06.17-07.05.46:660][932]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2023.06.17-07.05.46:660][932]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2023.06.17-07.05.46:660][932]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2023.06.17-07.05.46:660][932]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2023.06.17-07.05.46:661][932]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2023.06.17-07.05.46:661][932]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2023.06.17-07.05.46:661][932]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2023.06.17-07.05.46:678][932]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2023.06.17-07.05.46:678][932]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2023.06.17-07.05.46:679][932]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2023.06.17-07.05.46:679][932]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2023.06.17-07.05.46:679][932]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2023.06.17-07.05.46:684][932]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2023.06.17-07.05.46:684][932]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2023.06.17-07.05.46:688][932]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2023.06.17-07.05.46:688][932]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2023.06.17-07.05.46:719][932]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2023.06.17-07.05.46:719][932]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2023.06.17-07.05.46:719][932]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2023.06.17-07.05.46:719][932]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2023.06.17-07.05.46:719][932]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2023.06.17-07.05.46:719][932]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2023.06.17-07.05.46:719][932]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2023.06.17-07.05.46:719][932]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2023.06.17-07.05.46:719][932]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2023.06.17-07.05.46:719][932]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2023.06.17-07.05.46:719][932]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2023.06.17-07.05.46:719][932]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2023.06.17-07.05.46:724][932]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2023.06.17-07.05.46:724][932]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2023.06.17-07.05.46:724][932]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2023.06.17-07.05.46:725][932]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2023.06.17-07.05.46:725][932]LogHMD: Freeing OpenVRDLLHandle.
+[2023.06.17-07.05.46:725][932]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2023.06.17-07.05.46:726][932]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2023.06.17-07.05.46:726][932]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2023.06.17-07.05.46:726][932]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2023.06.17-07.05.46:726][932]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2023.06.17-07.05.46:727][932]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2023.06.17-07.05.46:729][932]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2023.06.17-07.05.46:741][932]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2023.06.17-07.05.46:741][932]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2023.06.17-07.05.46:741][932]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B984EFDE6-4926-77AC-AD95-5AB6753D4D36%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=d3574cf244cc528680ea9baf8cc75a24%7Ce14f188ddc854a33b6cb1272929a2fe2%7C823acc21-f26c-4d66-9432-bee44d06cb19&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2023.06.17-07.05.46:755][932]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2023.06.17-07.05.46:757][932]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2023.06.17-07.05.46:760][932]LogModuleManager: Shutting down and abandoning module Media (51)
+[2023.06.17-07.05.46:761][932]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2023.06.17-07.05.46:762][932]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2023.06.17-07.05.46:762][932]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2023.06.17-07.05.46:762][932]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2023.06.17-07.05.46:763][932]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2023.06.17-07.05.46:763][932]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2023.06.17-07.05.46:764][932]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2023.06.17-07.05.46:766][932]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2023.06.17-07.05.46:767][932]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2023.06.17-07.05.46:768][932]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2023.06.17-07.05.46:768][932]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2023.06.17-07.05.46:768][932]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2023.06.17-07.05.46:771][932]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2023.06.17-07.05.46:773][932]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2023.06.17-07.05.46:773][932]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2023.06.17-07.05.46:773][932]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2023.06.17-07.05.46:773][932]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2023.06.17-07.05.46:773][932]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2023.06.17-07.05.46:773][932]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2023.06.17-07.05.46:774][932]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2023.06.17-07.05.46:774][932]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2023.06.17-07.05.46:774][932]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2023.06.17-07.05.46:774][932]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2023.06.17-07.05.46:775][932]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2023.06.17-07.05.46:775][932]LogD3D11RHI: Shutdown
+[2023.06.17-07.05.46:776][932]LogD3D11RHI: CleanupD3DDevice
+[2023.06.17-07.05.46:780][932]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2023.06.17-07.05.46:780][932]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2023.06.17-07.05.46:780][932]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2023.06.17-07.05.46:915][932]LogD3D11RHI: ~FD3D11DynamicRHI
+[2023.06.17-07.05.46:925][932]LogExit: Exiting.
+[2023.06.17-07.05.46:941][932]Log file closed, 06/17/23 16:05:46
